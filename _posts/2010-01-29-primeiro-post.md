@@ -1,0 +1,17 @@
+---
+title:  "Primeiro post"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+categories: 
+  - PhD
+tags:
+  - phd
+---
+
+&lt;a href="http://www.phdcomics.com/comics/archive.php?comicid=830"&gt;
+&lt;img class="alignnone" title="Life work" src="http://www.phdcomics.com/comics/archive/phd022807s.gif" alt="Life work at PhD Comics" width="600" height="260" /&gt;
+&lt;/a&gt;
+
+Nada melhor do que inaugurar, ou reinaugurar, um blog do que com post sobre o primeiro passo em direção ao uma vida quase normal...
+
+Finalmente, após quase cinco anos de muita luta, sofrimento e claro, trabalho... muito trabalho... a tese foi impressa e entregue na secretaria da pós-gradação. Defesa marcada, tese impressa e a caminho dos membros da banca. Agora é preparar a apresentação da defesa, afiar o discurso e esperar pela madeirada.
