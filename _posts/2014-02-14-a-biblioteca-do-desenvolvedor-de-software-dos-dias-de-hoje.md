@@ -5,7 +5,9 @@ header:
 categories: 
   - education
 tags:
-  - literature, software engineering, software development
+  - literature
+  - software engineering
+  - software development
 ---
 
 Desde que comecei a me envolver com a Engenharia de Software, sempre foi difícil definir ou classificar os “_skills_” necessários a um engenheiro de software. E esse tipo de discussão sempre me levava para a área de saúde, mais especificamente para a medicina. Afinal de contas, são tantas especializações, tantos “_microuniversos_” que se assemelhava muito ao que vemos na Engenharia de Software (ES).

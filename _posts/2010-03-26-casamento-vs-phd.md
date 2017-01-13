@@ -5,7 +5,8 @@ header:
 categories: 
   - comic
 tags:
-  - phd, casamento
+  - phd
+  - casamento
 ---
 
 [![Marriage vs The PhD at PhD Comics](https://www.phdcomics.com/comics/archive/phd032410s.gif "Marriage vs The PhD")](http://www.phdcomics.com/comics.php?f=1296)

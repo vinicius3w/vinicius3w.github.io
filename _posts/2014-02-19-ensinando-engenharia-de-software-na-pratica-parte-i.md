@@ -5,7 +5,12 @@ header:
 categories: 
   - education
 tags:
-  - software engineering, cloud computing, ensino, saas, swebok, engenharia de software
+  - software engineering
+  - cloud computing
+  - ensino
+  - saas
+  - swebok
+  - engenharia de software
 ---
 Dando continuidade no tema de _Educação em Engenharia de Software_ ou_ Como formar Capital Humano **EFICIENTE** em Produção de Software_, vem o segundo post da série. O primeiro você pode conferir aqui: [A biblioteca do Desenvolvedor de Software dos dias de hoje](https://viniciusgarcia.com/2014/02/14/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/).
 

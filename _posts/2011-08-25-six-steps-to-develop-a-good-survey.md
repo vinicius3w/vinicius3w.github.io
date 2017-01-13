@@ -5,7 +5,8 @@ header:
 categories: 
   - research
 tags:
-  - survey, literature review
+  - survey
+  - literature review
 ---
 
 Often, we researchers and scientists have to understand, evaluate, and learn different methods, processes, techniques, technologies, and so on. We [discussed previously the importance of empirical studies in the area](http://worldofreuse.blogspot.com/2008/07/empirical-studies-on-software-and.html). On the other hand, another important and probable the most used research method are Surveys.
