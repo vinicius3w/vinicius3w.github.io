@@ -12,15 +12,15 @@ Pós-Graduação em Ciência da Computação – UFPE
 
 Defesa de Tese de Doutorado N° 134
 
-Aluno:  &lt;strong&gt;Vinicius Cardoso Garcia&lt;/strong&gt;
+Aluno:  **Vinicius Cardoso Garcia**
 
 Orientador: Prof. Silvio Romero de Lemos Meira
 
-Título: &lt;strong&gt;RiSE Reference Model for Software Reuse Adoption in Brazilian Companies&lt;/strong&gt;
+Título: **RiSE Reference Model for Software Reuse Adoption in Brazilian Companies**
 
-Data: &lt;strong&gt;26/02/2010&lt;/strong&gt;
+Data: **26/02/2010**
 
-Hora/Local:  &lt;strong&gt;9:00h – Anfiteatro&lt;/strong&gt;
+Hora/Local:  **09:00h – Anfiteatro**
 
 Banca Examinadora:
 
@@ -36,14 +36,14 @@ Prof. Jones Albuquerque (DEINFO/UFRPE)
 
 RESUMO
 
-&lt;em&gt;Muitas empresas estão planejando investir ou já investiram dinheiro, tempo e recursos no reúso de software. Com esse investimento, essas empresas esperam melhorar a sua competitividade no mercado por meio da de custos e aumentar a produtividade e melhorar a qualidade e a conﬁabilidade dos produtos de software desenvolvidos.&lt;/em&gt;
+*Muitas empresas estão planejando investir ou já investiram dinheiro, tempo e recursos no reúso de software. Com esse investimento, essas empresas esperam melhorar a sua competitividade no mercado por meio da de custos e aumentar a produtividade e melhorar a qualidade e a conﬁabilidade dos produtos de software desenvolvidos.*
 
-&lt;em&gt;Um problema comum é que as abordagens de reúso nas organizações são consideradas normalmente como um problema de adoção tecnológica (ambientes e ferramentas) e de processos, que focam nos aspectos técnicos do reúso.&lt;/em&gt;
+*Um problema comum é que as abordagens de reúso nas organizações são consideradas normalmente como um problema de adoção tecnológica (ambientes e ferramentas) e de processos, que focam nos aspectos técnicos do reúso.*
 
-&lt;em&gt;Neste cenário, processos de adoção de reúso - ou estratégias, modelos ou programas - têm se destacado na área como um facilitador para obter os benefícios associados ao reúso de software. No entanto, os processos existentes apresentam alguns problemas cruciais, como, por exemplo, serem fortemente relacionados a tecnologias especíﬁcas; demandarem um alto investimento inicial; além de não deﬁnirem de forma sistemática e suﬁcientemente detalhada as atividades, papéis, entradas e as saídas de todo o processo.&lt;/em&gt;
+*Neste cenário, processos de adoção de reúso - ou estratégias, modelos ou programas - têm se destacado na área como um facilitador para obter os benefícios associados ao reúso de software. No entanto, os processos existentes apresentam alguns problemas cruciais, como, por exemplo, serem fortemente relacionados a tecnologias especíﬁcas; demandarem um alto investimento inicial; além de não deﬁnirem de forma sistemática e suﬁcientemente detalhada as atividades, papéis, entradas e as saídas de todo o processo.*
 
-&lt;em&gt;Assim, este trabalho propõe um modelo de referência de reuso de software para auxiliar no processos de adoção e avaliação da capacidade de reúso nas organizações, baseado no estado da arte e da prática da área. Essa deﬁnição foi embasada por estudos detalhados sobre processos de adoção de reúso, modelos de referência de reúso e métodos de avaliação de capacidade em reutilização, envolvendo pesquisas informais, estudos empíricos e relatos de empresas.&lt;/em&gt;
+*Assim, este trabalho propõe um modelo de referência de reuso de software para auxiliar no processos de adoção e avaliação da capacidade de reúso nas organizações, baseado no estado da arte e da prática da área. Essa deﬁnição foi embasada por estudos detalhados sobre processos de adoção de reúso, modelos de referência de reúso e métodos de avaliação de capacidade em reutilização, envolvendo pesquisas informais, estudos empíricos e relatos de empresas.*
 
-&lt;em&gt;Com esta tese, pretende-se demonstrar que é possível estabelecer, para as empresas que desejam adotar reúso, um caminho mais seguro e com menores riscos e custos do que uma estratégia de reúso ad-hoc. Neste cenário, espera-se alcançar os seguintes objetivos: (i) aperfeiçoar o desempenho de alguns aspectos do desenvolvimento por meio de práticas de reúso (custo, qualidade, produtividade, competitividade da organização, entre outros); e (ii) redução dos riscos na adoção e/ou aperfeiçoamento de um programa de reúso, dando suporte a um processo incremental. &lt;/em&gt;
+*Com esta tese, pretende-se demonstrar que é possível estabelecer, para as empresas que desejam adotar reúso, um caminho mais seguro e com menores riscos e custos do que uma estratégia de reúso ad-hoc. Neste cenário, espera-se alcançar os seguintes objetivos: (i) aperfeiçoar o desempenho de alguns aspectos do desenvolvimento por meio de práticas de reúso (custo, qualidade, produtividade, competitividade da organização, entre outros); e (ii) redução dos riscos na adoção e/ou aperfeiçoamento de um programa de reúso, dando suporte a um processo incremental.*
 
-&lt;em&gt;&lt;strong&gt;Palavras chave&lt;/strong&gt;&lt;/em&gt;: Adoção de Reúso de Software, Avaliação de Reúso de Software, Modelo de Maturidade, Transferência de Tecnologia
+**Palavras chave**: Adoção de Reúso de Software, Avaliação de Reúso de Software, Modelo de Maturidade, Transferência de Tecnologia.
