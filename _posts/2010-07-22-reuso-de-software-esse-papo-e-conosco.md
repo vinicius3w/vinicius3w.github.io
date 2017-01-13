@@ -10,5 +10,4 @@ tags:
 
 Equipe da RiSE fala sobre os conceitos de reuso de software e sobre as ferramentas desenvolvidas: BART, CORE, LIFT e TOOLDAY.
 
-[youtube=http://www.youtube.com/watch?v=fwuSjYFDkKc]
 [![RiSE - Reuso de Software - O começo...](https://img.youtube.com/vi/fwuSjYFDkKc/0.jpg)](http://www.youtube.com/watch?v=fwuSjYFDkKc)
