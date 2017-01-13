@@ -5,7 +5,12 @@ header:
 categories: 
   - education
 tags:
-  - software engineering, cloud computing, ensino, saas, swebok, engenharia de software
+  - software engineering
+  - cloud computing
+  - ensino
+  - saas
+  - swebok
+  - engenharia de software
 ---
 
 Depois de alguns meses entretido com outros desafios, minhas atenções voltaram para a construção da nova abordagem de abordar _Educação em Engenharia de Software_ ou_ Como formar Capital Humano **EFICIENTE** em Produção de Software._
