@@ -8,9 +8,7 @@ tags:
   - phd
 ---
 
-&lt;a href="http://www.phdcomics.com/comics/archive.php?comicid=830"&gt;
-&lt;img class="alignnone" title="Life work" src="http://www.phdcomics.com/comics/archive/phd022807s.gif" alt="Life work at PhD Comics" width="600" height="260" /&gt;
-&lt;/a&gt;
+[![Life work at PhD Comics](http://www.phdcomics.com/comics/archive/phd022807s.gif "Life work")](http://www.phdcomics.com/comics/archive.php?comicid=830)
 
 Nada melhor do que inaugurar, ou reinaugurar, um blog do que com post sobre o primeiro passo em direção ao uma vida quase normal...
 
