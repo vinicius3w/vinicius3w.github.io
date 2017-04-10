@@ -16,8 +16,6 @@ Av. Jornalista Anibal Fernandes s/n – Cidade Universitária (Campus Recife), 5
 
 Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
-*@: vcg (at) cin (dot) ufpe (dot) br*
-
 ## Academic Degrees ##
 
 - Senior Research Scientist at [Ustore](http://www.ustore.com.br), 2013~2017
