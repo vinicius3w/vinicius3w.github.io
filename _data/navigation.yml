@@ -14,6 +14,6 @@ main:
 
   - title: "Courses"
     url: /courses/
-    
-  - title: "Activities"
-    url: /activities/
+
+  - title: "Personal Books"
+    url: /personalbooks/
