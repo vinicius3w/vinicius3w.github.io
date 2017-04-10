@@ -5,7 +5,7 @@ title: "Home"
 
 {% include base_path %}
 
-##Academic Degrees
+## Academic Degrees ##
 
 - Senior Research Scientist at [Ustore](http://www.ustore.com.br), 2013~2017
 - Institutional Representative (RI) of the [Brazilian Computer Society](http://www.sbc.org.br) – [UFPE (Federal University of Pernambuco)](http://www.ufpe.br), since 2011
@@ -20,7 +20,7 @@ title: "Home"
 - M.Sc. in Computer Science, 2005, at [Computer Departement](http://www.dc.ufscar.br) of [Federal University of São Carlos](http://www.ufscar.br), São Carlos, São Paulo, Brazil. Advisor: Antonio Francisco do Prado
 - B.Sc. in Computer Science, 2000, at [Salvador University (UNIFACS)](http://www.unifacs.br), Salvador, Bahia, Brazil. Advisor: Antonio Carlos Fontes Atta
 
-##Awards
+## Awards ##
 
 - [Honored Professor](https://goo.gl/photos/7VgfFuFpPyqXyJ3Q7), Class of Information Systems (B.Sc.), [CIn (Informatic Center)](http://www.cin.ufpe.br) of [UFPE (Federal University of Pernambuco)](http://www.ufpe.br), 2016 - 2017
 - [Honored Professor (Paraninfo)](https://goo.gl/photos/f7tLnSzgUTEdcCteA), Class of Information Systems (B.Sc.), [CIn (Informatic Center)](http://www.cin.ufpe.br) of [UFPE (Federal University of Pernambuco)](http://www.ufpe.br), 2016.2
@@ -32,13 +32,13 @@ title: "Home"
 - Reuse in Software Engineering (RiSE),(in portuguese), among the ten best business plans, Intel + UC Berkeley Technology Entrepreneurship Challenge, Brazilian Contest (FGV-CEPE), São Paulo, Brazil, 2007.
 - A CASE tool for Aspect-Oriented Software Development (in portuguese), is among the three best tools in the XI Tools Session – XVIII Brazilian Symposium on Software Engineering (SBES Conference), Sociedade Brasileira de Computação (SBC), Brasília-DF, Brazil, 2004.
 
-##Computer Societies Membership
+## Computer Societies Membership ##
 
 - [Brazilian Computer Society](http://www.sbc.org.br/) Member since 2002, (Nr: 11919)
 - [IEEE](http://www.ieee.org/) and [IEEE Computer Society](http://www.ieee.org/) Member since 2008, (Nr: 90544198)
 - [IASA – The Global IT Architect Association](http://www.iasaglobal.org/), (Nr: 20099580)
 
-##Research Interests
+## Research Interests ##
     
 - Social Machines, Social Networks, Cloud Computing, Social Computing
 - Education in Software Engineering, Serious Game, Game Development, Game Environment for Education
@@ -46,7 +46,7 @@ title: "Home"
 - Software Reengineering, Software Transformations, Reverse Engineering, Refactoring, generative Programming
 - Aspect-Oriented Software Development (aosd.net), AspectJ Project
 
-##Research Projects
+## Research Projects ##
 
 - [INES](http://www.ines.org.br/) (National Institute of Science and Technology for Software Engineering), since 2008
 - [OpenBio](http://www.eubrazilopenbio.eu/) & [OpenBio Wiki](http://wiki.eubrazilopenbio.eu/index.php/Main_Page) (EUBrazil Open Data Cloud Computing e-Infrastructure for Biodiversity), 2011~2013 (concluded)
@@ -56,7 +56,7 @@ title: "Home"
 - [Software Reengineering using Transformations](http://www.rst.dc.ufscar.br/) (site in portuguese)  – core development at Federal University of São Carlos, 2001 – 2003 (concluded)
 - [Draco-PUC Transformation System](http://recope.dc.ufscar.br/dde/draco) (site in portuguese)  – core development at Federal University of São Carlos, 2001 – 2005 (concluded)
 
-##Research Partners
+## Research Partners ##
 
 - [CNPq](http://www.cnpq.br/) / [RHAE](http://www.cnpq.br/rhae)
 - [FAPESB – Fundação de Amparo à Pesquisa do Estado da Bahia](http://www.fapesb.ba.gov.br/)
@@ -69,7 +69,7 @@ title: "Home"
 - [Institute of Mathematical and Computing Sciences, University of São Paulo (ICMC/USP-São Carlos)](http://www.icmc.sc.usp.br/)
 - [Instituto Nacional de Ciência e Tecnologia para Engenharia de Software – INES](http://www.ines.org.br/)
 
-##Thesis
+## Thesis ##
 
 - **RiSE Reference Model for Software Reuse Adoption in Brazilian Companies**. D.Sc. Proposal at Federal University of Pernambuco (UFPE).  Advisor: Silvio Romero de Lemos Meira. [*Download, read and/or share*](https://www.scribd.com/document/53625784/RiSE-Reference-Model-for-Software-Reuse-Adoption-in-Brazilian-Companies?ad_group=&campaign=Skimbit%2C+Ltd.&content=10079&keyword=ft750noi&medium=affiliate&source=impactradius).
 - **Phoenix: An Approach for the Aspect-Oriented Software Reengineering** *(in portuguese)* M.Sc. Dissertation presented in March 03, 2005 at Federal University of São Carlos (UFScar). Advisor: Antonio Francisco do Prado. [*Download, read and/or share*](https://www.scribd.com/document/42180162/Phoenix-Uma-Abordagem-para-Reengenharia-de-Software-Orientada-a-Aspectos?ad_group=&campaign=Skimbit%2C+Ltd.&content=10079&keyword=ft750noi&medium=affiliate&source=impactradius).
