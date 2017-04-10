@@ -6,14 +6,14 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Courses"
+    url: /courses/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Supervisions"
     url: /supervisions/
-
-  - title: "Courses"
-    url: /courses/
 
   - title: "Personal Books"
     url: /personalbooks/
