@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Home"
+permalink: /profile/
+title: "Profile"
 modified: 2017-04-10T15:26:37-04:00
 ---
 
