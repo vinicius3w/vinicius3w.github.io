@@ -6,7 +6,7 @@ modified: 2017-04-10T16:18:37-04:00
 
 {% include base_path %}
 
-##Ph.D. degree##
+## Ph.D. degree ##
 1. Thiago Jamir e Silva. **Título a ser definido**. <span style="color:red">_Início: 2017, Conclusão: 2021_</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/9832803117127707)]
 2. Alysson Alves de Lima. **Título a ser definido**. <span style="color:red">_Início: 2017, Conclusão: 2021_</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/7684467910401597)]
 3. <del>Felipe Oliveira Gutierrez. **Integração de arquiteturas de armazenamento baseada em blocos e objetos**. <span style="color:red">_Início: 2015, Conclusão: 2019_</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/8633775775597854)]</del>
@@ -22,7 +22,7 @@ modified: 2017-04-10T16:18:37-04:00
 
 
 
-##M.Sc. degree##
+## M.Sc. degree ##
 <ol>
     <li style="text-align: justify;">Jorge Henrique Cordeiro Linhares. <strong>Título a ser definido</strong>. <span style="color: #ff0000;">Início: 2017, Conclusão: 2019</span>. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (Supervision). [<a href="http://lattes.cnpq.br/7207633829038352" target="_blank">lattes</a>]</li>
     <li style="text-align: justify;">Sandrine Ventura Martins. <strong>Título a ser definido</strong>. <span style="color: #ff0000;">Início: 2017, Conclusão: 2019</span>. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (Supervision). [lattes]</li>
@@ -74,13 +74,17 @@ modified: 2017-04-10T16:18:37-04:00
     <li style="text-align: justify;">Cristiano Tavares Silva. <strong>Um Experimento de Engenharia de Requisitos para caracterização do Processo e sua Adequação às Práticas Específicas do CMMI</strong>. 2010. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (<em>Supervision</em>) [lattes] [<a href="http://www.scribd.com/doc/58851350" target="_blank">pdf</a>]</li>
     <li style="text-align: justify;">Átila Andrade Bittencourt Paula. <strong>UMA PROPOSTA PARA EXPANSÃO SEMÂNTICA DE CONSULTAS BASEADA EM ONTOLOGIA DE DOMÍNIO ESPECÍFICO</strong>. 2010. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (<em>Co-supervision</em>) [<a href="http://lattes.cnpq.br/8472935389021591" target="_blank">lattes</a>] [<a href="http://www.scribd.com/doc/58125217" target="_blank">pdf</a>]</li>
 </ol>
-<strong>Post-Graduation (Especialização Lato Sensu)</strong>
+
+## Post-Graduation (Especialização Lato Sensu) ##
+
 <ol>
     <li style="text-align: justify;">Cloves Alberto Chaves de Lima. <strong>Um Modelo de Gerenciamento de Identidade para Segurança de Aplicativos SaaS</strong>. Início: 2010, Conclusão: 2012. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (<em>Supervision</em>) [<a href="http://pt.scribd.com/doc/106154069" target="_blank">pdf</a>]</li>
     <li style="text-align: justify;">Priscila Navarro Peixoto de Oliveira. <strong>O Lado Bom e Desconhecido da Camada mais Profunda da Web</strong>. Início: 2010, Conclusão: 2012. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (<em>Supervision</em>) [<a href="http://pt.scribd.com/doc/105910847" target="_blank">pdf</a>]</li>
     <li style="text-align: justify;">Ricardo Marinho de Melo.<strong> Segurança em Web Services: Análise de WS-Security, WS-Policy e SAML. </strong>Início: 2010, Conclusão: 2012. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (<em>Supervision</em>) [<a href="http://pt.scribd.com/doc/95152944" target="_blank">pdf</a>]</li>
 </ol>
-<strong>Undergraduate (scientific/research projects)</strong>
+
+##Undergraduate (scientific/research projects) ##
+
 <ol>
     <li style="text-align: justify;">Nathan Martins Freire. <strong>Uso da Internet das Coisas no acesso multimodal a informações em Smart Cities</strong>. 2016. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0066-1.03/16. (Supervision). [<a href="http://lattes.cnpq.br/3529155728983836" target="_blank">lattes</a>]</li>
     <li style="text-align: justify;">Victor Barros de Miranda Neves. <strong>Uso da Internet das Coisas no acesso multimodal a informações em um Smart Campus</strong>. 2015. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0155-1.03/14. (Supervision). [<a href="http://lattes.cnpq.br/3698823434300511" target="_blank">lattes</a>]</li>
@@ -89,7 +93,9 @@ modified: 2017-04-10T16:18:37-04:00
     <li style="text-align: justify;">Luíza Frota de Paula Pinto, scientific initiation (B.Sc.). <strong>The AspectJ weaving mechanism implementation in the MVCASE Tool</strong> (<em>in portuguese</em>) - core development at Federal University of São Carlos. 2004. (<em>Co-supervision</em>)</li>
     <li style="text-align: justify;">Fabiana Mari Assáo, scientific initiation (B.Sc.). <strong>Database Persistente in the MVCASE Tool with Crosscutting concerns in Aspects</strong> (<em>in portuguese</em>) - core development at Federal University of São Carlos. 2003. (<em>Co-supervision</em>) [<a href="http://lattes.cnpq.br/3998840368387781" target="_blank">lattes</a>]</li>
 </ol>
-<strong>Undergraduate</strong>
+
+## Undergraduate ##
+
 <ol>
     <li style="text-align: justify;">Sandrine Ventura Martins.  <strong>Em Direção a uma Proposta Prática para o Ensino da Engenharia de Software no Centro de Informática</strong>. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [<a href="http://lattes.cnpq.br/3989518164012856" target="_blank">lattes</a>] [<a href="https://pt.scribd.com/document/334308546/Em-Direcao-a-uma-Proposta-Pratica-para-o-Ensino-da-Engenharia-de-Software-no-Centro-de-Informatica" target="_blank">pdf</a>] [<a href="https://pt.scribd.com/document/336084942/Em-Direcao-a-uma-Proposta-Pratica-para-o-Ensino-da-Engenharia-de-Software-no-Centro-de-Informatica-Apresentac-a-o" target="_blank">ppt</a>].</li>
     <li style="text-align: justify;">Jorge Henrique Cordeiro Linhares. <strong>Usain Bot: Uma proposta de construção de chatterbots como serviço</strong>. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [<a href="http://lattes.cnpq.br/7207633829038352" target="_blank">lattes</a>] [<a href="https://pt.scribd.com/document/334308010/Usain-Bot-Uma-proposta-de-construc-a-o-de-chatterbots-como-servic-o" target="_blank">pdf</a>] [<a href="https://pt.scribd.com/document/336073490/Usain-Bot-Uma-proposta-de-construc-a-o-de-chatterbots-como-servic-o-Apresentac-a-o" target="_blank">ppt</a>].</li>
