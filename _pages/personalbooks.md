@@ -12,6 +12,8 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 
 **2017**
 
+- *[para ler]* “Metro 2034”, by Dmitry Glukhovsky
+- *[para ler]* “Metro 2033”, by Dmitry Glukhovsky
 - *[para ler]* “A Rainha Do Castelo de Ar – Millennium Vol. 3”, by Stieg Larsson
 - *[para ler]* “A Menina Que Brincava Com Fogo – Millennium Vol. 2”, by Stieg Larsson
 - *[para ler]* “Os Homens Que Não Amavam as Mulheres- Millennium Vol. 1”, by Stieg Larsson
