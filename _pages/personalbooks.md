@@ -24,8 +24,8 @@ In this context, Inspired by my friend [Fernando Castor Personal Books]{:target=
 - *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!”, by Mark Daniels
 - *[para ler]* “STAR WARS – Marcas da Guerra”, by Chuck Wendig
 - *[para ler]* “Mistborn: Nascidos da Bruma: O herói das eras – Volume 3″, by Brandon Sanderson
-- *[para ler]* “Legado – Silo – Volume 3”, by Hugh Howey
-- [lendo] “Ordem – Silo – Volume 2”, by Hugh Howey *(20-Mar-17)*
+- [lendo] “Legado – Silo – Volume 3”, by Hugh Howey *(24-Apr-17)*
+- “Ordem – Silo – Volume 2”, by Hugh Howey *(20-Mar-17 + 35 dias)*
 - “Meditando a Vida”, by Padma Samten *(14-Fev-17 + 33 dias)*
 - “Silo – Silo – Volume 1”, by Hugh Howey *(02-Nov-16 + 65 dias)*
 
