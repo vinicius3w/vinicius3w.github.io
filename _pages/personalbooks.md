@@ -1,14 +1,14 @@
 ---
 permalink: /personalbooks/
 title: "Personal Books"
-modified: 2017-04-10T16:19:37-04:00
+modified: 2017-04-24T16:01:37-03:00
 ---
 
 {% include base_path %}
 
 Since I bought a Kindle, I resumed my reading habit. Amazing what a device can do for / to you!
 
-In this context, Inspired by my friend [Fernando Castor Personal Books]{:target="_blank"}(https://sites.google.com/a/cin.ufpe.br/castor/personal/books), I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida]{:target="_blank"}(http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/)".
+In this context, Inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
 **2017**
 
