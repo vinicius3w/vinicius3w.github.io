@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "More information about professor Vinicius Cardoso Garcia (D.Sc.)"
-modified: 2016-06-10T15:25:37-04:00
+modified: 2017-04-25T17:59:37-03:00
 ---
 
 {% include base_path %}
