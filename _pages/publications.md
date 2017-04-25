@@ -405,7 +405,7 @@ FONTANETTE, Valdirene ; **GARCIA, Vinicius Cardoso** ; BOSSONARO, Adriano Aleixo
 
 [1]: [http://assertlab.com]
 [2]: http://t.umblr.com/redirect?z=http%3A%2F%2Fsbsi2016.ufsc.br%2F&t=ZmIwYWNmNTQyM2MwYmUwYTQyZDhkZjU2YTNmODBhOTY0NGI1ZWNmYyxUbU4zdWpESg%3D%3D
-[3]: (http://t.umblr.com/redirect?z=http%3A%2F%2Fnoms2016.ieee-noms.org%2F&t=YzBjODQ2ODJjOTI0ZTYxZTM0NWMyYWFlNTc1MTJmYzEwNDhiZTZiYixUbU4zdWpESg%3D%3D)
+[3]: http://noms2016.ieee-noms.org/ :target="_blank"
 [4]: http://lattes.cnpq.br/8750956715158540
 [5]: http://lattes.cnpq.br/4973731190814126
 [6]: http://dx.doi.org/10.4018/ijepr.2015040104]
