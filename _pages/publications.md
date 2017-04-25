@@ -57,7 +57,7 @@ SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricar
 
 **2015**
 
-[BRITO, Kellyton dos Santos][4] ; COSTA, MARCOS ANTÔNIO DA SILVA ; **Garcia, Vinicius Cardoso**; [MEIRA, Silvio Romero de Lemos][5] . **[Is Brazilian Open Government Data Actually Open Data?][6]**. [International Journal of E-Planning Research (IJEPR)][7], v. 4, p. 57-73, 2015.
+BRITO, Kellyton dos Santos ; COSTA, MARCOS ANTÔNIO DA SILVA ; **Garcia, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. **[Is Brazilian Open Government Data Actually Open Data?][6]**. [International Journal of E-Planning Research (IJEPR)][7], v. 4, p. 57-73, 2015.
 
 AFONSO, Ricardo Alexandre ; BRITO, Kellyton dos Santos ; DO NASCIMENTO, CLÓVIS HOLANDA ; COSTA, L. C. ; ÁLVARO, ALEXANDRE ; **Garcia, Vinicius Cardoso**. [**(Br-SCMM) Brazilian Smart City Maturity Model: A Perspective from the Health Domain**][8]. [Studies in Health Technology and Informatics][9], v. 216 ([MEDINFO 2015: eHealth-enabled Health][10]), p. 983, 2015, doi: 10.3233/978-1-61499-564-7-983
 
@@ -405,7 +405,7 @@ FONTANETTE, Valdirene ; **GARCIA, Vinicius Cardoso** ; BOSSONARO, Adriano Aleixo
 
 [1]: [http://assertlab.com]
 [2]: http://t.umblr.com/redirect?z=http%3A%2F%2Fsbsi2016.ufsc.br%2F&t=ZmIwYWNmNTQyM2MwYmUwYTQyZDhkZjU2YTNmODBhOTY0NGI1ZWNmYyxUbU4zdWpESg%3D%3D
-[3]: http://t.umblr.com/redirect?z=http%3A%2F%2Fnoms2016.ieee-noms.org%2F&t=YzBjODQ2ODJjOTI0ZTYxZTM0NWMyYWFlNTc1MTJmYzEwNDhiZTZiYixUbU4zdWpESg%3D%3D
+[3]: ("http://t.umblr.com/redirect?z=http%3A%2F%2Fnoms2016.ieee-noms.org%2F&t=YzBjODQ2ODJjOTI0ZTYxZTM0NWMyYWFlNTc1MTJmYzEwNDhiZTZiYixUbU4zdWpESg%3D%3D" target="_blank")
 [4]: http://lattes.cnpq.br/8750956715158540
 [5]: http://lattes.cnpq.br/4973731190814126
 [6]: http://dx.doi.org/10.4018/ijepr.2015040104]
