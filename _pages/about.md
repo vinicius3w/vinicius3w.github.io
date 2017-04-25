@@ -17,7 +17,7 @@ At the [Porto Digital][9], in Recife and other cities in Brazil, Dr. Garcia in c
 
 In addition, he collaborated in the conception on the [first open source book][10] on software reuse around the world and has worked as independent consultant involved in training, mentoring, consultant and solution development focused on software reuse.
 
-Nowadays, Dr. Garcia is working on other aspects related to software reuse, mainly focused on infrastructures and platforms issues in the Cloud Computing field. To to this, Dr. Garcia, associated with his students and other research partners, created the [ASSERT][3] (Advanced System and Software Engineering Research Technologies) Lab. Additionally, prof. Vinicius is "timbaleiro" and "Filho de Gandhi".
+Nowadays, Dr. Garcia is working on other aspects related to software reuse, mainly focused on infrastructures and platforms issues in the Cloud Computing field. To to this, Dr. Garcia, associated with his students and other research partners, created the [ASSERT][3] (Advanced System and Software Engineering Research Technologies) Lab. Additionally, prof. Vinicius is "*timbaleiro*[11]" and "*Filho de Gandhi*[12]".
 
 
 [1]: http://www.cin.ufpe.br "Centro de Informática - UFPE" {:target="_blank"}
@@ -30,3 +30,5 @@ Nowadays, Dr. Garcia is working on other aspects related to software reuse, main
 [8]: http://wiki.dcc.ufba.br/CBSOFT/ "SBCARS 2010" {:target="_blank"}
 [9]: http://www.portodigital.org/ "Porto Digital" {:target="_blank"}
 [10]: http://cruise.cesar.org.br/ "CRUISE" {:target="_blank"}
+[11]: https://pt.wikipedia.org/wiki/Timbalada "Timbalada" {:target="_blank"}
+[12]: https://pt.wikipedia.org/wiki/Filhos_de_Gandhy "Filhos de Gandhi" {:target="_blank"}
