@@ -405,11 +405,11 @@ FONTANETTE, Valdirene ; **GARCIA, Vinicius Cardoso** ; BOSSONARO, Adriano Aleixo
 
 [1]: [http://assertlab.com]
 [2]: http://t.umblr.com/redirect?z=http%3A%2F%2Fsbsi2016.ufsc.br%2F&t=ZmIwYWNmNTQyM2MwYmUwYTQyZDhkZjU2YTNmODBhOTY0NGI1ZWNmYyxUbU4zdWpESg%3D%3D
-[3]: http://noms2016.ieee-noms.org/ :target="_blank"
+[3]: http://noms2016.ieee-noms.org/
 [4]: http://lattes.cnpq.br/8750956715158540
 [5]: http://lattes.cnpq.br/4973731190814126
 [6]: http://dx.doi.org/10.4018/ijepr.2015040104]
-[7]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.irma-international.org%2Fjournal%2Finternational-journal-planning-research-ijepr%2F44994%2F&t=M2Q4ZjdhNWIwMGJkMTY2MGY3OTUxYzUxMjcyMzk0MTc5ODhmZmE0YixUbU4zdWpESg%3D%3D
+[7]: http://www.irma-international.org/journal/international-journal-planning-research-ijepr/44994/
 [8]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fpublication%2F40443&t=M2UwZjA3ZjJkYzUyN2YwMDZlMWE2YTVlMjM0OGVhYzRjZTQyOTkxOSxUbU4zdWpESg%3D%3D
 [9]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fbookseries%2Fstudies-in-health-technology-and-informatics&t=MmU3OGQ5ZDFlMjcxYmRlMDhiYTg3M2I0ZDc4Zjg5MzBmNjFlNWRhNCxUbU4zdWpESg%3D%3D
 [10]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fvolume%2Fmedinfo-2015-ehealth-enabled-health-proceedings-of-the-15th-world-congress-on-health-and-biomedical-informatics&t=Yjc0OTNmZDJmZjRhYWVhYjkwZmRjMjYzNGM2Zjc2MGI2MTBmZjVlZSxUbU4zdWpESg%3D%3D
