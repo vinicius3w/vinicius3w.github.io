@@ -1,20 +1,20 @@
 ---
 permalink: /publications/
 title: "Publications"
-modified: 2016-06-10T15:25:37-04:00
+modified: 2017-04-25T18:02:37-03:00
 ---
 
 {% include base_path %}
 
 See also the [ASSERT Lab's][1] site.
 
- * [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#)
- * [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html)
- * [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ)
- * [Microsoft Academic Search](http://academic.research.microsoft.com/Author/1947462.aspx)
- * [Plataforma Lattes (in portuguese)](http://lattes.cnpq.br/6613487636748832)
- * [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126)
- * [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT)
+ * [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#){:target="_blank"}
+ * [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html){:target="_blank"}
+ * [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="_blank"}
+ * [Microsoft Academic Search](http://academic.research.microsoft.com/Author/1947462.aspx){:target="_blank"}
+ * [Plataforma Lattes (in portuguese)](http://lattes.cnpq.br/6613487636748832){:target="_blank"}
+ * [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="_blank"}
+ * [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="_blank"}
 
 <BR>
 
@@ -25,33 +25,33 @@ See also the [ASSERT Lab's][1] site.
 
 **2016**
 
-NOGUEIRA, Elias; MOREIRA, Ana; LUCRÉDIO, Daniel; **GARCIA, Vinícius Cardoso** and FORTES, Renata. [**Issues on developing interoperable cloud applications: definitions, concepts, approaches, requirements, characteristics and evaluation models**](http://jserd.springeropen.com/articles/10.1186/s40411-016-0033-6). In: [Journal of Software Engineering Research and Development](http://wordpress.redirectingat.com/?id=725X1342&site=viniciusgarcia.wordpress.com&xs=1&isjs=1&url=http%3A%2F%2Ft.umblr.com%2Fredirect%3Fz%3Dhttp%253A%252F%252Fjserd.springeropen.com%252F%26t%3DNGE1NWYxZjY5ODNhMzlmODllNzZiN2NjMzVhNmIxYTZkMTk5Yjc5NSxUbU4zdWpESg%253D%253D%26m%3D0&xguid=fc85fe889e355df005d7385eb22e165d&xuuid=96d73eba61a2f018b2b9740fe05447e5&xsessid=8432e66c713fb95cffdd7db4f470ab2a&xcreo=0&xed=0&sref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fpublications%2F&pref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fabout%2F&xtz=180&abp=1), 2016, 4:7. DOI: [10.1186/s40411-016-0033-6](http://dx.doi.org/10.1186/s40411-016-0033-6).
+NOGUEIRA, Elias; MOREIRA, Ana; LUCRÉDIO, Daniel; **GARCIA, Vinícius Cardoso** and FORTES, Renata. [**Issues on developing interoperable cloud applications: definitions, concepts, approaches, requirements, characteristics and evaluation models**](http://jserd.springeropen.com/articles/10.1186/s40411-016-0033-6){:target="_blank"}. In: [Journal of Software Engineering Research and Development](http://wordpress.redirectingat.com/?id=725X1342&site=viniciusgarcia.wordpress.com&xs=1&isjs=1&url=http%3A%2F%2Ft.umblr.com%2Fredirect%3Fz%3Dhttp%253A%252F%252Fjserd.springeropen.com%252F%26t%3DNGE1NWYxZjY5ODNhMzlmODllNzZiN2NjMzVhNmIxYTZkMTk5Yjc5NSxUbU4zdWpESg%253D%253D%26m%3D0&xguid=fc85fe889e355df005d7385eb22e165d&xuuid=96d73eba61a2f018b2b9740fe05447e5&xsessid=8432e66c713fb95cffdd7db4f470ab2a&xcreo=0&xed=0&sref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fpublications%2F&pref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fabout%2F&xtz=180&abp=1){:target="_blank"}, 2016, 4:7. DOI: [10.1186/s40411-016-0033-6](http://dx.doi.org/10.1186/s40411-016-0033-6){:target="_blank"}.
 
-DE ALENCAR, Andrêza Leite; BURÉGIO, Vanilson André de Arruda; CARACIOLO, Marcel; FREITAS, Jamisson; **GARCIA, Vinicius Cardoso**. [**A centralized platform on human genome for supporting clinical decisions**](http://www.sbis.org.br/biblioteca_virtual/cbis/Anais_CBIS_2016_Artigos_Completos.pdf). In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016)](http://www.sbis.org.br/cbis2016), Goiânia – Brazil, 27-30 Novembro, 2016, pp. 569-577.
+DE ALENCAR, Andrêza Leite; BURÉGIO, Vanilson André de Arruda; CARACIOLO, Marcel; FREITAS, Jamisson; **GARCIA, Vinicius Cardoso**. [**A centralized platform on human genome for supporting clinical decisions**](http://www.sbis.org.br/biblioteca_virtual/cbis/Anais_CBIS_2016_Artigos_Completos.pdf){:target="_blank"}. In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016)](http://www.sbis.org.br/cbis2016){:target="_blank"}, Goiânia – Brazil, 27-30 Novembro, 2016, pp. 569-577.
 
-AFONSO, Ricardo Alexandre; CABRAL, Raquel; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**. [**Cidades Inteligentes: IDH como Indicador de Serviços**](). In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016) – Pôsteres](http://www.sbis.org.br/cbis2016), Goiânia – Brazil, 27-30 Novembro, 2016, pp. 310.
+AFONSO, Ricardo Alexandre; CABRAL, Raquel; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**. [**Cidades Inteligentes: IDH como Indicador de Serviços**](). In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016) – Pôsteres](http://www.sbis.org.br/cbis2016){:target="_blank"}, Goiânia – Brazil, 27-30 Novembro, 2016, pp. 310.
 
-AFONSO, Ricardo Alexandre; CABRAL, Raquel; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**. [**DendroIDH: Agrupando Cidades por Semelhança de Indicadores**](http://www.sbis.org.br/biblioteca_virtual/cbis/Anais_CBIS_2016_Artigos_Completos.pdf). In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016)](http://www.sbis.org.br/cbis2016), Goiânia – Brazil, 27-30 Novembro, 2016, pp. 907-913.
+AFONSO, Ricardo Alexandre; CABRAL, Raquel; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**. [**DendroIDH: Agrupando Cidades por Semelhança de Indicadores**](http://www.sbis.org.br/biblioteca_virtual/cbis/Anais_CBIS_2016_Artigos_Completos.pdf){:target="_blank"}. In: [XV Congresso Brasileiro de Informática em Saúde (CBIS’2016)](http://www.sbis.org.br/cbis2016){:target="_blank"}, Goiânia – Brazil, 27-30 Novembro, 2016, pp. 907-913.
 
-ROCHA NETO, José de Arimatea; BURÉGIO, Vanilson André de Arruda; **GARCIA, Vinicius Cardoso**. **Uma biblioteca Multi-Tenant para o framework Django**. In: [V Simpósio Brasileiro de Tecnologia da Informação (SBTI’2016)](http://www.ufpb.br/idep/sbti2016/), João Pessoa-PB, 05-07  de Outubro, 2016.
+ROCHA NETO, José de Arimatea; BURÉGIO, Vanilson André de Arruda; **GARCIA, Vinicius Cardoso**. **Uma biblioteca Multi-Tenant para o framework Django**. In: [V Simpósio Brasileiro de Tecnologia da Informação (SBTI’2016)](http://www.ufpb.br/idep/sbti2016/){:target="_blank"}, João Pessoa-PB, 05-07  de Outubro, 2016.
 
-DA SILVA, Chrystian José Soares; DO NASCIMENTO, Leandro Marques; **GARCIA, Vinicius Cardoso**. **Estudo de mapeamento sistemático sobre as tendências e desafios do cloud gaming**. In: [V Simpósio Brasileiro de Tecnologia da Informação (SBTI’2016)](http://www.ufpb.br/idep/sbti2016/), João Pessoa-PB, 05-07  de Outubro, 2016.
+DA SILVA, Chrystian José Soares; DO NASCIMENTO, Leandro Marques; **GARCIA, Vinicius Cardoso**. **Estudo de mapeamento sistemático sobre as tendências e desafios do cloud gaming**. In: [V Simpósio Brasileiro de Tecnologia da Informação (SBTI’2016)](http://www.ufpb.br/idep/sbti2016/){:target="_blank"}, João Pessoa-PB, 05-07  de Outubro, 2016.
 
-DA SILVA, Hilson Barbosa; **GARCIA, Vinicius Cardoso**; SOUZA, Thiago Carvalho; RABÊLO, Ricardo Andrade Lira; SOARES, Jefferson Henrique Camelo; Lopes, Lucas Araújo. [**Extração de Conhecimento em um Survey sobre o Uso de Computação em Nuvem no Brasil**](http://dx.doi.org/10.21528/LNLM-vol14-no1-art6). In: [Learning and Nonlinear Models – Journal of the Brazilian Computational Intelligence Society, Vol. 14, Iss. 1](http://abricom.org.br/lnlm/publicacoes/vol14-no1/), pp. 58-71, 2016. ISSN 1676-2789.
+DA SILVA, Hilson Barbosa; **GARCIA, Vinicius Cardoso**; SOUZA, Thiago Carvalho; RABÊLO, Ricardo Andrade Lira; SOARES, Jefferson Henrique Camelo; Lopes, Lucas Araújo. [**Extração de Conhecimento em um Survey sobre o Uso de Computação em Nuvem no Brasil**](http://dx.doi.org/10.21528/LNLM-vol14-no1-art6){:target="_blank"}. In: [Learning and Nonlinear Models – Journal of the Brazilian Computational Intelligence Society, Vol. 14, Iss. 1](http://abricom.org.br/lnlm/publicacoes/vol14-no1/){:target="_blank"}, pp. 58-71, 2016. ISSN 1676-2789.
 
-DE ALENCAR, Andrêza Leite; BURÉGIO, Vanilson André de Arruda; CARACIOLO, Marcel; FREITAS, Jamisson; **GARCIA, Vinicius Cardoso**. [**A centralized platform for access of heterogeneous data on human genome repositories for supporting clinical decisions**](http://sbbd2016.fpc.ufba.br/e-book/satellites.pdf). In: [Database Systems Industry Day Workshop (DSIDW’2016)](http://sbbd2016.fpc.ufba.br/en/chamada-dsidw/) – [Simpósio Brasileiro de Banco de Dados (SBBD’2016)](http://sbbd2016.fpc.ufba.br/en/), p. 106, Salvador – BA – Brazil, 04-07 October, 2016.
+DE ALENCAR, Andrêza Leite; BURÉGIO, Vanilson André de Arruda; CARACIOLO, Marcel; FREITAS, Jamisson; **GARCIA, Vinicius Cardoso**. [**A centralized platform for access of heterogeneous data on human genome repositories for supporting clinical decisions**](http://sbbd2016.fpc.ufba.br/e-book/satellites.pdf){:target="_blank"}. In: [Database Systems Industry Day Workshop (DSIDW’2016)](http://sbbd2016.fpc.ufba.br/en/chamada-dsidw/){:target="_blank"} – [Simpósio Brasileiro de Banco de Dados (SBBD’2016)](http://sbbd2016.fpc.ufba.br/en/){:target="_blank"}, p. 106, Salvador – BA – Brazil, 04-07 October, 2016.
 
-MEIRA, Silvio Romero de Lemos; BURÉGIO, Vanilson André de Arruda; BORBA, Paulo Henrique Monteiro; GARCIA, Vinicius Cardoso; ALBUQUERQUE, Jones Oliveira de; SOARES; Sergio Castelo Branco. [**Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems**](http://bit.ly/1stCMD). In: [Brazilian Symposium on Software Engineering (SBES’2016) – Insightful Ideas Track](http://cbsoft.org/cbsoft2016/sbes2016?lang=en), [VII Brazilian Conference on Software:Theory and Practice (CBSoft)](http://cbsoft.org/cbsoft2016/), Maringá – Brazil, 19-23 September, 2016.
+MEIRA, Silvio Romero de Lemos; BURÉGIO, Vanilson André de Arruda; BORBA, Paulo Henrique Monteiro; GARCIA, Vinicius Cardoso; ALBUQUERQUE, Jones Oliveira de; SOARES; Sergio Castelo Branco. [**Programming the Universe: The First Commandment of Software Engineering for all Varieties of Information Systems**](http://bit.ly/1stCMD){:target="_blank"}. In: [Brazilian Symposium on Software Engineering (SBES’2016) – Insightful Ideas Track](http://cbsoft.org/cbsoft2016/sbes2016?lang=en){:target="_blank"}, [VII Brazilian Conference on Software:Theory and Practice (CBSoft)](http://cbsoft.org/cbsoft2016/){:target="_blank"}, Maringá – Brazil, 19-23 September, 2016.
 
-SILVEIRA, Paulo Anselmo da Mota; DE SANTANA, Tiara Loiola; DE ALMEIDA, Eduardo Santana; CAVALCANTI, Yguarata Cerqueira; **GARCIA, Vinicius Cardoso**. [**RiSE Events – A Testbed for Software Product Lines Experimentation**](http://dx.doi.org/10.1145/2897045.2897047). In: [First International Workshop on Variability and Complexity in Software Design (VACE)](http://vaquita-workshop.org/vace/), in conjunction with [38th International Conference on Software Engineering (ICSE)](http://2016.icse.cs.txstate.edu/), USA, 2016. p.40–49. DOI: 10.1145/2897045.2897047.
+SILVEIRA, Paulo Anselmo da Mota; DE SANTANA, Tiara Loiola; DE ALMEIDA, Eduardo Santana; CAVALCANTI, Yguarata Cerqueira; **GARCIA, Vinicius Cardoso**. [**RiSE Events – A Testbed for Software Product Lines Experimentation**](http://dx.doi.org/10.1145/2897045.2897047){:target="_blank"}. In: [First International Workshop on Variability and Complexity in Software Design (VACE)](http://vaquita-workshop.org/vace/){:target="_blank"}, in conjunction with [38th International Conference on Software Engineering (ICSE)](http://2016.icse.cs.txstate.edu/){:target="_blank"}, USA, 2016. p.40–49. DOI: 10.1145/2897045.2897047.
 
-GARCIA, Plínio Antunes; **GARCIA, Vinicius Cardoso**. [Aplicando Grounded Theory para compreender as dificuldades de Planejamento de TI em Órgãos Federais](http://sbsi2016.ufsc.br/?page_id=5060). In: [IX Workshop de Teses e Dissetações em Sistemas de Informação (WTDSI)](http://sbsi2016.ufsc.br/?page_id=4956), Evento integrante do [XII Simpósio Brasileiro de Sistemas de Informação (SBSI’2016)](http://sbsi2016.ufsc.br/), pp. 24–26, Florianópolis, SC, 17 a 20 de Maio de 2016.
+GARCIA, Plínio Antunes; **GARCIA, Vinicius Cardoso**. [Aplicando Grounded Theory para compreender as dificuldades de Planejamento de TI em Órgãos Federais](http://sbsi2016.ufsc.br/?page_id=5060){:target="_blank"}. In: [IX Workshop de Teses e Dissetações em Sistemas de Informação (WTDSI)](http://sbsi2016.ufsc.br/?page_id=4956){:target="_blank"}, Evento integrante do [XII Simpósio Brasileiro de Sistemas de Informação (SBSI’2016)](http://sbsi2016.ufsc.br/){:target="_blank"}, pp. 24–26, Florianópolis, SC, 17 a 20 de Maio de 2016.
 
-RODRIGUES, Ricardo Batista; SILVA, Carlo Marcelo Revoredo da; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. [**Modelos de Negócios Inovadores na Era da Cmoputação em Nuvem**](http://sbsi2016.ufsc.br/?page_id=5060). In: [XII Simpósio Brasileiro de Sistemas de Informação (SBSI'2015)][2], Trilha "SBSI 2016 – Minicursos", Florianópolis – SC, 17 – 20 de Maio de 2016. 
+RODRIGUES, Ricardo Batista; SILVA, Carlo Marcelo Revoredo da; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. [**Modelos de Negócios Inovadores na Era da Cmoputação em Nuvem**](http://sbsi2016.ufsc.br/?page_id=5060){:target="_blank"}. In: [XII Simpósio Brasileiro de Sistemas de Informação (SBSI'2015)][2], Trilha "SBSI 2016 – Minicursos", Florianópolis – SC, 17 – 20 de Maio de 2016. 
 
-SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**A Meta-Analysis for Security Threats over the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502911). In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)][3], Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502911.
+SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**A Meta-Analysis for Security Threats over the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502911){:target="_blank"}. In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)][3], Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502911.
 
-SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**Towards a Taxonomy for Security Threats on the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502862). In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)][3], Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502862.
+SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**Towards a Taxonomy for Security Threats on the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502862){:target="_blank"}. In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)][3], Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502862.
 
 * * *
 
@@ -403,12 +403,12 @@ FONTANETTE, Valdirene ; **GARCIA, Vinicius Cardoso** ; BOSSONARO, Adriano Aleixo
 
 
 
-[1]: http://assertlab.com
+[1]: [http://assertlab.com]
 [2]: http://t.umblr.com/redirect?z=http%3A%2F%2Fsbsi2016.ufsc.br%2F&t=ZmIwYWNmNTQyM2MwYmUwYTQyZDhkZjU2YTNmODBhOTY0NGI1ZWNmYyxUbU4zdWpESg%3D%3D
 [3]: http://t.umblr.com/redirect?z=http%3A%2F%2Fnoms2016.ieee-noms.org%2F&t=YzBjODQ2ODJjOTI0ZTYxZTM0NWMyYWFlNTc1MTJmYzEwNDhiZTZiYixUbU4zdWpESg%3D%3D
 [4]: http://lattes.cnpq.br/8750956715158540
 [5]: http://lattes.cnpq.br/4973731190814126
-[6]: http://dx.doi.org/10.4018/ijepr.2015040104
+[6]: [http://dx.doi.org/10.4018/ijepr.2015040104]{:target="_blank"}
 [7]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.irma-international.org%2Fjournal%2Finternational-journal-planning-research-ijepr%2F44994%2F&t=M2Q4ZjdhNWIwMGJkMTY2MGY3OTUxYzUxMjcyMzk0MTc5ODhmZmE0YixUbU4zdWpESg%3D%3D
 [8]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fpublication%2F40443&t=M2UwZjA3ZjJkYzUyN2YwMDZlMWE2YTVlMjM0OGVhYzRjZTQyOTkxOSxUbU4zdWpESg%3D%3D
 [9]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fbookseries%2Fstudies-in-health-technology-and-informatics&t=MmU3OGQ5ZDFlMjcxYmRlMDhiYTg3M2I0ZDc4Zjg5MzBmNjFlNWRhNCxUbU4zdWpESg%3D%3D
