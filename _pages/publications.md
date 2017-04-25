@@ -408,7 +408,7 @@ FONTANETTE, Valdirene ; **GARCIA, Vinicius Cardoso** ; BOSSONARO, Adriano Aleixo
 [3]: http://t.umblr.com/redirect?z=http%3A%2F%2Fnoms2016.ieee-noms.org%2F&t=YzBjODQ2ODJjOTI0ZTYxZTM0NWMyYWFlNTc1MTJmYzEwNDhiZTZiYixUbU4zdWpESg%3D%3D
 [4]: http://lattes.cnpq.br/8750956715158540
 [5]: http://lattes.cnpq.br/4973731190814126
-[6]: [http://dx.doi.org/10.4018/ijepr.2015040104]{:target="_blank"}
+[6]: http://dx.doi.org/10.4018/ijepr.2015040104]
 [7]: http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.irma-international.org%2Fjournal%2Finternational-journal-planning-research-ijepr%2F44994%2F&t=M2Q4ZjdhNWIwMGJkMTY2MGY3OTUxYzUxMjcyMzk0MTc5ODhmZmE0YixUbU4zdWpESg%3D%3D
 [8]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fpublication%2F40443&t=M2UwZjA3ZjJkYzUyN2YwMDZlMWE2YTVlMjM0OGVhYzRjZTQyOTkxOSxUbU4zdWpESg%3D%3D
 [9]: http://t.umblr.com/redirect?z=http%3A%2F%2Febooks.iospress.nl%2Fbookseries%2Fstudies-in-health-technology-and-informatics&t=MmU3OGQ5ZDFlMjcxYmRlMDhiYTg3M2I0ZDc4Zjg5MzBmNjFlNWRhNCxUbU4zdWpESg%3D%3D
