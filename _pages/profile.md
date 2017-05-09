@@ -43,15 +43,15 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 - Reuse in Software Engineering (RiSE),(in portuguese), among the ten best business plans, Intel + UC Berkeley Technology Entrepreneurship Challenge, Brazilian Contest (FGV-CEPE), São Paulo, Brazil, 2007.
 - A CASE tool for Aspect-Oriented Software Development (in portuguese), is among the three best tools in the XI Tools Session – XVIII Brazilian Symposium on Software Engineering (SBES Conference), Sociedade Brasileira de Computação (SBC), Brasília-DF, Brazil, 2004.
 
+## Books ##
+- [RiSE Reference Model for Software Reuse Adoption: An Approach for Brazilian Companies](http://www.amazon.com/Reference-Model-Software-Reuse-Adoption/dp/3844318488/ref=sr_1_1?ie=UTF8&qid=1303219393&sr=8-1){:target="_blank"}, LAP LAMBERT Academic Publishing (March 18, 2011).
+- [C.R.U.I.S.E - Component Reuse in Software Engineering](http://bit.ly/CRUiSE){:target="_blank"}, 1. ed. Recife: C.E.S.A.R e-books, 2007. v. 1. 219p., Copyright: Attribution Non-Commercial ShareAlike (BY-NC-SA).
+
 ## Computer Societies Membership ##
 
 - [Brazilian Computer Society](http://www.sbc.org.br/){:target="_blank"} Member since 2002, (Nr: 11919)
 - [IEEE](http://www.ieee.org/){:target="_blank"} and [IEEE Computer Society](http://www.ieee.org/){:target="_blank"} Member since 2008, (Nr: 90544198)
 - [IASA – The Global IT Architect Association](http://www.iasaglobal.org/){:target="_blank"}, (Nr: 20099580)
-
-## Books ##
-- [RiSE Reference Model for Software Reuse Adoption: An Approach for Brazilian Companies](http://www.amazon.com/Reference-Model-Software-Reuse-Adoption/dp/3844318488/ref=sr_1_1?ie=UTF8&qid=1303219393&sr=8-1){:target="_blank"}, LAP LAMBERT Academic Publishing (March 18, 2011).
-- [C.R.U.I.S.E - Component Reuse in Software Engineering](http://bit.ly/CRUiSE){:target="_blank"}, 1. ed. Recife: C.E.S.A.R e-books, 2007. v. 1. 219p., Copyright: Attribution Non-Commercial ShareAlike (BY-NC-SA).
 
 ## Research Interests ##
     
