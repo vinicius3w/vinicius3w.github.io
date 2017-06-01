@@ -23,6 +23,10 @@ See also the [ASSERT Lab's][1] site.
 
 * * *
 
+**2017**
+
+Lom Messan Hillah, Rodrigo Assad, Antonia Bertolino, Marcio Delamaro, Fabio De Rosa, Vinicius Garcia, Francesca Lonetti, Ariele-Paolo Maesano, Libero Maesano, Eda Marchetti, Breno Miranda, Auri Vincenzi and Juliano Iyoda. **Towards automated deployment of self-adaptive applications on hybrid clouds**. In: [15th International Conference on Software Engineering and Formal Methods (SEFM 2017)](http://sefm17.fbk.eu/){:target="_blank"}, Trento, Italy, September 4-8, 2017.
+
 **2016**
 
 NOGUEIRA, Elias; MOREIRA, Ana; LUCRÉDIO, Daniel; **GARCIA, Vinícius Cardoso** and FORTES, Renata. [**Issues on developing interoperable cloud applications: definitions, concepts, approaches, requirements, characteristics and evaluation models**](http://jserd.springeropen.com/articles/10.1186/s40411-016-0033-6){:target="_blank"}. In: [Journal of Software Engineering Research and Development](http://wordpress.redirectingat.com/?id=725X1342&site=viniciusgarcia.wordpress.com&xs=1&isjs=1&url=http%3A%2F%2Ft.umblr.com%2Fredirect%3Fz%3Dhttp%253A%252F%252Fjserd.springeropen.com%252F%26t%3DNGE1NWYxZjY5ODNhMzlmODllNzZiN2NjMzVhNmIxYTZkMTk5Yjc5NSxUbU4zdWpESg%253D%253D%26m%3D0&xguid=fc85fe889e355df005d7385eb22e165d&xuuid=96d73eba61a2f018b2b9740fe05447e5&xsessid=8432e66c713fb95cffdd7db4f470ab2a&xcreo=0&xed=0&sref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fpublications%2F&pref=https%3A%2F%2Fviniciusgarcia.wordpress.com%2Fabout%2F&xtz=180&abp=1){:target="_blank"}, 2016, 4:7. DOI: [10.1186/s40411-016-0033-6](http://dx.doi.org/10.1186/s40411-016-0033-6){:target="_blank"}.
