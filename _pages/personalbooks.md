@@ -24,6 +24,7 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!”, by Mark Daniels
 - *[para ler]* “STAR WARS – Marcas da Guerra”, by Chuck Wendig
 - *[para ler]* “O Portador do Fogo – Crônicas saxônicas – Volume 10”, by Bernard Cornwell
+- *[para ler]* "O Poder Do Agora", by Eckhart Tolle
 - *[lendo]* “Mistborn: Nascidos da Bruma: O herói das eras – Volume 3″, by Brandon Sanderson *(22-Jun-17)*
 - “Legado – Silo – Volume 3”, by Hugh Howey *(24-Apr-17 + 54 dias)*
 - “Ordem – Silo – Volume 2”, by Hugh Howey *(20-Mar-17 + 35 dias)*
