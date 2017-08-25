@@ -25,7 +25,13 @@ See also the [ASSERT Lab's][1] site.
 
 **2017**
 
+GUTIERREZ, Felipe Oliveira; GARCIA, Vinicius Cardoso; CARDOSO, Jose Fernando S.; E SILVA, Thiago Jamir; RODRIGUES NETO, Josino; ASSAD, Rodrigo Elia; BARRETO, Marcos. **uStorage - A storage architecture to provide Block-level Storage through Object-based Storage**. In: [6th European Conference on Service-Oriented and Cloud Computing](http://esocc2017.ifi.uio.no/){:target="_blank"}, Oslo, Norway, September 27-29, 2017.
+
+DO NASCIMENTO, Leandro Marques; E SILVA, Thiago Jamir; ASSAD, Rodrigo Elia; GARCIA, Vinicius Cardoso. **A Experiência de Desenvolvimento de um Sistema de Armazenamento Multicamadas e Distribuído**. In: [Industry Track of Congresso Brasileiro de Software: Teoria e Prática (CBSoft'2017)](http://cbsoft.org/cbsoft2017/){:target="_blank"}, Fortaleza, Brasil, September 18-22, 2017.
+
 Lom Messan Hillah, Rodrigo Assad, Antonia Bertolino, Marcio Delamaro, Fabio De Rosa, Vinicius Garcia, Francesca Lonetti, Ariele-Paolo Maesano, Libero Maesano, Eda Marchetti, Breno Miranda, Auri Vincenzi and Juliano Iyoda. **Towards automated deployment of self-adaptive applications on hybrid clouds**. In: [15th International Conference on Software Engineering and Formal Methods (SEFM 2017)](http://sefm17.fbk.eu/){:target="_blank"}, Trento, Italy, September 4-8, 2017.
+
+DO NASCIMENTO, Clovis Holanda; GARCIA, Vinicius Cardoso; REVOREDO, Carlo Marcelo; AFONSO, Ricardo Alexandre. **Problems of Software Development Documentation: A Survey**. In: [Euromicro Conference on Software Engineering and Advanced Applications (SEAA)](http://dsd-seaa2017.ocg.at/seaa2017){:target="_blank"}, Vienna, Austria, 30 August - 1 September, 2017
 
 **2016**
 
