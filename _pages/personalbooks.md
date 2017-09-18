@@ -12,17 +12,17 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 
 **2017**
 
-- *[para ler]* “Metro 2034”, by Dmitry Glukhovsky
-- *[para ler]* “Metro 2033”, by Dmitry Glukhovsky
-- *[para ler]* “A Rainha Do Castelo de Ar – Millennium Vol. 3”, by Stieg Larsson
-- *[para ler]* “A Menina Que Brincava Com Fogo – Millennium Vol. 2”, by Stieg Larsson
-- *[para ler]* “Os Homens Que Não Amavam as Mulheres- Millennium Vol. 1”, by Stieg Larsson
-- *[para ler]* “O Homem mais Inteligente da História”, by Augusto Cury
-- *[para ler]* “O Despertar da Irlanda – a Saga de Dublin – Vol. 2”, by Edward Rutherfurd
-- *[para ler]* “Londres – O Romance”, by Edward Rutherfurd
-- *[para ler]* “Solomon Kane – A saga completa”, by Robert. E. Howard
-- *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!”, by Mark Daniels
-- *[para ler]* “STAR WARS – Marcas da Guerra”, by Chuck Wendig
+- *[para ler]* “Metro 2034” (320 páginas), by Dmitry Glukhovsky
+- *[para ler]* “Metro 2033” (559 páginas), by Dmitry Glukhovsky
+- *[para ler]* “A Rainha Do Castelo de Ar – Millennium Vol. 3” (688 páginas), by Stieg Larsson
+- *[para ler]* “A Menina Que Brincava Com Fogo – Millennium Vol. 2” (608 páginas), by Stieg Larsson
+- *[para ler]* “Os Homens Que Não Amavam as Mulheres- Millennium Vol. 1” (524 páginas), by Stieg Larsson
+- *[para ler]* “O Homem mais Inteligente da História” (289 páginas), by Augusto Cury
+- *[para ler]* “O Despertar da Irlanda – a Saga de Dublin – Vol. 2” (800 páginas), by Edward Rutherfurd
+- *[para ler]* “Londres (Bestseller Historica)” (1184 páginas), by Edward Rutherfurd
+- *[para ler]* “Solomon Kane – A saga completa” (220 páginas), by Robert. E. Howard
+- *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!” (156 páginas), by Mark Daniels
+- *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle
 - *[para ler]* "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski
 - *[para ler]* “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell
@@ -38,7 +38,7 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 - “Paraíso Perdido – Filhos do Éden – Volume 3” (670 páginas), by Eduardo Spohr
 - “Anjos da Morte – Filhos do Éden – Volume 2” (588 páginas), by Eduardo Spohr
 - “Herdeiros de Atlântida – Filhos do Éden – Volume 1” (476 páginas), by Eduardo Spohr
-- “Guerreiros da Tempestade – Crônicas saxônicas – Volume 9”, by Bernard Cornwell
+- “Guerreiros da Tempestade – Crônicas saxônicas – Volume 9” (336 páginas), by Bernard Cornwell
 - “A Torre da Andorinha – Saga do Bruxo Geralt de Rívia – Vol. 6” (482 páginas), by Andrzej Sapkowski
 - “A Batalha do Apocalipse” (588 páginas), by Eduardo Spohr
 - “Deus ex machina” (317 páginas), by Daniel Lucrédio
@@ -53,14 +53,14 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 
 **2015**
 
-- “O trono vazio – Crônicas saxônicas – Volume 8”, by Bernard Cornwell
-- “O guerreiro pagão – Crônicas saxônicas – Volume 7”, by Bernard Cornwell
-- “Morte dos reis – Crônicas saxônicas – Volume 6 “, by Bernard Cornwell
-- “Terra em chamas – Crônicas saxônicas – Volume 5”, by Bernard Cornwell
-- “A canção da espada – Crônicas saxônicas – Volume 4”, by Bernard Cornwell
-- “Os senhores do norte – Crônicas saxônicas – Volume 3”, by Bernard Cornwell
-- “O cavaleiro da morte – Crônicas saxônicas – Volume 2”, by Bernard Cornwell
-- “O último reino – Crônicas saxônicas – Volume 1”, by Bernard Cornwell
-- “Deuses de dois mundos: O livro da morte”, by PJ Pereira
-- “Deuses de dois mundos: O livro da traição”, by PJ Pereira
-- “Deuses de dois mundos: O livro do silêncio”, by PJ Pereira
+- “O trono vazio – Crônicas saxônicas – Volume 8” (341 páginas), by Bernard Cornwell
+- “O guerreiro pagão – Crônicas saxônicas – Volume 7” (328 páginas), by Bernard Cornwell
+- “Morte dos reis – Crônicas saxônicas – Volume 6 “ (371 páginas), by Bernard Cornwell
+- “Terra em chamas – Crônicas saxônicas – Volume 5” (411 páginas), by Bernard Cornwell
+- “A canção da espada – Crônicas saxônicas – Volume 4” (336 páginas), by Bernard Cornwell
+- “Os senhores do norte – Crônicas saxônicas – Volume 3” (344 páginas), by Bernard Cornwell
+- “O cavaleiro da morte – Crônicas saxônicas – Volume 2” (379 páginas), by Bernard Cornwell
+- “O último reino – Crônicas saxônicas – Volume 1” (360 páginas), by Bernard Cornwell
+- “Deuses de dois mundos: O livro da morte” (321 páginas), by PJ Pereira
+- “Deuses de dois mundos: O livro da traição” (349 páginas), by PJ Pereira
+- “Deuses de dois mundos: O livro do silêncio” (207 páginas), by PJ Pereira
