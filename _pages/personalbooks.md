@@ -24,12 +24,12 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!” (156 páginas), by Mark Daniels
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle
-- *[para ler]* "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski
-- *[para ler]* “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell *(22-Sep-17)*
+- *[lendo]* "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski
+- “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell *(22-Sep-17 + 2 dias)*
 - “Mistborn: Nascidos da Bruma: O herói das eras – Volume 3″ (782 páginas), by Brandon Sanderson *(22-Jun-17 + 87 dias)*
 - “Legado – Silo – Volume 3” (368 páginas), by Hugh Howey *(24-Apr-17 + 54 dias)*
 - “Ordem – Silo – Volume 2” (512 páginas), by Hugh Howey *(20-Mar-17 + 35 dias)*
-- “Meditando a Vida”, by Padma Samten *(14-Fev-17 + 33 dias)*
+- “Meditando a Vida” (152 páginas), by Padma Samten *(14-Fev-17 + 33 dias)*
 - “Silo – Silo – Volume 1” (512 páginas), by Hugh Howey *(02-Nov-16 + 65 dias)*
 
 **2016**
