@@ -23,6 +23,7 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “Solomon Kane – A saga completa” (220 páginas), by Robert. E. Howard
 - *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!” (156 páginas), by Mark Daniels
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
+- *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
 - *[para ler]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle
 - *[lendo]* "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski
 - “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell *(22-Sep-17 + 2 dias)*
