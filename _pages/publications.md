@@ -295,7 +295,11 @@ MARTINS, A. C.; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA
 
 **2008**
 
-ALMEIDA, Eduardo Santana de; SANTOS, Eduardo Cruz Reis; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**; LUCRÉDIO, Daniel; FORTES, Renata Pontin de Mattos; MEIRA, Silvio Romero de Lemos. **[Domain Implementation in Software Product Lines Using OSGi][146]**. In: The [7th IEEE International Conference on Composition-Based Software Systems (ICCBSS)][147], 2008, Madrid. The 7th IEEE International Conference on Composition-Based Software Systems, 2008.
+LUCRÉDIO, Daniel ; BRITO, Kellyton dos Santos ; ALVARO, Alexandre ; **GARCIA, Vinicius Cardoso** ; ALMEIDA, Eduardo Santana de ; FORTES, Renata Pontin de Mattos ; MEIRA, Silvio Romero de Lemos. [**Software Reuse: The Brazilian Industry Scenario**](http://dx.doi.org/10.1016/j.jss.2007.08.036). Journal of Systems and Software, v. 81, p. 996-1013, 2008.
+
+BRITO, Kellyton dos Santos ; **GARCIA, Vinicius Cardoso** ; ALMEIDA, Eduardo Santana de ; MEIRA, Silvio Romero de Lemos. [**LIFT – A Legacy InFormation Retrieval Tool**](http://dx.doi.org/10.3217/jucs-014-08-1256). Journal of Universal Computer Science (Print), v. 14, p. 1256-1284, 2008.
+
+ALMEIDA, Eduardo Santana de; SANTOS, Eduardo Cruz Reis; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**; LUCRÉDIO, Daniel; FORTES, Renata Pontin de Mattos; MEIRA, Silvio Romero de Lemos. [**Domain Implementation in Software Product Lines Using OSGi**][146]. In: The [7th IEEE International Conference on Composition-Based Software Systems (ICCBSS)][147], 2008, Madrid. The 7th IEEE International Conference on Composition-Based Software Systems, 2008.
 
 ALMEIDA, Eduardo Santana de; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**; LUCRÉDIO, Daniel; FORTES, Renata Pontin de Mattos; MEIRA, Silvio Romero de Lemos. **[A Systematic Process for Domain Engineering][148]**. In: [International Conference on Software Engineering and Knowledge Engineering (SEKE'2008)][149], 2008, Redwood City,San Francisco Bay. Proceedings of the International Conference on Software Engineering and Knowledge Engineering (SEKE'2008), 2008.
 
