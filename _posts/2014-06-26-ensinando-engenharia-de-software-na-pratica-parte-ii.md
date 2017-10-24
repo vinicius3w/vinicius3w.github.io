@@ -3,14 +3,15 @@ title:  "Ensinando Engenharia de Software na Prática, Parte II"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
-  - education
+  - Education
 tags:
   - software engineering
   - cloud computing
-  - ensino
+  - teaching
   - saas
+  - soa
   - swebok
-  - engenharia de software
+  - software testing
 ---
 
 Depois de alguns meses entretido com outros desafios, minhas atenções voltaram para a construção da nova abordagem de abordar _Educação em Engenharia de Software_ ou_ Como formar Capital Humano **EFICIENTE** em Produção de Software._
