@@ -3,9 +3,14 @@ title:  "Reuso de software, esse papo é conosco!"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
-  - rise
+  - Business
 tags:
   - software reuse
+  - rise
+  - startup
+  - innovation
+  - cesar
+  - porto digital
 ---
 
 Equipe da RiSE fala sobre os conceitos de reuso de software e sobre as ferramentas desenvolvidas: BART, CORE, LIFT e TOOLDAY.
