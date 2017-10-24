@@ -3,10 +3,10 @@ title:  "O Caminho da Inovação: Da Universidade para a Sociedade e de Volta pa
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
-  - education
+  - Education
 tags:
-  - business
-  - inovation
+  - startup
+  - innovation
 ---
 No início de Setembro eu fui convidado a ministrar uma palestra na Semana do Administrador promovida pela FACIPE mais especificamente nos dias 09 e 10 de Setembro de 2014.
 
