@@ -33,7 +33,7 @@ Ajuda muito preparar equações, gráficos, ou ainda figuras em alto nível de a
 
 Escreva sempre suas ideias, hipóteses e resultados, e em seguida você pode escolher as melhores combinações de hipóteses, objetivos e dados. Muitas vezes, os objetivos de um artigo/projeto de pesquisa quando "_quasi-terminado_" (amadurecido, por melhor dizer) são diferentes dos usados para justificar o início do trabalho. Muitas das boas pesquisas científicas são oportunistas e revisionistas.
 
-Após organizar as ideias de acordo com os 10 pontos citados anteriormente, você está pronto para começar a estruturar suas informações de forma mais rica, semânticamente falando, orgnizando tudo em três grandes pontos:
+Após organizar as ideias de acordo com as 10 perguntas citadas anteriormente, você está pronto para começar a estruturar suas informações de forma mais rica, semânticamente falando, orgnizando tudo em três grandes pontos:
 
   - **Introdução**: _Por que eu fiz o trabalho? Quais foram as motivações e hipóteses centrais?_
   - **Resultados e Discussão**: _Quais foram os resultados? Como os produtos do trabalho (ou requisitos) foram feitos e caracterizados? O que foi medido?_
