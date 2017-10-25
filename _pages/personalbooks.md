@@ -25,8 +25,8 @@ In this context, Inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
-- *[para ler]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle
-- *[lendo]* "A Sorte do Agora" (224 páginas), by Matthew Quick *(19-Oct-17)*
+- *[lendo]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17)*
+- "A Sorte do Agora" (224 páginas), by Matthew Quick *(19-Oct-17 + 6 dias)*
 - "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski *(25-Sep-17 + 21 dias)*
 - “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell *(22-Sep-17 + 2 dias)*
 - “Mistborn: Nascidos da Bruma: O herói das eras – Volume 3″ (782 páginas), by Brandon Sanderson *(22-Jun-17 + 87 dias)*
