@@ -10,6 +10,14 @@ tags:
   - msc
 ---
 
+<meta property="og:image" content="http://www.coachesneedsocial.com/wp-content/uploads/2014/12/BannerWCircleImages-1.jpg" />
+
+<meta property="og:description" content="Coaches share their secrets to success so you can rock 2015. Join us for this inspiring, rejuvenating, motivating look at what secret sauce these coaches use to succeed in their business. This is for coaches of any level that are committed to changing the world. You will be elevated both in your life and your coaching business. Check out the topics below, there is something for everyone." />
+
+<meta property="og:url"content="http://www.coachesneedsocial.com/coacheswisdomtelesummit/" />
+
+<meta property="og:title" content="Coaches Wisdom Telesummit" />
+
 Escrever um artigo científico é uma das primeiras - senão a primeira - atividade **aterradora** para um aspirante a pesquisador(a) (seja um(a) estudante de iniciação científica, especialização, mestrado ou mesmo doutorado).
 
 Segundo o pesquisador [**George Whitesides**](http://gmwgroup.harvard.edu/content.php?page=gwhitesides){:target="_blank"}, "_Um artigo é uma descrição organizada de hipóteses, dados e conclusões, destinados a instruir o leitor_". Adicionalmente, **Whitesides** ainda destaca que artigos - científicos, em especial - são parte **central de uma vida de uma pesquisa**, ou de um projeto de pesquisa, uma vez que eles visam **disseminar o conhecimento** junto a comunidade interessada na área e que, não necessariamente, é a comunidade acadêmica - mesmo porque temos cada vez mais grupos de pesquisa com ressultados extremamente interessantes dentro de empresas, principalmente em TI onde podemos citar Amazon, Google e Microsoft como exemplos - acrescentando que se sua pesquisa não gerar artigos, ou seja, disseminação de conhecimento, pode indicar que ela em si também não foi bem executada. Ou ainda, sendo um pouco mais radical, **George Whitesides** afirma que "_Interessante e não publicado é equivalente a inexistente_".
