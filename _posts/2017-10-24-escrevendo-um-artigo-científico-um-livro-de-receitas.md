@@ -3,7 +3,7 @@ title:  "Escrevendo um artigo científico, um livro de receitas"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 header:
-  image: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+  image: "https://images.unsplash.com/photo-1498753427761-548428edfa67?w=1189&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"
 categories: 
   - Research
 tags:
