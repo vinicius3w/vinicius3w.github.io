@@ -2,6 +2,9 @@
 title:  "O Caminho da Inovação: Da Universidade para a Sociedade e de Volta para Ela (2014)"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+header:
+  image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg
+  caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
 categories: 
   - Education
 tags:
