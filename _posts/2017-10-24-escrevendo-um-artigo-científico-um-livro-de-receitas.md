@@ -2,6 +2,8 @@
 title:  "Escrevendo um artigo científico, um livro de receitas"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+header:
+  image: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
   - Research
 tags:
@@ -9,14 +11,6 @@ tags:
   - phd
   - msc
 ---
-
-<meta property="og:image" content="http://www.coachesneedsocial.com/wp-content/uploads/2014/12/BannerWCircleImages-1.jpg" />
-
-<meta property="og:description" content="Coaches share their secrets to success so you can rock 2015. Join us for this inspiring, rejuvenating, motivating look at what secret sauce these coaches use to succeed in their business. This is for coaches of any level that are committed to changing the world. You will be elevated both in your life and your coaching business. Check out the topics below, there is something for everyone." />
-
-<meta property="og:url"content="http://www.coachesneedsocial.com/coacheswisdomtelesummit/" />
-
-<meta property="og:title" content="Coaches Wisdom Telesummit" />
 
 Escrever um artigo científico é uma das primeiras - senão a primeira - atividade **aterradora** para um aspirante a pesquisador(a) (seja um(a) estudante de iniciação científica, especialização, mestrado ou mesmo doutorado).
 
