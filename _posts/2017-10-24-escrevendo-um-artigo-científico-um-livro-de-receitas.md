@@ -27,10 +27,10 @@ Uma boa prática que sempre me ajudou nesta tarefa foi partir de um esboço, ou 
 
 Mas como construir o esboço? Bem, a boa sugestão dada pelo **Professor Whitesides** é tentar responder algumas perguntas básicas, como:
 
-  1. Por que eu fiz (ou devo fazer) esse trabalho? O que exatamente isso significa?
-  1. Que hipóteses eu utilizei (ou devo utilizar) para testar? O que eu realmente testei? Quais foram os resultados? O trabalho produziu um novo método ou produto? Qual?
-  1. Quais as medições (métricas) que fiz (ou farei)?
-  1. Quais métodos ou resultados? Como eles foram caracterizados?
+  - (i) Por que eu fiz (ou devo fazer) esse trabalho? (ii) O que exatamente isso significa?
+  - (iii) Que hipóteses eu utilizei (ou devo utilizar) para testar? (iv) O que eu realmente testei? (v) Quais foram os resultados? (vi) O trabalho produziu um novo método ou produto? (vii) Qual?
+  - (viii) Quais as medições (métricas) que fiz (ou farei)?
+  - (ix) Quais métodos ou resultados? (x) Como eles foram caracterizados?
 
 Ajuda muito preparar equações, gráficos, ou ainda figuras em alto nível de abstração para ajudar no entendimento de fluxos de trabalho ou informações, bem como de que forma as ideias estao conectadas, ou como a arquitetura da sua solução estará organizada de forma que irá atender às suas premissas.
 
