@@ -18,6 +18,10 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ## 2017
 
+### Livros / Books
+
+1. PLINIO ANTUNES GARCIA ‎ **VINICIUS CARDOSO GARCIA**. [**UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS**](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia){:target="_blank"}, Amazon Servicos de Varejo do Brasil Ltda, ASIN: B077GBLBQ3, 2017.
+
 ### Artigos em Conferências / Conference papers
 
 1. GUTIERREZ, Felipe Oliveira; **GARCIA, Vinicius Cardoso**; CARDOSO, Jose Fernando S.; E SILVA, Thiago Jamir; RODRIGUES NETO, Josino; ASSAD, Rodrigo Elia; BARRETO, Marcos. [**uStorage - A storage architecture to provide Block-level Storage through Object-based Storage**](https://link.springer.com/chapter/10.1007/978-3-319-67262-5_16){:target="_blank"}. In: De Paoli F., Schulte S., Broch Johnsen E. (eds) [6th European Conference on Service-Oriented and Cloud Computing](http://esocc2017.ifi.uio.no/){:target="_blank"}, ESOCC 2017. Lecture Notes in Computer Science, vol 10465. Springer, Cham, Oslo, Norway, September 27-29, 2017. ISBN: 978-3-319-67262-5, doi: [10.1007/978-3-319-67262-5_16](https://doi.org/10.1007/978-3-319-67262-5_16){:target="_blank"}.

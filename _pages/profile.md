@@ -44,6 +44,8 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 - A CASE tool for Aspect-Oriented Software Development (in portuguese), is among the three best tools in the XI Tools Session – XVIII Brazilian Symposium on Software Engineering (SBES Conference), Sociedade Brasileira de Computação (SBC), Brasília-DF, Brazil, 2004.
 
 ## Books ##
+
+- [UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia){:target="_blank"}, Amazon Servicos de Varejo do Brasil Ltda, ASIN: B077GBLBQ3, 2017.
 - [RiSE Reference Model for Software Reuse Adoption: An Approach for Brazilian Companies](http://www.amazon.com/Reference-Model-Software-Reuse-Adoption/dp/3844318488/ref=sr_1_1?ie=UTF8&qid=1303219393&sr=8-1){:target="_blank"}, LAP LAMBERT Academic Publishing (March 18, 2011).
 - [C.R.U.I.S.E - Component Reuse in Software Engineering](http://bit.ly/CRUiSE){:target="_blank"}, 1. ed. Recife: C.E.S.A.R e-books, 2007. v. 1. 219p., Copyright: Attribution Non-Commercial ShareAlike (BY-NC-SA).
 
