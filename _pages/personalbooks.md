@@ -10,7 +10,7 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-**2017**
+**2018**
 
 - *[para ler]* “Metro 2034” (320 páginas), by Dmitry Glukhovsky
 - *[para ler]* “Metro 2033” (559 páginas), by Dmitry Glukhovsky
@@ -25,6 +25,9 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
+
+**2017**
+
 - *[lendo]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17)*
 - "A Sorte do Agora" (224 páginas), by Matthew Quick *(19-Oct-17 + 6 dias)*
 - "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski *(25-Sep-17 + 21 dias)*
