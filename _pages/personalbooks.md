@@ -28,7 +28,8 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 **2017**
 
-- *[lendo]* "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17)*
+- *[lendo]* "Coração de Aço" (392 páginas), by Brandon Sanderson *(27-Dec-17)*
+- "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17 + 63 dias)*
 - "A Sorte do Agora" (224 páginas), by Matthew Quick *(19-Oct-17 + 6 dias)*
 - "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski *(25-Sep-17 + 21 dias)*
 - “O Portador do Fogo – Crônicas saxônicas – Volume 10” (464 páginas), by Bernard Cornwell *(22-Sep-17 + 2 dias)*
