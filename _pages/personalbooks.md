@@ -25,10 +25,11 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
+- *[lendo]* "O Nome do Vento" (656 páginas), by Patrick Rothfuss *(01/01/2018)*
 
 **2017**
 
-- *[lendo]* "Coração de Aço" (392 páginas), by Brandon Sanderson *(27-Dec-17)*
+- "Coração de Aço" (392 páginas), by Brandon Sanderson *(27-Dec-17 + 1 dia)*
 - "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17 + 63 dias)*
 - "A Sorte do Agora" (224 páginas), by Matthew Quick *(19-Oct-17 + 6 dias)*
 - "A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 1" (300 páginas), by Andrzej Sapkowski *(25-Sep-17 + 21 dias)*
