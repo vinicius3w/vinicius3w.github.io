@@ -25,7 +25,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
-- *[lendo]* "O Nome do Vento - A Crônica do Matador Do Rei: Primeiro Dia" (656 páginas), by Patrick Rothfuss *(01/01/2018)*
+- *[lendo]* "O Nome do Vento - A Crônica do Matador Do Rei: Primeiro Dia" (656 páginas), by Patrick Rothfuss *(01-Jan-18)*
 
 **2017**
 
