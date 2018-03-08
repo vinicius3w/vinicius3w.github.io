@@ -54,7 +54,7 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 - [Brazilian Computer Society](http://www.sbc.org.br/){:target="_blank"} Member since 2002, (Nr: 11919)
 - [IEEE](http://www.ieee.org/){:target="_blank"} and [IEEE Computer Society](http://www.ieee.org/){:target="_blank"} Member since 2008, (Nr: 90544198)
 - [IASA – The Global IT Architect Association](http://www.iasaglobal.org/){:target="_blank"}, (Nr: 20099580)
-- [orcid.org/0000-0001-6904-7470](https://orcid.org/0000-0001-6904-7470)
+- [orcid.org/0000-0001-6904-7470](https://orcid.org/0000-0001-6904-7470){:target="_blank"}
 
 ## Research Interests ##
     
