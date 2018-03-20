@@ -10,7 +10,7 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-**2018**
+### 2018
 
 - *[para ler]* “Metro 2034” (320 páginas), by Dmitry Glukhovsky
 - *[para ler]* “Metro 2033” (559 páginas), by Dmitry Glukhovsky
@@ -29,7 +29,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - "A Jornada do ser humano" (186 páginas), by Osho *(31-Jan-18 + 46 dias)*
 - "O Nome do Vento - A Crônica do Matador Do Rei: Primeiro Dia" (656 páginas), by Patrick Rothfuss *(01-Jan-18 + 29 dias)*
 
-**2017**
+### 2017
 
 - "Coração de Aço" (392 páginas), by Brandon Sanderson *(27-Dec-17 + 1 dia)*
 - "O Poder do Agora: Um guia para a iluminação espiritual" (224 páginas), by Eckhart Tolle *(25-Oct-17 + 63 dias)*
@@ -42,7 +42,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - “Meditando a Vida” (152 páginas), by Padma Samten *(14-Fev-17 + 33 dias)*
 - “Silo – Silo – Volume 1” (512 páginas), by Hugh Howey *(02-Nov-16 + 65 dias)*
 
-**2016**
+### 2016
 
 - “Os Últimos Dias de Krypton” (464 páginas), by Kevin J. Anderson
 - “Paraíso Perdido – Filhos do Éden – Volume 3” (670 páginas), by Eduardo Spohr
@@ -61,7 +61,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - “Mistborn: Nascidos da Bruma. O Império Final – Volume 1” (608 páginas), by  Brandon Sanderson
 - “Elantris” (578 páginas), by Brandon Sanderson
 
-**2015**
+### 2015
 
 - “O trono vazio – Crônicas saxônicas – Volume 8” (341 páginas), by Bernard Cornwell
 - “O guerreiro pagão – Crônicas saxônicas – Volume 7” (328 páginas), by Bernard Cornwell
