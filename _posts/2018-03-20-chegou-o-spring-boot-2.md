@@ -157,11 +157,7 @@ O pool de conexão padrão mudou do Tomcat para HikariCP. Se antes era utilizado
 spring.datasource.type=org.apache.tomcat.jdbc.pool.DataSource
 ```
 
-**Ferramenta de Desenvolvimento**
-
-By default, each time your application restarts, a report showing the condition evaluation delta is logged. The report shows the changes to your application’s auto-configuration as you make changes such as adding or removing beans and setting configuration properties.
-
-To disable the logging of the report, set the following property:
+**Dev Tools**
 
 Por padrão, cada vez que a aplicação é reiniciada, um relatório que mostra o delta de avaliação de condição é registrado. O relatório mostra as mudanças na configuração automática da sua aplicação à medida que ocorrem as alterações como, por exemplo, adicionar ou remover beans e definir propriedades de configuração.
 
