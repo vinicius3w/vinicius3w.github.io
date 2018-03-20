@@ -18,7 +18,7 @@ tags:
 
 Este é um post baseado no artigo publicado pelo [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
 
-Neste semestre estou ministradno pela primeira uma disciplina inteiraente focada em investigar o desenvolvimento de aplicações "nativas de nuvem" com arquitetura baseada em microservises (mais informações aqui: [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices). Como ferramenta adotei o [Spring Boot](https://projects.spring.io/spring-boot/) dado o conjunto de facilidades e benefícios acelerados que teria com o seu uso.
+Neste semestre estou ministrando pela primeira uma disciplina inteiramente focada em investigar o desenvolvimento de aplicações "nativas de nuvem" com arquitetura baseada em microservices (mais informações aqui: [Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices](https://github.com/vinicius3w/if1007-Microservices). Como ferramenta adotei o [Spring Boot](https://projects.spring.io/spring-boot/) dado o conjunto de facilidades e benefícios acelerados que teria com o seu uso.
 
 O foco ficaria muito mais nos conceitos e decisões de projetos do que em questões de codificação, digamos assim. Estratégia também adotada na disciplina de Engenharia de Software (maiores informações aqui: [
 Engenharia de Software (if977)](https://sites.google.com/a/cin.ufpe.br/if977/)), que também ministro, e motivou a escolha da suite de ferramentas pra ela.
@@ -27,11 +27,11 @@ Bem, o Spring Boot 2 acabou de ser lançado e a comunidade já está pronta para
 
 ## História
 
-Antes de trtar do que há de novo, é interessante contextualizar um pouco a história do framework Spring Boot. Em uma publicação num blog publicada em agosto de 2013, [Phil Webb anunciou o lançamento do primeiro marco de um novo projeto chamado Spring Boot](https://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone/).
+Antes de tratar do que há de novo, é interessante contextualizar um pouco a história do framework Spring Boot. Em uma publicação num blog publicada em agosto de 2013, [Phil Webb anunciou o lançamento do primeiro marco de um novo projeto chamado Spring Boot](https://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone/).
 
-> Spring Boot aims to make it easy to create Spring-powered, production-grade applications and services with minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. You can use it to create stand-alone Java applications that can be started using ‘java -jar’ or more traditional WAR deployments. 
+> Spring Boot aims to make it easy to create Spring-powered, production-grade applications and services with minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. You can use it to create stand-alone Java applications that can be started using ‘java -jar’ or more traditional WAR deployments.
 
-Cerca de 9 meses depois, em abril de 2014, o Spring Boot 1.0 foi lançado. Desde então, houveram inúmeros lançamentos menores e evlu'ões até alcançarmos o estágio atual, conforme pode ser conferido neste post do [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
+Cerca de 9 meses depois, em abril de 2014, o Spring Boot 1.0 foi lançado. Desde então, houveram inúmeros lançamentos menores e evluções até alcançarmos o estágio atual, conforme pode ser conferido neste post do [Dan Vega](http://therealdanvega.com/blog/2018/03/01/what-is-new-spring-boot-2?utm_content=educational&utm_campaign=2018-03-20&utm_source=email-sendgrid&utm_term=554668&utm_medium=760202).
 
 ## O que há de novo no Spring
 
@@ -52,7 +52,7 @@ The reactive stack is our main character in the story of Spring Framework 5. Thi
 
 ### O que há de novo no Spring Boot 2
 
-#### Atualizações de bibliotecas de terceiros
+**Atualizações de bibliotecas de terceiros**
 
 Com a nova versão do Spring Boot, a equipe Spring teve a oportunidade de atualizar várias "dependências".
 
@@ -63,13 +63,13 @@ Com a nova versão do Spring Boot, a equipe Spring teve a oportunidade de atuali
 - Flyway 5
 - Gradle 4
 
-#### Reactive Spring Data & Spring Security
+**Reactive Spring Data & Spring Security**
 
 Como o Spring WebFlux, o Spring Data também fornece suporte para aplicações reativas. Atualmente, Cassandra, MongoDB, Couchbase e Redis possuem suporte a APIs reativas. O Spring Boot inclui starter-POMs para todos eles, o que deve facilitar demais.
 
 Também há a possibilidade agora de usar o Spring Security 5.0 nas aplicações reativos. Quando o Spring Security está no classpath, a configuração automática é fornecida para aplicativos WebFlux.
 
-#### Actuator
+**Actuator**
 
 O Spring Boot Actuator não é nenhuma novidade, mas foi completamente reescrito. O Actuator expõe os _endpoints_ automaticamente para obter informações sobre esse status de sua aplicação. O Actuator foi escrito para dar suporte aos novos requisitos e funcionalidades providas pelo stack reativo. Algumas das mudanças no Actuator:
 
@@ -87,13 +87,13 @@ Esta pode ser uma área em que as pessoas tenham problemas para atualizar por ca
 
 Existe um documento detalhado para a Spring Boot Actuator Web API Endpoints [disponível aqui](https://docs.spring.io/spring-boot/docs/2.0.x/actuator-api/html/).
 
-#### Segurança Simplificada
+**Segurança Simplificada**
 
 No Spring Boot 2.x, um dos principais objetivos foi simplificar a configuração de segurança e facilitar a segurança personalizada. Por padrão, tudo está seguro, incluindo recursos estáticos e os pontos finais do Actuator. Se o Spring Security estiver no classpath, o Spring Boot irá adicionar a anotação @EnableWebSecurity e contar com a negociação de conteúdo do Spring Security para decidir qual mecanismo de autenticação usar.
 
 Uma vez que os desenvolvedores decidam que querem adicionar uma segurança personalizada, a configuração de segurança padrão fornecida pelo Spring Boot será desativada completamente. Neste ponto, os desenvolvedores precisam definir explicitamente todos os bits que desejam proteger. Isso significa que a configuração de segurança está agora em um só lugar e evita qualquer tipo de problemas com os ``WebSecurityConfigurerAdapters`` existentes.
 
-#### Suporte a HTTP/2
+**Suporte a HTTP/2**
 
 É difícil de acreditar, mas a especificação HTTP 1.1 foi lançada em **1996**. Não precisamos nem dizer isso, mas a web de hoje em dia é **muito** diferente. Se você quiser habilitar o HTTP/2 em suas aplicaçõess Spring MVC ou WebFlux, você pode usar a seguinte propriedade.
 
@@ -103,7 +103,7 @@ server.http2.enabled=true
 
 Claro que isso também depende do servidor web escolhido e do ambiente da aplicação, já que esse protocolo não é suportado "_out-of-the-box_" a pelo JDK8. [Verifique a documentação para obter mais detalhes](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/howto-embedded-web-servers.html#howto-configure-http2).
 
-#### Configuration Properties
+**Configuration Properties**
 
 In Spring Boot 1.x this notion of relaxed binding was supported and all that meant is there were multiple ways you could create a property name (camel case, underscore, hyphen) and that property would all bind to the same property. 
 
@@ -117,7 +117,7 @@ Isso ainda funciona da mesma forma, mas o que eles apertaram foi a maneira como 
 
 <https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/boot-features-external-config.html#boot-features-external-config-relaxed-binding>
 
-#### Métricas
+**Métricas**
 
 As métricas do Spring Boot foram substituídas por Micrometer, que está sendo desenvolvido pela Pivotal.
 
@@ -136,11 +136,11 @@ O Spring Boot Actuator fornece gerenciamento de dependência e configuração au
 * [StatsD](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/production-ready-metrics.html#production-ready-metrics-export-statsd)
 * [Wavefront](https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/production-ready-metrics.html#production-ready-metrics-export-wavefront)
 
-![]({{ BASE_PATH }}/images/2018-03-20-chegou-o-spring-boot-2/2018-02-28_07-12-582018-02-28_06-59-52.png)
+![]({{ BASE_PATH }}/images/2018-03-20-chegou-o-spring-boot-2/2018-02-28_06-59-52.png)
 
 Mais informações sobre o Micrometerm visite <https://micrometer.io/>
 
-#### Quartz Scheduler
+**Quartz Scheduler**
 
 O Spring Boot 2 fornece suporte para o Quartz Scheduler que pode ser usado através do iniciador dedicado ``spring-boot-starter-quartz``. Tanto no armazenamento na memória quanto JDBC podem ser configurados.
 
@@ -151,7 +151,7 @@ O Spring Boot 2 fornece suporte para o Quartz Scheduler que pode ser usado atrav
 </dependency>
 ```
 
-#### HikariCP Connection Pool
+**HikariCP Connection Pool**
 
 O pool de conexão padrão mudou do Tomcat para HikariCP. Se antes era utilizado ``spring.datasource.type`` para forçar o uso do Hikari em uma aplicação baseado no Tomcat, agora não há mais necessidade. Da mesma forma, se preferir ficar com o pool de conexão do Tomcat, basta adicionar o seguinte à sua configuração:
 
@@ -159,7 +159,7 @@ O pool de conexão padrão mudou do Tomcat para HikariCP. Se antes era utilizado
 spring.datasource.type=org.apache.tomcat.jdbc.pool.DataSource
 ```
 
-### Ferramenta de Desenvolvimento
+**Ferramenta de Desenvolvimento**
 
 By default, each time your application restarts, a report showing the condition evaluation delta is logged. The report shows the changes to your application’s auto-configuration as you make changes such as adding or removing beans and setting configuration properties.
 
@@ -172,7 +172,8 @@ Para desativar o registro do relatório, defina a seguinte propriedade:
 ```java
 spring.devtools.restart.log-condition-evaluation-delta=false
 ```
-#### JUnit 5
+
+**JUnit 5**
 
 Conforme já dito anteriormente, o padrão para um aplicativo Spring Boot é ainda usar o JUnit 4. Se quiser mudar para o JUnit 5, será preciso excluir JUnit 4 do teste de inicialização inicial do spring boot e adicionar as dependências necessárias. 
 
