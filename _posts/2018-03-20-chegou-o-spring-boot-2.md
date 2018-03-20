@@ -103,10 +103,6 @@ Claro que isso também depende do servidor web escolhido e do ambiente da aplica
 
 **Configuration Properties**
 
-In Spring Boot 1.x this notion of relaxed binding was supported and all that meant is there were multiple ways you could create a property name (camel case, underscore, hyphen) and that property would all bind to the same property. 
-
-This still works the same but what they did tighten up was the way that you read variables in your own code. The @Value annotation is a core container feature, and it does not provide the same features as type-safe configuration properties.
-
 No Spring Boot 1.x, essa noção de ligação relaxada ("_relaxed binding_") foi suportada e tudo isso significava que havia várias maneiras de criar um nome de propriedade (_camel case, underscore, hyphen_) e todos se vinculariam à mesma propriedade.
 
 Isso ainda funciona da mesma forma, mas o que eles apertaram foi a maneira como você lê variáveis em seu próprio código. A anotação @Value é um recurso de contêiner central e não fornece os mesmos recursos que as propriedades de configuração type-safe.
