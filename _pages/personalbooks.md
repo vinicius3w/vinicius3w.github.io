@@ -25,6 +25,9 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
+- *[para ler]* "Mistborn: Segunda era: Os braceletes da perdição" (479 páginas), by Brandon Sanderson
+- *[para ler]* "Mistborn: Segunda era: As sombras de si mesmo" (423 páginas), by Brandon Sanderson
+- *[para ler]* "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson
 - *[lendo]* "A música do silêncio A Crônica do Matador Do Rei" (165 páginas), by Patrick Rothfuss *(13-Apr-18)*
 - "O Temor do Sábio - A Crônica do Matador Do Rei: Segundo Dia" (960 páginas), by Patrick Rothfuss *(19-Mar-18 + 24 dias)*
 - "A Jornada do ser humano" (186 páginas), by Osho *(31-Jan-18 + 46 dias)*
