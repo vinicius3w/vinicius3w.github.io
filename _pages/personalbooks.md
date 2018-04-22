@@ -25,6 +25,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
 - *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
 - *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
+- *[para ler]* "O Príncipe de Westeros e Outras Histórias" (464 páginas), by  George R. R. Martin & Dozois Gardner
 - *[para ler]* "Mistborn: Segunda era: Os braceletes da perdição" (479 páginas), by Brandon Sanderson
 - *[para ler]* "Mistborn: Segunda era: As sombras de si mesmo" (423 páginas), by Brandon Sanderson
 - *[para ler]* "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson
