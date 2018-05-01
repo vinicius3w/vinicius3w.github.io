@@ -12,22 +12,6 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018
 
-- *[para ler]* “Metro 2034” (320 páginas), by Dmitry Glukhovsky
-- *[para ler]* “Metro 2033” (559 páginas), by Dmitry Glukhovsky
-- *[para ler]* “A Rainha Do Castelo de Ar – Millennium Vol. 3” (688 páginas), by Stieg Larsson
-- *[para ler]* “A Menina Que Brincava Com Fogo – Millennium Vol. 2” (608 páginas), by Stieg Larsson
-- *[para ler]* “Os Homens Que Não Amavam as Mulheres- Millennium Vol. 1” (524 páginas), by Stieg Larsson
-- *[para ler]* “O Homem mais Inteligente da História” (289 páginas), by Augusto Cury
-- *[para ler]* “O Despertar da Irlanda – a Saga de Dublin – Vol. 2” (800 páginas), by Edward Rutherfurd
-- *[para ler]* “Londres (Bestseller Historica)” (1184 páginas), by Edward Rutherfurd
-- *[para ler]* “Solomon Kane – A saga completa” (220 páginas), by Robert. E. Howard
-- *[para ler]* “A história da mitologia para quem tem pressa: Do Olho de Hórus ao Minotauro em apenas 200 páginas!” (156 páginas), by Mark Daniels
-- *[para ler]* “STAR WARS – Marcas da Guerra” (390 páginas), by Chuck Wendig
-- *[para ler]* "Flash Boys"(291 páginas), by Michael Lewis
-- *[para ler]* "Antifragile: Things That Gain from Disorder (Incerto)" (544 páginas), by Nassim Nicholas Taleb
-- *[para ler]* "O Príncipe de Westeros e Outras Histórias" (464 páginas), by  George R. R. Martin & Dozois Gardner
-- *[para ler]* "Mistborn: Segunda era: Os braceletes da perdição" (479 páginas), by Brandon Sanderson
-- *[para ler]* "Mistborn: Segunda era: As sombras de si mesmo" (423 páginas), by Brandon Sanderson
 - *[lendo]* "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson *(01-May-18)*
 - "A música do silêncio A Crônica do Matador Do Rei" (165 páginas), by Patrick Rothfuss *(13-Apr-18 + 9 dias)*
 - "O Temor do Sábio - A Crônica do Matador Do Rei: Segundo Dia" (960 páginas), by Patrick Rothfuss *(19-Mar-18 + 24 dias)*
