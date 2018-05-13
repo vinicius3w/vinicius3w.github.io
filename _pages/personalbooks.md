@@ -12,7 +12,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018
 
-- *[lendo]* - “Mistborn: Segunda era: As sombras de si mesmo” (423 páginas), by Brandon Sanderson *(08-May-18)*
+- *[lendo]* - “Mistborn: Segunda era: As sombras de si mesmo” (423 páginas), by Brandon Sanderson *(14-May-18)*
 - "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson *(25-April-18 + 12 dias)*
 - "A música do silêncio A Crônica do Matador Do Rei" (165 páginas), by Patrick Rothfuss *(13-Apr-18 + 9 dias)*
 - "O Temor do Sábio - A Crônica do Matador Do Rei: Segundo Dia" (960 páginas), by Patrick Rothfuss *(19-Mar-18 + 24 dias)*
