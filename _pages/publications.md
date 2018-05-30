@@ -16,11 +16,18 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
  * [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="_blank"}
  * [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="_blank"}
 
+## 2018
+
+### Livros / Books
+
+1. Giovani Felipe Jahn; **VINICIUS CARDOSO GARCIA**. [**Arquitetura Para Tratamento De Dados Não Estruturados**](https://www.morebooks.shop/bookprice_offer_574afe995dd180abf0ad09d30786aa1cc7f2f09b?auth_token=d3d3Lm5lYS1lZGljb2VzLmNvbTo1ZTM2MDk5NjVjNzRhZDU0MzVkMzY1NWEyYzAxYWFhZA%3D%3D&locale=gb&currency=EUR). [Novas Edições Acadêmicas](https://www.morebooks.shop/books/gb/published_by/novas-edi%C3%A7%C3%B5es-acad%C3%AAmicas/332520/products), ISBN-13:
+978-613-9-61515-5, Published on 24-05-2018.
+
 ## 2017
 
 ### Livros / Books
 
-1. PLINIO ANTUNES GARCIA ‎ **VINICIUS CARDOSO GARCIA**. [**UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS**](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia){:target="_blank"}, Amazon Servicos de Varejo do Brasil Ltda, ASIN: B077GBLBQ3, 2017.
+1. PLINIO ANTUNES GARCIA; ‎ **VINICIUS CARDOSO GARCIA**. [**UMA INVESTIGAÇÃO SOBRE AS DIFICULDADES DE PLANEJAMENTO DE TI EM INSTITUIÇÕES PÚBLICAS BRASILEIRAS: UMA ABORDAGEM COM TEORIA FUNDAMENTADA EM DADOS**](https://www.amazon.com.br/INVESTIGA%C3%87%C3%83O-DIFICULDADES-PLANEJAMENTO-INSTITUI%C3%87%C3%95ES-BRASILEIRAS-ebook/dp/B077GBLBQ3/ref=sr_1_1?ie=UTF8&qid=1510830571&sr=8-1&keywords=vinicius+cardoso+garcia){:target="_blank"}, Amazon Servicos de Varejo do Brasil Ltda, ASIN: B077GBLBQ3, 2017.
 
 ### Capítulos de Livro / Book Chapters
 
