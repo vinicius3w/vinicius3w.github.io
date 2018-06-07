@@ -12,7 +12,8 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018
 
-- *[lendo]* “Mistborn: Segunda era: Os braceletes da perdição” (479 páginas), by Brandon Sanderson *(21-May-18)*
+- *[lendo]* "Tormenta de fogo (Executores)", by Brandon Sanderson *(07-Jul-18)*
+- “Mistborn: Segunda era: Os braceletes da perdição” (479 páginas), by Brandon Sanderson *(21-May-18 + 16 dias)*
 - “Mistborn: Segunda era: As sombras de si mesmo” (423 páginas), by Brandon Sanderson *(14-May-18 + 6 dias)*
 - "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson *(25-April-18 + 12 dias)*
 - "A música do silêncio A Crônica do Matador Do Rei" (165 páginas), by Patrick Rothfuss *(13-Apr-18 + 9 dias)*
