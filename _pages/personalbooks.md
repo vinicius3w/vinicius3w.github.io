@@ -12,7 +12,8 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018
 
-1. *[lendo]* "Tormenta de fogo (Executores)" (410 páginas), by Brandon Sanderson *(12-Jul-18)*
+1. *[lendo]* “A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 2” (266 páginas), by Andrzej Sapkowski *(19-Jul-18)*
+1. "Tormenta de fogo (Executores)" (410 páginas), by Brandon Sanderson *(12-Jul-18 + 5 dias)*
 1. “Mistborn: Segunda era: Os braceletes da perdição” (479 páginas), by Brandon Sanderson *(21-May-18 + 16 dias)*
 1. “Mistborn: Segunda era: As sombras de si mesmo” (423 páginas), by Brandon Sanderson *(14-May-18 + 6 dias)*
 1. "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson *(25-April-18 + 12 dias)*
