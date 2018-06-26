@@ -10,10 +10,11 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2018 (9)
+### 2018 (10)
 
-- *[lendo]* “A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 2” (266 páginas), by Andrzej Sapkowski *(19-Jul-18)*
-- "Tormenta de fogo (Executores)" (410 páginas), by Brandon Sanderson *(12-Jul-18 + 5 dias)*
+- *[lendo]* "A Sutil Arte de Ligar o F*da-Se" (224 páginas), by Manson Mark *(27-Jun-18)*
+- “A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 2” (266 páginas), by Andrzej Sapkowski *(19-Jun-18 + 6 dias)*
+- "Tormenta de fogo (Executores)" (410 páginas), by Brandon Sanderson *(12-Jun-18 + 5 dias)*
 - “Mistborn: Segunda era: Os braceletes da perdição” (479 páginas), by Brandon Sanderson *(21-May-18 + 16 dias)*
 - “Mistborn: Segunda era: As sombras de si mesmo” (423 páginas), by Brandon Sanderson *(14-May-18 + 6 dias)*
 - "Mistborn: Segunda era: A liga da lei" (356 páginas), by Brandon Sanderson *(25-April-18 + 12 dias)*
