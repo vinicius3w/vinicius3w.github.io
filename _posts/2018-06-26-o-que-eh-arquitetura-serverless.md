@@ -54,7 +54,7 @@ Durante anos, as aplicações eram executadas em servidores que sempre necessita
 
 Uma das principais vantagens de usar Serverless é o **custo reduzido**. O modelo de custo do Serverless é baseado em **execução**: você é cobrado pelo número de execuções. Você recebe um certo número de **segundos de uso** que varia de acordo com a **quantidade de memória necessária**. Da mesma forma, o preço por MS (milissegundos) varia com a quantidade de memória necessária. Obviamente, funções de execução mais curtas são mais adaptáveis a esse modelo, com um pico de tempo de execução de 300 segundos para a maioria dos fornecedores de nuvem.
 
-_O vencedor aqui é a arquitetura Serverless_.
+O vencedor aqui é a arquitetura Serverless.
 
 ### Networking
 
