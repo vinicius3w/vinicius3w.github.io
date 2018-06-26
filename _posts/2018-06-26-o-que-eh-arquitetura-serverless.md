@@ -17,13 +17,11 @@ tags:
   - Lambda
 ---
 
-Sem servidor ou *Serverless*, a mais nova buzzword do momento (tá, nem tão nova assim dependendo de quão *early adopter* você é) vem ganhando muita atenção dos profissionais e estudantes no mundo (indústria e academia) de Tecnologia da Informação. Em parte devido à forma como os fornecedores/provedores de nuvem, como a [AWS](https://aws.amazon.com/pt/serverless/) e [Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/), majoritariamente, fizeram o _hype_ da arquitetura, de conferências a _meetups_, a posts de blogs e artigos em quase todos os lugares. Além disso, novos projetos pipocam o tempo todo (nota: vale à pena conferir o [Fn](https://github.com/fnproject/fn)). Mas serverless não é apenas sobre o _hype_, ele promete também a possibilidade de implementações de negócios do "jeito ideal" e que, em um primeiro momento, soa bastante agradável para os ouvidos e, provavelmente, lança uma luz sobre os custos e o orçamento também.
+Sem servidor ou *Serverless*, a mais nova _buzzword_ do momento (tá, nem tão nova assim dependendo de quão *early adopter* você é) vem ganhando muita atenção dos profissionais e estudantes no mundo (indústria e academia) de Tecnologia da Informação. Em parte devido à forma como os fornecedores/provedores de nuvem, como a [AWS](https://aws.amazon.com/pt/serverless/) e [Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/), majoritariamente, fizeram o _hype_ da arquitetura, de conferências a _meetups_, a posts de blogs e artigos em quase todos os lugares. Além disso, novos projetos pipocam o tempo todo (nota: vale à pena conferir o [Fn](https://github.com/fnproject/fn)). Mas serverless não é apenas sobre o _hype_, ele promete também a possibilidade de implementações de negócios do "jeito ideal" e que, em um primeiro momento, soa bastante agradável para os ouvidos e, provavelmente, lança uma luz sobre os custos e o orçamento também.
 
 O lema no universo Serverless é
 
 > _“Focus on your **application**, not the **infrastructure**”_
-
-Sounds relieving though, knowing a lot of your daylight hours go into implementing, maintaining, debugging, and monitoring the infrastructure. With all of that infrastructure heavy lifting out of the way, we really can focus on the business goals our applications serve. A lot of productive efforts could be channeled in the right direction, where they were meant to be ideally. Maybe it sounds too good to be true, but this is the way things should have been. At least for those of you who cant afford to spend a lot of time caught up in the web of intricacies in modern complex infrastructure.
 
 Temos que reconhecer, é um lema reconfortante, principalmente sabendo que muitas das nossas horas do dia são dedicadas a implementar, manter, depurar e monitorar a nossa infraestrutura. Com toda essa carga na infraestrutura fora do nosso caminho, de fato poderíamos nos concentrar nos tão sonhados **objetivos de negócios** (ou _business drivers_) que nossas aplicações devem atender. Neste contexto, muitos esforços poderiam ser direcionados para onde os resultados são realmente mais importantes, e valiosos. Claro, soa como mais uma [bala de prata](http://www.cs.nott.ac.uk/~pszcah/G51ISS/Documents/NoSilverBullet.html), mas se você pensar bem, é asism que as coisas deveriam ser desde o princípio né? Pelo menos para aqueles que não podem gastar tanto esforço (tempo e dinheiro) presos nas ais diversas complexidades de infraestrutura (principalmente nos dias de hoje, com [as mais modernas complexidades](https://cloudplatform.googleblog.com/2018/06/Time-to-Hello-World-VMs-vs-containers-vs-PaaS-vs-FaaS.html)).
 
@@ -49,8 +47,6 @@ A maioria dos provedores de nuvem investiram pesado em serverless. Com essa prom
 
 ![Source: https://www.gocd.org/2017/06/26/serverless-architecture-continuous-delivery/]({{ BASE_PATH }}/images/2018-06-26-o-que-eh-arquitetura-serverless/1_x_v5NRC3TTMt1MaYl1gMUg.png)
 Source: https://www.gocd.org/2017/06/26/serverless-architecture-continuous-delivery/
-
-For years your applications have run on servers which you had to patch, update, and continuously look after late nights and early mornings due to all the unimaginable errors that broke your production. As long as you managed them, the whole responsibility of their proper functioning was on you. Serverless tends to be unlike the aforementioned, you no longer need to worry about the underlying servers. Reason being, they are not managed by you anymore and with management out of the picture the responsibility falls on the Cloud vendors. But regardless the cool features of Serverless in some cases, the traditional architecture outshines it.
 
 Durante anos, as aplicações eram executadas em servidores que sempre necessitavam de correções, atualizações além de uma dedicação contínua (madrugadas à fio) para mantê-los em operação. Desta forma, **TODA** responsabilidade do funcionamento deles estava em **você**. Serverless tende a ser diferente dessa situação, onde você não precisa mais se preocupar com os servidores subjacentes. Eles já não são mais gerenciados por você e com o gerenciamento fora do quadro, a responsabilidade recai sobre os fornecedores de nuvem. Mas, independentemente dos recursos interessantes do Serverless, em alguns casos, a arquitetura tradicional o supera.
 
@@ -96,7 +92,7 @@ Temos um empate técnico entre a arquitetura Serverless e a tradicional.
 
 O FaaS é uma implementação de arquiteturas Serverless onde os desevnolvedores podem implantar uma função individual ou uma parte da lógica de negócios. Eles começam em milissegundos (~ 100 ms para o [AWS Lambda](https://aws.amazon.com/lambda/)) e processam solicitações individuais em um intervalo de tempo - no geral - de 300 segundos - imposto pela maioria dos fornecedores de nuvem.
 
-Princípios do FaaS:
+### Princípios do FaaS
 
 * Gerenciamento completo de servidores
 * Cobrança baseada em invocação
@@ -104,29 +100,12 @@ Princípios do FaaS:
 
 ### Propriedades chave do FaaS
 
-**Funções lógicas independentes do lado do servidor.**
-
-Os FaaS são semelhantes às funções que você está acostumado a escrever em linguagens de programação. Unidades de lógica **pequenas**, separadas, que recebem argumentos de entrada, operam na entrada e retornam o resultado.
-
-**Sem estado.**
-
-Com o Serverless, **tudo é sem estado**, você não pode salvar um arquivo no disco em uma execução da sua função e esperar que ela esteja lá na próxima. Quaisquer duas invocações da mesma função podem ser executadas em contêineres completamente diferentes sob o teto.
-
-**Efêmero.**
-
-FaaS são projetados para iniciar rapidamente, fazer seu trabalho e depois desligar novamente. Eles não permanecem sem uso. Contanto que a tarefa seja executada, os contêineres subjacentes são descartados.
-
-**Disparados por evento.**
-
-Embora as funções possam ser chamadas diretamente, elas geralmente são acionadas por eventos de outros serviços de nuvem, como solicitações HTTP, novas entradas de banco de dados ou notificações de mensagens de entrada. FaaS são frequentemente usados e considerados como a cola entre serviços em um ambiente de nuvem.
-
-**Escalonável por padrão.**
-
-Com as funções _stateless_, vários contêineres podem ser inicializados, permitindo que tantas funções sejam executadas (em paralelo, se necessário), conforme necessário, para atender continuamente a todas as solicitações recebidas.
-
-**Totalmente gerenciado por um fornecedor de nuvem.**
-
-O [AWS Lambda](https://aws.amazon.com/lambda/), [Azure Functions](https://azure.microsoft.com/en-us/services/functions/), [IBM OpenWhisk](https://www.ibm.com/cloud-computing/bluemix/openwhisk) e o [Google Cloud Functions](https://cloud.google.com/functions/) são as soluções FaaS mais conhecidas disponíveis atualmente. Cada oferta suporta tipicamente uma variedade de linguagens e tempos de execução, i.e. Node.js, Python, .NET Core, Java.
+* **Funções lógicas independentes do lado do servidor:** Os FaaS são semelhantes às funções que você está acostumado a escrever em linguagens de programação. Unidades de lógica **pequenas**, separadas, que recebem argumentos de entrada, operam na entrada e retornam o resultado.
+* **Sem estado:** Com o Serverless, **tudo é sem estado**, você não pode salvar um arquivo no disco em uma execução da sua função e esperar que ela esteja lá na próxima. Quaisquer duas invocações da mesma função podem ser executadas em contêineres completamente diferentes sob o teto.
+* **Efêmero:** FaaS são projetados para iniciar rapidamente, fazer seu trabalho e depois desligar novamente. Eles não permanecem sem uso. Contanto que a tarefa seja executada, os contêineres subjacentes são descartados.
+* **Disparados por evento:** Embora as funções possam ser chamadas diretamente, elas geralmente são acionadas por eventos de outros serviços de nuvem, como solicitações HTTP, novas entradas de banco de dados ou notificações de mensagens de entrada. FaaS são frequentemente usados e considerados como a cola entre serviços em um ambiente de nuvem.
+* **Escalonável por padrão:** Com as funções _stateless_, vários contêineres podem ser inicializados, permitindo que tantas funções sejam executadas (em paralelo, se necessário), conforme necessário, para atender continuamente a todas as solicitações recebidas.
+* **Totalmente gerenciado por um fornecedor de nuvem:** O [AWS Lambda](https://aws.amazon.com/lambda/), [Azure Functions](https://azure.microsoft.com/en-us/services/functions/), [IBM OpenWhisk](https://www.ibm.com/cloud-computing/bluemix/openwhisk) e o [Google Cloud Functions](https://cloud.google.com/functions/) são as soluções FaaS mais conhecidas disponíveis atualmente. Cada oferta suporta tipicamente uma variedade de linguagens e tempos de execução, i.e. Node.js, Python, .NET Core, Java.
 
 ## Aplicação Serverless (um exemplo da AWS)
 
