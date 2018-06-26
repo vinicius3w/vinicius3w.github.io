@@ -46,7 +46,7 @@ A maioria dos provedores de nuvem investiram pesado em serverless. Com essa prom
 ## Arquitetura Tradicional vs Serverless
 
 [![]({{ BASE_PATH }}/images/2018-06-26-o-que-eh-arquitetura-serverless/1_x_v5NRC3TTMt1MaYl1gMUg.png)](https://www.gocd.org/2017/06/26/serverless-architecture-continuous-delivery/)
-Fonte: https://www.gocd.org/2017/06/26/serverless-architecture-continuous-delivery/
+Fonte: <https://www.gocd.org/2017/06/26/serverless-architecture-continuous-delivery/>
 
 Durante anos, as aplicações eram executadas em servidores que sempre necessitavam de correções, atualizações além de uma dedicação contínua (madrugadas à fio) para mantê-los em operação. Desta forma, **TODA** responsabilidade do funcionamento deles estava em **você**. Serverless tende a ser diferente dessa situação, onde você não precisa mais se preocupar com os servidores subjacentes. Eles já não são mais gerenciados por você e com o gerenciamento fora do quadro, a responsabilidade recai sobre os fornecedores de nuvem. Mas, independentemente dos recursos interessantes do Serverless, em alguns casos, a arquitetura tradicional o supera.
 
@@ -112,7 +112,7 @@ O FaaS é uma implementação de arquiteturas Serverless onde os desevnolvedores
 Uma solução Serverless consiste em um servidor Web, funções Lambda (FaaS), serviço de token de segurança (STS), autenticação do usuário e banco de dados.
 
 [![]({{ BASE_PATH }}/images/2018-06-26-o-que-eh-arquitetura-serverless/1_TIrjN7EjLUVJmJ6YvHR7Dg.png)](http://blog.tonyfendall.com/2015/12/serverless-architectures-using-aws-lambda/)
-Fonte: http://blog.tonyfendall.com/2015/12/serverless-architectures-using-aws-lambda/
+Fonte: <http://blog.tonyfendall.com/2015/12/serverless-architectures-using-aws-lambda/>
 
 * **Aplicação Cliente** - A UI da sua aplicação é renderizada no lado do cliente em algum framework frontend javascript, que nos permite usar um servidor web simples e estático.
 * _Servidor Web_ - O Amazon S3 fornece um servidor Web robusto e simples. Todos os arquivos HTML, CSS e JS estáticos para nossa aplicação podem ser fornecidos a partir do S3.
