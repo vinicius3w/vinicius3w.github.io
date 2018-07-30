@@ -12,7 +12,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018 (10)
 
-- *[lendo]* 
+- *[lendo]* “O Príncipe de Westeros e Outras Histórias” (464 páginas), by George R. R. Martin & Dozois Gardner *(01-Ago-18)*
 - "A Sutil Arte de Ligar o F\*da-Se" (224 páginas), by Manson Mark *(27-Jun-18 + 30 dias)*
 - “A Senhora do Lago - A Saga do Bruxo Geralt de Rivia - Livro 7. Volume 2” (266 páginas), by Andrzej Sapkowski *(19-Jun-18 + 6 dias)*
 - "Tormenta de fogo (Executores)" (410 páginas), by Brandon Sanderson *(12-Jun-18 + 5 dias)*
