@@ -8,7 +8,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 ## Ph.D. degree ##
 
-1. Carlo Marcelo Revoredo da Silva. **A Reference Architecture for Cloud Storage Services**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="_blank"}]
+1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="_blank"}]
 1. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="_blank"}]
 1. Jackson Raniel Florencio da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/9861261850443973){:target="_blank"}]
 1. Thiago Jamir e Silva. **Título a ser definido**. <span style="color:red">Início: 2017, Conclusão: 2021</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/9832803117127707){:target="_blank"}]
