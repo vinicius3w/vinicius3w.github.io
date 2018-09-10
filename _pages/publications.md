@@ -49,7 +49,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Capítulos de Livro / Book Chapters
 
-1. GARCIA, Plínio Antunes; **GARCIA, Vinicius Cardoso**. [Aplicando Grounded Theory para compreender as dificuldades de Planejamento de TI em Órgãos Federais](http://sbsi2016.ufsc.br/?page_id=5060){:target="_blank"}. In: [IX Workshop de Teses e Dissetações em Sistemas de Informação (WTDSI)](http://sbsi2016.ufsc.br/?page_id=4956){:target="_blank"}, Evento integrante do [XII Simpósio Brasileiro de Sistemas de Informação (SBSI’2016)](http://sbsi2016.ufsc.br/){:target="_blank"}, pp. 24–26, Florianópolis, SC, 17 a 20 de Maio de 2016.
+1. GARCIA, Plínio Antunes; **GARCIA, Vinicius Cardoso**. [**Aplicando Grounded Theory para compreender as dificuldades de Planejamento de TI em Órgãos Federais**](http://sbsi2016.ufsc.br/?page_id=5060){:target="_blank"}. In: [IX Workshop de Teses e Dissetações em Sistemas de Informação (WTDSI)](http://sbsi2016.ufsc.br/?page_id=4956){:target="_blank"}, Evento integrante do [XII Simpósio Brasileiro de Sistemas de Informação (SBSI’2016)](http://sbsi2016.ufsc.br/){:target="_blank"}, pp. 24–26, Florianópolis, SC, 17 a 20 de Maio de 2016.
 
 ### Artigos em Conferências / Conference papers
 
