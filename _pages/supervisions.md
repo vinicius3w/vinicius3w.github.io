@@ -75,7 +75,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 ## Undergraduate (scientific/research projects) ##
 
-1. Marcson Silva dos Santost. **Gestão do Conhecimento acerca do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0154-1.03/18
+1. Marcson Silva dos Santos. **Gestão do Conhecimento acerca do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0154-1.03/18
 \. (Supervision). [[lattes](){:target="_blank"}]
 1. Daniel Carvalho de Oliveira. **Análise de Domínio do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0074-6.07/18
 \. (Supervision). [[lattes](){:target="_blank"}]
