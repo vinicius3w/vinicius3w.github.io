@@ -10,7 +10,7 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2018 (12)
+### 2018 (13)
 
 - *[lendo]* 
 - “Flash Boys”(291 páginas), by Michael Lewis *(07-Sep-18 + 39 dias)*
