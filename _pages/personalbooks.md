@@ -12,7 +12,8 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2018 (12)
 
-- *[lendo]* “Flash Boys”(291 páginas), by Michael Lewis *(07-Sep-18)*
+- *[lendo]* 
+- “Flash Boys”(291 páginas), by Michael Lewis *(07-Sep-18 + 39 dias)*
 - “O Homem mais Inteligente da História” (289 páginas), by Augusto Cury *(01-Sep-18 + 5 dias)*
 - “O Príncipe de Westeros e Outras Histórias” (464 páginas), by George R. R. Martin & Dozois Gardner *(01-Ago-18 + 27 dias)*
 - "A Sutil Arte de Ligar o F\*da-Se" (224 páginas), by Manson Mark *(27-Jun-18 + 30 dias)*
