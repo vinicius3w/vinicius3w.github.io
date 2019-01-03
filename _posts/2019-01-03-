@@ -1,0 +1,94 @@
+---
+title:  "Instalando e configurando kubernetes localmente com o minikube no Mac OSX"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+header:
+  image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg?raw=true
+  caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
+categories: 
+  - DevOps
+tags:
+  - Container
+  - Kubernetes
+  - Minikube
+  - Site Reliability Engineering
+  - Docker
+  - Helm
+  - Container Registry
+---
+
+O [Minikube](https://kubernetes.io/docs/setup/minikube/) é a ferramenta ideal para configurar uma instância/cluster [kubernetes](https://kubernetes.io/) (chamaremos de k8s a partir de agora) localmente para testar e experimentar suas implantações.
+
+Neste artigo vamos tentar ajudá-los a colocá-lo em funcionamento na sua máquina local (Mac OSX), registrar algumas dicas sobre onde e como as coisas deves ser feitas e também tentar torná-lo capaz de usar o Helm (eu suponho que quando você usa o k8s quer aprender e usar o Helm, etcd, istio etc).
+
+> Este artigo tem o objetivo de ser um guia de referência para um ambiente k8s local.
+
+# Instalação do Minikube
+
+O Minikube trabalha com máquinas virtuais e, para isso, pode usar várias opções dependendo de sua preferência e sistema operacional. Minha preferência neste caso é o [VirtualBox](https://www.virtualbox.org/wiki/Downloads) da Oracle.
+
+Você pode usar o **brew** para instalar tudo:
+
+```bash
+$ brew cask install virtualbox minikube
+```
+
+Nesse caso, você pode obter algum tipo de erro de instalação inconclusivo relacionado à instalação do VirtualBox, especialmente no Mojave e provavelmente depois (hehehe).
+
+O que quer que seja dito, provavelmente é um novo recurso de segurança do MacOS X que está no seu caminho.
+
+Vá para **Preferências do Sistema> Segurança e Privacidade** e na tela **Geral**, você verá uma (ou algumas) mensagens sobre algum software que precisa de aprovação para instalar. Você deve revisar cuidadosamente a lista se houver mais de uma e permitir a instalação do software necessário - neste caso, o **software da Oracle**.
+
+Depois disso, você pode executar novamente o comando acima e, quando estiver pronto, você deve estar pronto para as próximas etapas.
+
+# Executando e acessando o cluster
+
+Começar não poderia ser tão fácil quanto
+
+```bash
+$ minikube start
+```
+
+Para otimizar os recursos da sua máquina local, sugiro que sempre interrompa o minikube quando não precisar mais dele ... Com o VirtualBox sempre em execução, ele pode drenar a bateria do laptop (se for o caso) rapidamente:
+
+```bash
+$ minikube stop
+```
+
+O dashboard do Kubernetes também está disponível (enquanto o minikube está em execução):
+
+```bash
+$ minikube dashboard
+```
+
+Eu suponho que você já tenha o [**kubectl**](https://kubernetes.io/docs/tasks/tools/install-kubectl/) instalado localmente e que já o esteja usando para alguns clusters remotos, de modo que você tenha vários contextos. Neste caso, você precisa listar os contextos e mudar para o minikube (nos seguintes comandos, assumindo o nome padrão que é, “minikube”):
+
+```bash
+$ kubectl config get-contexts
+$ kubectl config use-context minikube
+```
+
+Agora que você está no contexto do seu cluster k8s local que roda no minikube, podemos fazer todas as operações do k8s nele.
+
+# Ingress controller
+
+Para executar suas implantações que têm Ingress (e eu suponho que a maioria delas terá), você precisará do add-on:
+
+```bash
+$ minikube addons enable ingress
+```
+
+Certifique-se de configurar a entrada com base em seus hosts locais. Basicamente, significa que o que você definir como host em suas regras do Ingress precisa ser configurado em seu arquivo `/etc/hosts`
+
+```
+[minikube ip] your.host
+```
+
+Onde você lê "[minikube ip]" deve substituir pelo ip atual do minikube. Ele também funciona com vários hosts locais separados por espaço após o ip do minikube.
+
+Aqui está o atalho para fazer isso no bash:
+
+```bash
+$ echo "$(minikube ip) local.host" | sudo tee -a /etc/hosts
+```
+
