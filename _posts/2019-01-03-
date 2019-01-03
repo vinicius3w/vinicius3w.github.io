@@ -92,3 +92,75 @@ Aqui está o atalho para fazer isso no bash:
 $ echo "$(minikube ip) local.host" | sudo tee -a /etc/hosts
 ```
 
+# Container registry — i.e. Docker registry
+
+> A realidade do uso real de um *container registry* no ambiente local é difícil, por isso vamos adotar uma opção fácil, rápida e corriqueira que torna bastante simples implantar seu trabalho local em seu k8s local, mas priva você da experiência realmente importante de usar um *container registry*.
+
+## Container registry local
+
+Obtenha o contexto do docker local para apontar para o contexto do minikube:
+
+```bash
+$ eval $(minikube docker-env)
+```
+
+> Para reverter: ```$ eval $(docker-machine env -u)```
+
+**No contexto do minikube, para iniciar o registro do docker local:**
+
+```bash
+$ docker run -d -p 5000:5000 --restart=always --name registry registry:2
+```
+
+Então, agora você tem o registro local para enviar itens (contanto que sua janela de encaixe esteja no contexto do minikube).
+
+**Agora você pode fazer:**
+
+```bash
+$ docker build . -t <your_tag>
+$ docker tag <your_tag> localhost:5000/<your_tag>:<version>
+```
+
+Nesse ponto, você pode usar **localhost:5000/<your_tag>:** como imagem em sua implantação e é isso.
+
+##Usando o repositório de contêiner remoto
+
+Para usar o repositório de contêiner remoto localmente, você precisa fornecer uma maneira de autenticar, que é através dos [secrets](https://kubernetes.io/docs/concepts/configuration/secret/) do k8s.
+
+Para o gerenciamento de segredos locais para registros ECR, GCR e Docker, eu recomendo usar o addon minikube chamado de [registry-creds](https://github.com/upmc-enterprises/registry-creds)(credenciais de registro). Eu não o considero seguro o suficiente para ser usado em qualquer lugar, mas em ambiente local tudo bem.
+
+```bash
+$ minikube addons configure registry-creds
+$ minikube addons enable registry-creds
+```
+
+> **Nota sobre a configuração do ECR**: Certifique-se de que, se você estiver configurando-o para o AWS ECR e não tiver o papel que deseja usar (normalmente não tem e é opcional), defina-o com algo aleatório como "changeme" ou smt... Ele requer valor, se você simplesmente pressionar enter (já que é opcional) a implantação do pod de creds falhará e tornará sua vida miserável (hahahaha).
+
+In case of AWS ECR, that will let you pull from your repo directly setting url as container image and adding pull secret named awsecr-cred:
+No caso do AWS ECR, isso permitirá que você faça o pull do repo definindo diretamente a URL como imagem do contêiner e adicionando o pull secret chamado awsecr-cred:
+
+```
+imagePullSecrets:
+      - name: awsecr-cred
+```
+
+> Eu tenho que observar aqui que executar isso localmente funcionou de forma bastante caótica para mim e cada sessão foi uma nova experiência e um novo truque para fazer com que funcionasse... **Não é um caminho feliz**.
+
+# Helm
+
+Helm é o gerenciador de pacotes para o k8s e é frequentemente usado para gerenciamento de configurações entre implantações. Com alta da popularidade da ferramenta e o constante aumento da sua adoção, é interessante terminar este guia com a nota sobre a adição do Helm ao seu ambiente k8s local.
+
+É bem fácil neste momento, basta usar o minikube:
+
+```bash
+$ brew install kubernetes-helm
+$ helm init
+```
+
+> Essa deve ser uma informação obsoleta muito em breve, mas atualmente o Helm usa um backend chamado Tiller e isso é o que é instalado/implantado durante a execução do helm init.
+> 
+> Você deve verificar a implantação do Helm com: ```$ kubectl describe deploy tiller-deploy — namespace=kube-system```
+
+Leitura muito importante: <https://docs.helm.sh/using_helm/>
+
+Agora você tem um ambiente local k8s completo capaz de aceitar todas as suas implantações de teste antes de decidir colocá-las na nuvem (ou em um servidor "*raw iron*" em algum lugar).
