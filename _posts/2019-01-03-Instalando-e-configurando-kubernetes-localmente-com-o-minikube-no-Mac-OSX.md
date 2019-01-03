@@ -29,7 +29,7 @@ O Minikube trabalha com máquinas virtuais e, para isso, pode usar várias opç�
 
 Você pode usar o **brew** para instalar tudo:
 
-```
+```bash
 $ brew cask install virtualbox minikube
 ```
 
