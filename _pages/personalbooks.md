@@ -10,9 +10,12 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2018 (14)
+### 2019
 
 - *[lendo]* "Winston Churchill: Uma vida - Volume 1" (631 páginas), by Martin Gilbert *(25-Oct-18)*
+
+### 2018 (14)
+
 - "What If?: Serious Scientific Answers to Absurd Hypothetical Questions" (321 páginas), by Randall Munroe *(15-Oct-18 + 9 dias)*
 - “Flash Boys” (291 páginas), by Michael Lewis *(07-Sep-18 + 39 dias)*
 - “O Homem mais Inteligente da História” (289 páginas), by Augusto Cury *(01-Sep-18 + 5 dias)*
