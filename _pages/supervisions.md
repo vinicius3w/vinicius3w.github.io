@@ -6,7 +6,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 {% include base_path %}
 
-## Ph.D. degree ##
+## [Ph.D. degree](#phd) ##
 
 1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="_blank"}]
 1. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="_blank"}]
@@ -20,7 +20,7 @@ modified: 2017-07-5T16:13:37-03:00
 1. Paulo Anselmo da Mota Silveira Neto. **Assessing Security in Software Product Lines: A Maintenance Analysis**. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/6465144387155252){:target="_blank"}] [[pdf](https://pt.scribd.com/document/359855895/Assessing-Security-in-Software-Product-Lines-A-Maintenance-Analysis){:target="_blank"}] [[ppt](https://pt.scribd.com/presentation/359855778/Assessing-Security-in-Software-Product-Lines-A-Maintenance-Analysis-Apresentacao){:target="_blank"}]
 1. Ricardo Alexandre Afonso. **Smartcluster: A Metamodel Indicators for Smart and Human Cities**. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/3117877031824338){:target="_blank"}] [[pdf](https://pt.scribd.com/document/349849699/Smartcluster-A-Metamodel-Indicators-for-Smart-and-Human-Cities){:target="_blank"}] [[ppt](https://pt.scribd.com/document/341977480/Smartcluster-A-Metamodel-Indicators-for-Smart-and-Human-Cities-Presentation){:target="_blank"}]
 
-## M.Sc. degree ##
+## [M.Sc. degree](#msc) ##
 
 1. Sandrine Ventura Martins. **Título a ser definido**. <span style="color: #ff0000;">Início: 2017, Conclusão: 2019</span>. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/3989518164012856)]
 1. Cloves Alves da Rocha. **Análise Qualitativa sobre Engajamento no Uso de uma Rede Social Educacional: Aprendizagem Colaborativa sobre Doenças Genéticas**. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Co-Supervision_). [[lattes](http://lattes.cnpq.br/9264504615692760){:target="_blank"}] [[pdf](https://pt.scribd.com/document/360178177/Analise-Qualitativa-sobre-Engajamento-no-Uso-de-uma-Rede-Social-Educacional-Aprendizagem-Colaborativa-sobre-Doencas-Geneticas){:target="_blank"}] [[ppt](https://www.slideshare.net/ClovesRocha/defesa-de-dissertao-de-mestrado-2017){:target="_blank"}]
@@ -67,13 +67,13 @@ modified: 2017-07-5T16:13:37-03:00
 1. Cristiano Tavares Silva. **Um Experimento de Engenharia de Requisitos para caracterização do Processo e sua Adequação às Práticas Específicas do CMMI**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [lattes] [[pdf](http://www.scribd.com/doc/58851350){:target="_blank"}]
 1. Átila Andrade Bittencourt Paula. **UMA PROPOSTA PARA EXPANSÃO SEMÂNTICA DE CONSULTAS BASEADA EM ONTOLOGIA DE DOMÍNIO ESPECÍFICO**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/8472935389021591){:target="_blank"}] [[pdf](http://www.scribd.com/doc/58125217){:target="_blank"}]
 
-## Post-Graduation (Especialização Lato Sensu) ##
+## [Post-Graduation (Especialização Lato Sensu)](#lato) ##
 
 1. Cloves Alberto Chaves de Lima. **Um Modelo de Gerenciamento de Identidade para Segurança de Aplicativos SaaS**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/106154069){:target="_blank"}]
 1. Priscila Navarro Peixoto de Oliveira. **O Lado Bom e Desconhecido da Camada mais Profunda da Web**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/105910847){:target="_blank"}]
 1. Ricardo Marinho de Melo. **Segurança em Web Services: Análise de WS-Security, WS-Policy e SAML.** Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/95152944){:target="_blank"}]
 
-## Undergraduate (scientific/research projects) ##
+## [Undergraduate (scientific/research projects)](#ic-ext) ##
 
 1. Marcson Silva dos Santos. **Gestão do Conhecimento acerca do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0154-1.03/18
 \. (Supervision). [[lattes](){:target="_blank"}]
