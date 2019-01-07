@@ -16,14 +16,14 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
  * [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="_blank"}
  * [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="_blank"}
 
-## 2018
+## [2018](#2018)
 
 ### Livros / Books
 
 1. Giovani Felipe Jahn; **VINICIUS CARDOSO GARCIA**. [**Arquitetura Para Tratamento De Dados Não Estruturados**](https://www.morebooks.shop/bookprice_offer_574afe995dd180abf0ad09d30786aa1cc7f2f09b?auth_token=d3d3Lm5lYS1lZGljb2VzLmNvbTo1ZTM2MDk5NjVjNzRhZDU0MzVkMzY1NWEyYzAxYWFhZA%3D%3D&locale=gb&currency=EUR). [Novas Edições Acadêmicas](https://www.morebooks.shop/books/gb/published_by/novas-edi%C3%A7%C3%B5es-acad%C3%AAmicas/332520/products), ISBN-13:
 978-613-9-61515-5, Published on 24-05-2018.
 
-## 2017
+## [2017](#2017)
 
 ### Livros / Books
 
@@ -40,7 +40,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. DO NASCIMENTO, Leandro Marques; E SILVA, Thiago Jamir; ASSAD, Rodrigo Elia; **GARCIA, Vinicius Cardoso**. [**A Experiência de Desenvolvimento de um Sistema de Armazenamento Multicamadas e Distribuído**](http://www.lia.ufc.br/~cbsoft2017/proceedings_files/AnaisTrilhaIndustria_CBSoft2017.pdf). In: [Industry Track of Congresso Brasileiro de Software: Teoria e Prática (CBSoft'2017)](http://cbsoft.org/cbsoft2017/){:target="_blank"}, Fortaleza, Brasil, September 18-22, 2017.
 1. DO NASCIMENTO, Clovis Holanda; **GARCIA, Vinicius Cardoso**; REVOREDO, Carlo Marcelo; AFONSO, Ricardo Alexandre. [**Problems of Software Development Documentation: A Survey**](http://dsd-seaa2017.ocg.at/program-details.html). In: [Euromicro Conference on Software Engineering and Advanced Applications (SEAA) - WIP Session SEAA](http://dsd-seaa2017.ocg.at/seaa2017){:target="_blank"}, Vienna, Austria, 30 August - 1 September, 2017
 
-## 2016
+## [2016](#2016)
 
 ### Periódicos / Journals
 
@@ -65,7 +65,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**A Meta-Analysis for Security Threats over the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502911){:target="_blank"}. In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)](http://noms2016.ieee-noms.org/), Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502911.
 1. SILVA, Carlo Marcelo Revoredo da; SILVA, Jose Lutiano Costa da; RODRIGUES, Ricardo Batista; GATTI, Daniel Couto; MIRANDA, Pericles Cunha Barbosa de; BRITO, Kellyton dos Santos; NASCIMENTO, Leandro Marques do; ASSAD, Rodrigo Elia; QUEIROZ, Ruy José Guerra Barreto de; **GARCIA, Vinicius Cardoso**. [**Towards a Taxonomy for Security Threats on the Web Ecosystem**](http://dx.doi.org/10.1109/NOMS.2016.7502862){:target="_blank"}. In: [IEEE/IFIP Network Operations and Management Symposium (NOMS 2016)](http://noms2016.ieee-noms.org/), Istanbul – Turkey, 25-29 APRIL 2016. DOI: 10.1109/NOMS.2016.7502862.
 
-## 2015
+## [2015](#2015)
 
 ### Periódicos / Journals
 
@@ -91,7 +91,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. RODRIGUES, Ricardo Batista; SILVA, Carlo Marcelo Revoredo; DURÃO, Frederico Araújo; ASSAD, Rodrigo Elia; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. [**Um Modelo de Recomendação de Arquivos para Sistemas de Armazenamento em Nuvem**](https://www.researchgate.net/publication/280161614_Um_Modelo_de_Recomendacao_de_Arquivos_para_Sistemas_de_Armazenamento_em_Nuvem){:target="_blank"}. In: [Anais do XI Simpósio Brasileiro de Sistemas de Informação](http://www.portal.inf.ufg.br/sbsi2015/){:target="_blank"}, Prediction Methods and Recommender Systems Track. Goiânia, GO, Brasil: Instituto de Informática, Universidade Federal de Goiás, 2015. p.111 – 118.
 1. AFONSO, Ricardo Alexandre; DO NASCIMENTO, Clóvis Holanda; **GARCIA, Vinicius Cardoso**; ALVARO, Alexandre. [**SmartCluster: Utilizando Dados Públicos para Agrupar Cidades Inteligentes por Domínios**](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2015/093.pdf){:target="_blank"}. In: [Anais do XI Simpósio Brasileiro de Sistemas de Informação](http://www.portal.inf.ufg.br/sbsi2015/){:target="_blank"}, Government Information Systems (SIG) Special Track. Goiânia, GO, Brasil: Instituto de Informática, Universidade Federal de Goiás, 2015. p.699 – 702.
 
-## 2014
+## [2014](#2014)
 
 ### Periódicos / Journals
 
@@ -117,7 +117,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. NASCIMENTO, Leandro Marques Do; BURÉGIO, Vanilson André de Arruda; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. **[A New Architecture Description Language for Social Machines](https://doi.org/10.1145/2567948.2578831){:target="_blank"}**.  In: [Theory and Practice of Social Machines 2014 Workshop](https://dl.acm.org/citation.cfm?id=2567948&picked=prox&cfid=820017304&cftoken=25493364){:target="_blank"}, The 23rd International World Wide Web Conference (WWW 2014), p. 873, Seoul (Korea) April 7th – 11th, 2014.
 1. AFONSO, R. A. ; GARCIA, D. S. ; **GARCIA, V. C. **; ALVARO, Alexandre . **[e-PID: Electronic Professional Identity Document](https://www.researchgate.net/publication/271138652_e-PID_Electronic_Professional_Identity_Document){:target="_blank"}**. In: VII Congresso Tecnológico InfoBrasil 2014, 2014, Fortaleza – Ceará. VII Congresso Tecnológico InfoBrasil 2014. Fortaleza – Ceará: Editora InfoBrasil, 2014.
 
-## 2013
+## [2013](#2013)
 
 ### Prêmios / Awards
 
@@ -156,7 +156,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. SILVA, F. A. P. ; SILVEIRA NETO, P. A. M. ; **Garcia, Vinicius Cardoso**; TRINTA, Fernando Antonio Mota ; ASSAD, Rodrigo Elia. **[Accounting Federated Clouds based on the JiTCloud Platform](https://doi.org/10.1109/CCGrid.2013.37){:target="_blank"}**. In: [13th IEEE/ACM International Symposium On Cluster, Cloud And Grid Computing](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6545869){:target="_blank"}, 2013, Delft, pp. 186-187. New York, NY, USA: IEEE Computer Society Press, 2013.
 1. AFONSO, R. A. ; SILVA, W. M. ; TOMAS, G. H. R. P. ; ALVARO, Alexandre ; **Garcia, Vinicius Cardoso**. **[Br-SCMM: Modelo Brasileiro de Maturidade para Cidades Inteligentes](http://www.lbd.dcc.ufmg.br/bdbcomp/servlet/Trabalho?id=19240){:target="_blank"}**. In: [IX Simpósio Brasileiro de Sistemas de Informação (SBSI)](http://www.lbd.dcc.ufmg.br/bdbcomp/servlet/Evento?id=656){:target="_blank"}, pp. 511 - 516, 2013, João Pessoa.
 
-## 2012
+## [2012](#2012)
 
 ### Capítulos de Livro / Book Chapters
 
@@ -181,7 +181,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. VIEIRA, T. P. B. ; SOARES, P. F. A. ; MACHADO, M. A. S. ; ASSAD, R. E. ; **Garcia, Vinicius Cardoso**. **[Measuring Distributed Applications Through MapReduce and Traffic Analysis](https://doi.org/10.1109/ICPADS.2012.104){:target="_blank"}**. In: [18th IEEE International Conference on Parallel and Distributed Systems](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6412851){:target="_blank"}, 2012, Singapore. Proceedings of the 18th IEEE International Conference on Parallel and Distributed Systems. Los Alamitos: IEEE Computer Society Press, 2012.
 1. SILVA, A. F. ; **Garcia, Vinicius Cardoso** ; ASSAD, R. E. ; MACHADO, M. A. S. ; SOARES, P. F. A. ; SILVA, T. J. ; MEIRA, Silvio Romero de Lemos . **[USTO.RE Uma plataforma descentralizada para storage de conteúdo em nuvens privadas]**. In: [Trilha da Indústria do Congresso Brasileiro de Software: Teoria e Prática](http://www.cbsoft.dimap.ufrn.br/cbsoft_industria.php){:target="_blank"}, 2012, Natal. Anais do III Congresso Brasileiro de Software: Teoria e Prática. Porto Alegre: Sociedade Brasileira de Computação, 2012. p. 17-17.
 
-## 2011
+## [2011](#2011)
 
 ### Prêmios / Awards
 
@@ -218,7 +218,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. DANTAS, E. R. G.; AZEVEDO, R. R.; RODRIGUES, C. M. O.; ALMEIDA, S. C.; **Garcia, Vinicius Cardoso**; FREITAS, F. L. G. **[A proposal for an educational system service to support teaching/learning process for logic programming](https://doi.org/10.1109/CSEET.2011.5876152){:target="_blank"}**. In: [24th IEEE-CS Conference on Software Engineering Education and Trainning](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5783969){:target="_blank"}, 2011, Waikiki, Honolulu, Hawaii. Proceedings of the 24th IEEE-CS Conference on Software Engineering Education and Trainning, 2011. p. 556-556.
 1. MEIRA, Silvio Romero de Lemos; BURÉGIO, Vanilson André de Arruda; NASCIMENTO, Leandro Marques Do; FIGUEIREDO, E. G. M.; NETO, M.; ENCARNACAO, B. P.; **GARCIA, Vinicius Cardoso**. **[The Emerging Web of Social Machines](http://ieeexplore.ieee.org/document/6032321/){:target="_blank"}**. In: [IEEE 35th Annual Computer Software and Applications Conference](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18045){:target="_blank"}, 2011, Munich. Proceedings of the IEEE 35th Annual Computer Software and Applications Conference. Los Alamitos: IEEE Computer Society Press, 2011. p. 26-27.
 
-## 2010
+## [2010](#2010)
 
 ### Periódicos / Journals
 
@@ -234,14 +234,14 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. BRITO, Kellyton dos Santos; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. **[LIFT Revisited: Enhancing the Understanding of NATURAL/ADABAS Legacy Systems](http://dx.doi.org/10.1109/CSMR.2010.41){:target="_blank"}**. In: [European Conference on Software Maintenance and Reengineering (CSMR)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5714189){:target="_blank"}, 2010, Madrid. Proceedings of the European Conference on Software Maintenance and Reengineering (CSMR), 2010.
 1. BRITO, Kellyton dos Santos; **GARCIA, Vinicius Cardoso**; MEIRA, Silvio Romero de Lemos. **[Experiences from a Brazilian Bank Reengineering Project](http://dx.doi.org/10.1109/CSMR.2010.28){:target="_blank"}**. In: [European Conference on Software Maintenance and Reengineering (CSMR)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5714189){:target="_blank"}, 2010, Madrid. Proceedings of the European Conference on Software Maintenance and Reengineering (CSMR), 2010.
 
-## 2009
+## [2009](#2009)
 
 ### Artigos em Conferências / Conference papers
 
 1. **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA, Silvio Romero de Lemos. **[A Reference Model for Software Reuse Adoption in Companies](https://www.researchgate.net/publication/236661228_A_Reference_Model_for_Software_Reuse_Adoption_in_Companies){:target="_blank"}**. In: [Doctoral Symposium at the 11th International Conference on Software Reuse](https://people1.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/09/090927-icsr.html){:target="_blank"}, 2009, Falls Church. Proceedings of the Doctoral Symposium at the 11th International Conference on Software Reuse, 2009. p. 25-27.
 1. MARTINS, A. C.; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA, Silvio Romero de Lemos. **[Suggesting Software Components for Reuse in Search Engines Using Discovered Knowledge Techniques](http://dx.doi.org/10.1109/SEAA.2009.61){:target="_blank"}**. In: [35th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5349834){:target="_blank"}, Service and Component Based Software Engineering (SCBSE) Track, 2009, Patras. Proccedings of the 35th EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA), Service and Component Based Software Engineering (SCBSE) Track, 2009. p. 412-419.
 
-## 2008
+## [2008](#2008)
 
 ### Prêmios / Awards
 
@@ -260,7 +260,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. MARTINS, A. C.; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA, Silvio Romero de Lemos. **[Enhancing Components Search in a Reuse Environment Using Discovered Knowledge Techniques](http://www.lbd.dcc.ufmg.br/bdbcomp/servlet/Trabalho?id=13074){:target="_blank"}**. In: [II Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software](http://www.lbd.dcc.ufmg.br/bdbcomp/servlet/Evento?id=464){:target="_blank"}, 2008, Porto Alegre. Anais do II Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software, 2008.
 1. **GARCIA, Vinicius Cardoso**; LISBOA, Liana Barachisio; ALMEIDA, Eduardo Santana de; LUCRÉDIO, Daniel; FORTES, Renata Pontin de Mattos; MEIRA, Silvio Romero de Lemos. **[Towards an Assessment Method for Software Reuse Capability](http://dx.doi.org/10.1109/QSIC.2008.58){:target="_blank"}**. In: [The 8th International Conference on Quality Software (QSIC'2008)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4601512){:target="_blank"}, 2008, Oxford. Proceedings of The 8th International Conference on Quality Software (QSIC'2008), 2008.
 
-## 2007
+## [2007](#2007)
 
 ### Prêmios / Awards
 
@@ -284,7 +284,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. BRITO, Kellyton dos Santos ; **GARCIA, Vinicius Cardoso** ; ALMEIDA, Eduardo Santana de ; MEIRA, Silvio Romero de Lemos. **[A Tool for Knowledge Extraction from Source Code](https://www.researchgate.net/publication/236661222_A_Tool_for_Knowledge_Extraction_from_Source_Code){:target="_blank"}**. In: [XIV Sessão de Ferramentas do XXI Simpósio Brasileiro de Engenharia de Software](http://www.sbbd-sbes2007.ufpb.br/index.php?section=sbes-ferramentas-papers){:target="_blank"}, 2007, Campina Grande. XIV Sessão de Ferramentas do XXI Simpósio Brasileiro de Engenharia de Software, 2007.
 1. VANDERLEI, Taciana Amorim; DURÃO, Frederico Araújo; MARTINS, A. C.; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA, Silvio Romero de Lemos. **[A Cooperative Classification Mechanism for Search and Retrieval Software Components](http://dx.doi.org/10.1145/1244002.1244192){:target="_blank"}**. In: [22nd Annual ACM Symposium on Applied Computing](http://oldwww.acm.org/conferences/sac/sac2007/){:target="_blank"}, Information Access and Retrieval (IAR) Track, 2007, Seoul, Korea. Proceedings of the 2007 ACM symposium on Applied computing. New York, NY, USA: ACM, 2007. p. 866-871.
 
-## 2006
+## [2006](#2006)
 
 ### Artigos em Conferências / Conference papers
 
@@ -295,7 +295,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; LISBOA, Liana Barachisio; MARTINS, A. C.; MEIRA, Silvio Romero de Lemos; LUCRÉDIO, Daniel; FORTES, Renata Pontin de Mattos. **[Toward a Code Search Engine Based on the State-of-Art and Practice](http://dx.doi.org/10.1109/APSEC.2006.57){:target="_blank"}**. In: [13th IEEE Asia Pacific Software Engineering Conference (APSEC)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4137386){:target="_blank"}, 2006, Bangalore. Proceedings of the 13th IEEE Asia Pacific Software Engineering Conference (APSEC), Component-Based Software Development Track, 2006. p. 61-70.
 1. SANTOS, Eduardo Cruz Reis; DURÃO, Frederico Araújo; MARTINS, A. C.; MENDES, R. C.; MELO, C. A.; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; MEIRA, Silvio Romero de Lemos. **[Towards an Effective Context-Aware Proactive Asset Search and Retrieval Tool](https://www.researchgate.net/publication/236661217_Towards_an_Effective_Context-Aware_Proactive_Asset_Search_and_Retrieval_Tool){:target="_blank"}**. In: [VI Workshop de Desenvolvimento Baseado em Componentes](http://www2.portodigital.org/portodigital/imprensa/ultimasnoticias/39045;62874;0805;1772;9178.asp){:target="_blank"}, 2006, Recife. VI Workshop de Desenvolvimento Baseado em Componentes, 2006.
 
-## 2005
+## [2005](#2005)
 
 ### Artigos em Conferências / Conference papers
 
@@ -304,7 +304,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. ALMEIDA, Eduardo Santana de; ALVARO, Alexandre; **GARCIA, Vinicius Cardoso**; LUCRÉDIO, Daniel; MEIRA, Silvio Romero de Lemos. **[A Survey on Software Reuse Processes](http://dx.doi.org/10.1109/IRI-05.2005.1506451){:target="_blank"}**. In: [IEEE International Conference on Information Reuse and Integration](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=10065){:target="_blank"}, 2005, Las Vegas. Proceedings of the IEEE International Conference on Information Reuse and Integration, 2005. p. 66-71.
 1. **GARCIA, Vinicius Cardoso**; DURÃO, Frederico Araújo; AQUINO JÚNIOR, Gibeon Soares de; SANTOS, Marcely Daniela Silva dos; ALMEIDA, Eduardo Santana de; LUCRÉDIO, Daniel; ALBUQUERQUE, Jones Oliveira de; MEIRA, Silvio Romero de Lemos. **[Especificação, Projeto e Implementação de uma Arquitetura para um Engenho de Busca de Componentes](https://www.researchgate.net/publication/236660509_Especificacao_Projeto_e_Implementacao_de_uma_Arquitetura_para_um_Engenho_de_Busca_de_Componentes){:target="_blank"}**. In: V Workshop de Desenvolvimento Baseado em Componentes (WDBC'2005), 2005, Juiz de Fora. Anais do V Workshop de Desenvolvimento Baseado em Componentes (WDBC'2005). Juiz de Fora, 2005.
 
-## 2004
+## [2004](#2004)
 
 ### Prêmios / Awards
 
@@ -326,7 +326,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. PIVETA, Eduardo Kessler; **GARCIA, Vinicius Cardoso**; PRADO, Antonio Francisco Do; ZANCANELLA, Luiz Carlos. **[Termos em português para Desenvolvimento de Software Orientado a Aspectos](https://www.researchgate.net/publication/236661251_Termos_em_portugues_para_Desenvolvimento_de_Software_Orientado_a_Aspectos){:target="_blank"}**. In: [WASP'04 – First Brazilian Workshop on Aspect-Oriented Software Development](http://wiki.dcc.ufba.br/WASP04/WebHome){:target="_blank"}, 2004, Brasília. Proceeding of the First Brazilian Workshop on Aspect-Oriented Software Development (WASP'04), 2004.
 1. **GARCIA, Vinicius Cardoso**; LUCRÉDIO, Daniel; PRADO, Antonio Francisco Do; PIVETA, Eduardo Kessler; ZANCANELLA, Luiz Carlos; ALMEIDA, Eduardo Santana de; ALVARO, Alexandre. **Reengenharia de sistemas orientados a objetos através de transformações e mineração de aspectos**. In: Third International Information and Telecommunication Technologies Symposium (I2TS'2004), 2004, São Carlos. Proceedings of the Third International Information and Telecommunication Technologies Symposium (I2TS'2004), 2004.
 
-## 2003
+## [2003](#2003)
 
 ### Artigos em Conferências / Conference papers
 
@@ -334,7 +334,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 1. PRADO, Antonio Francisco Do; MORAES, João Luis Cardoso de; FONTANETTE, Valdirene; **GARCIA, Vinicius Cardoso**; BOSSONARO, Adriano Aleixo. **Implementações de Frameworks de Componentes, dirigidas por Modelos do Método Catalysis**. In: The Fourth Congress of Logic Applied to Technology (LapTec), 2003, Marília-SP. Proceeding of The Fourth Congress of Logic Applied to Technology (LapTec), 2003.
 1. ALVARO, Alexandre; LUCRÉDIO, Daniel; **GARCIA, Vinicius Cardoso**; ALMEIDA, Eduardo Santana de; PRADO, Antonio Francisco Do; TREVELIN, Luis Carlos. **[Orion-RE: A Component-Based Software Reengineering Environment](http://dx.doi.org/10.1109/WCRE.2003.1287255){:target="_blank"}**. In: [The 10th Working Conference on Reverse Engineering (WCRE)](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=9044){:target="_blank"}, 2003, Victoria. Proceeding of The 10th Working Conference on Reverse Engineering (WCRE). Los Alamitos, CA: IEEE Computer Society Press, 2003. p. 248-257.
 
-## 2002
+## [2002](#2002)
 
 1. FONTANETTE, Valdirene; **GARCIA, Vinicius Cardoso**; PEREZ, A. B.; PRADO, Antonio Francisco Do. **[Component-Oriented Software Reengineering using Transformations](https://www.researchgate.net/publication/236660498_Component-Oriented_Software_Reengineering_using_Transformations){:target="_blank"}**. In: International Conference on Computer Science, Software Engineering, Information Technology, e-Business, and Applications, 2002, Foz do Iguaçu – Paraná. Proceedings of the ACIS International Conference on Computer Science, Software Engineering, Information Technology, e-Business, and Applications, 2002. p. 206-211.
 1. FONTANETTE, Valdirene; **GARCIA, Vinicius Cardoso**; PEREZ, A. B.; BOSSONARO, Adriano Aleixo; PRADO, Antonio Francisco Do  **[Estratégia de Reengenharia de Software Baseada em Componentes Distribuídos](https://www.researchgate.net/publication/236660494_Estrategia_de_Reengenharia_de_Software_Baseada_em_Componentes_Distribuidos){:target="_blank"}**. In: [2º Workshop de Desenvolvimento Baseado em Componentes](http://lens.cos.ufrj.br/wdbc/exibe.php){:target="_blank"}, 2002, Itaipava-RJ. 2º Workshop de Desenvolvimento Baseado em Componentes, 2002.
