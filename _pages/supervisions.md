@@ -6,7 +6,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 {% include base_path %}
 
-## Ph.D. degree ##
+## [Ph.D. degree](#phd) ##
 
 1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="_blank"}]
 1. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="_blank"}]
