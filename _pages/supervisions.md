@@ -6,7 +6,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 {% include base_path %}
 
-## [Ph.D. degree](#phd) ##
+## Ph.D. degree ##
 
 1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="_blank"}]
 1. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="_blank"}]
@@ -86,7 +86,7 @@ modified: 2017-07-5T16:13:37-03:00
 1. Luíza Frota de Paula Pinto, scientific initiation (B.Sc.). **The AspectJ weaving mechanism implementation in the MVCASE Tool** (_in portuguese_) - core development at Federal University of São Carlos. 2004\. (_Co-supervision_)
 1. Fabiana Mari Assáo, scientific initiation (B.Sc.). **Database Persistente in the MVCASE Tool with Crosscutting concerns in Aspects** (_in portuguese_) - core development at Federal University of São Carlos. 2003\. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/3998840368387781){:target="_blank"}]
 
-## Undergraduate ##
+## [Undergraduate](#undergraduate) ##
 
 1. ~~Júlio Alexandre Pedrosa de Melo. **Uma proposta de Arquitetura de Referência para DevOps**. 2018\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[linkedin](https://www.linkedin.com/in/j%C3%BAlio-pedrosa-b335b9107/){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].~~
 1. ~~Ananda Almeida Ramos. **bala.io: Uma plataforma para Gerenciamento Multi-Cluster Swarm**. 2018\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/5021083506183215){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].~~
