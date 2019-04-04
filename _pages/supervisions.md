@@ -89,6 +89,7 @@ modified: 2017-07-5T16:13:37-03:00
 
 ## [Undergraduate](#undergraduate) ##
 
+1. Tiago Lira dos Santos. **Integração e Entrega contínua para aplicações web**.  2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/3688824918183715){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].
 1. Júlio Alexandre Pedrosa de Melo. **Uma proposta de Arquitetura de Referência para DevOps**. 2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[linkedin](https://www.linkedin.com/in/j%C3%BAlio-pedrosa-b335b9107/){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].
 1. Danilo Matheus de Oliveira Pedrosa. **Ferramenta para monitoramento de gastos e iniciativas da câmara de vereadores de Recife**. 2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision). [[linkedin](https://www.linkedin.com/in/danilo-pedrosa-21174b115/){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].
 1. Lucas Serra da Cunha Assad. **Mangue Beat! Investigando soluções para Monitoramento de Aplicações Orientadas a Microsserviços**. 2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/2815325942997286){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].
