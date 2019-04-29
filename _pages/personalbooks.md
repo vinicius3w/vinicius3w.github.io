@@ -12,7 +12,8 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2019
 
-- *[lendo]* "Calamidade: Livro III da série Executores" (384 páginas), by Brandon Sanderson *(23-Apr-19)*
+- *[lendo]* 
+- "Calamidade: Livro III da série Executores" (384 páginas), by Brandon Sanderson *(23-Apr-19 + 5 dias)*
 - "Winston Churchill: Uma vida - Volume 1" (631 páginas), by Martin Gilbert *(25-Oct-18 + 177 dias)*
 
 ### 2018 (14)
