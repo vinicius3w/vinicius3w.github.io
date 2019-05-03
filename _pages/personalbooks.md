@@ -12,7 +12,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2019
 
-- *[lendo]* "Sussurro - série Hush, Hush, Volume 1" (264 páginas), by Becca Fitzpatrick *(29-Apr-19)*
+- *[lendo]* "Prince of Thorns - Trilogia dos Espinhos, Volume 1" (360 páginas), by Becca Fitzpatrick *(01-May-19)*
 - "Calamidade: Livro III da série Executores" (384 páginas), by Brandon Sanderson *(23-Apr-19 + 5 dias)*
 - "Winston Churchill: Uma vida - Volume 1" (631 páginas), by Martin Gilbert *(25-Oct-18 + 177 dias)*
 
