@@ -10,9 +10,10 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2019 (4)
+### 2019 (5)
 
-- *[lendo]* "Emperor of Thorns - Trilogia dos Espinhos, Volume 3" (399 páginas), by Mark Lawrence *(23-May-19)*
+- *[lendo]* "Prince of Fools - Vol. 1 - A Guerra da Rainha Vermelha" (420 páginas), by Mark Lawrence
+- "Emperor of Thorns - Trilogia dos Espinhos, Volume 3" (399 páginas), by Mark Lawrence *(23-May-19 + 6 dias)*
 - "King of Thorns - Trilogia dos Espinhos, Volume 2" (528 páginas), by Mark Lawrence *(14-May-19 + 8 dias)*
 - "Prince of Thorns - Trilogia dos Espinhos, Volume 1" (360 páginas), by Mark Lawrence *(01-May-19 + 11 dias)*
 - "Calamidade: Livro III da série Executores" (384 páginas), by Brandon Sanderson *(23-Apr-19 + 5 dias)*
