@@ -8,7 +8,7 @@ modified: 2017-07-5T16:13:37-03:00
 * [M.Sc. degree](#msc)
 * [Post-Graduation (Especialização Lato Sensu)](#lato)
 * [Undergraduate (scientific/research projects)](#ic-ext)
-* [Undergraduate](#undergraduate)
+* [Undergraduate 2](#undergraduate)
 
 {% include base_path %}
 
