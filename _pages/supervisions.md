@@ -8,7 +8,7 @@ modified: 2017-07-5T16:13:37-03:00
 * [M.Sc. degree](#msc)
 * [Post-Graduation (Especialização Lato Sensu)](#lato)
 * [Undergraduate (scientific/research projects)](#ic-ext)
-* [Undergraduate 2](#undergraduate)
+* [Undergraduate 3](#Undergraduate)
 
 {% include base_path %}
 
@@ -93,7 +93,7 @@ modified: 2017-07-5T16:13:37-03:00
 1. Luíza Frota de Paula Pinto, scientific initiation (B.Sc.). **The AspectJ weaving mechanism implementation in the MVCASE Tool** (_in portuguese_) - core development at Federal University of São Carlos. 2004\. (_Co-supervision_)
 1. Fabiana Mari Assáo, scientific initiation (B.Sc.). **Database Persistente in the MVCASE Tool with Crosscutting concerns in Aspects** (_in portuguese_) - core development at Federal University of São Carlos. 2003\. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/3998840368387781){:target="_blank"}]
 
-##Undergraduate
+## Undergraduate ##
 
 1. Thiago Aquino dos Santos. **Um Estudo do Stackoverflow sobre Perguntas e Soluções sobre Microsserviços**. 2019\. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/){:target="_blank"}] [[pdf](https://www.scribd.com/document/415329288/Um-Estudo-do-Stackoverflow-sobre-Perguntas-e-Solucoes-sobre-Microsservicos){:target="_blank"}] [[ppt](){:target="_blank"}].
 1. ~~Tiago Lira dos Santos. **Integração e Entrega contínua para aplicações web**.  2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/3688824918183715){:target="_blank"}] [[pdf](){:target="_blank"}] [[ppt](){:target="_blank"}].~~
