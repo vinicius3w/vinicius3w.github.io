@@ -4,15 +4,15 @@ title: "Supervisions"
 modified: 2017-07-5T16:13:37-03:00
 ---
 
-- [<a name="phd">Ph.D. degree</a>](#a-namephdPhD-degreea)
-- [<a name="msc">M.Sc. degree</a>](#a-namemscMSc-degreea)
-- [<a name="lato">Post-Graduation (Especialização Lato Sensu)</a>](#a-namelatoPost-Graduation-Especialização-Lato-Sensua)
-- [<a name="ic-ext">Undergraduate (scientific/research projects)</a>](#a-nameic-extUndergraduate-scientificresearch-projectsa)
-- [<a name="undergraduate">Undergraduate</a>](#a-nameundergraduateUndergraduatea)
+- [Ph.D. degree](#PhD-degree)
+- [M.Sc. degree](#MSc-degree)
+- [Post-Graduation (Especialização Lato Sensu)](#Post-Graduation-Especialização-Lato-Sensu)
+- [Undergraduate (scientific/research projects)](#Undergraduate-scientificresearch-projects)
+- [Undergraduate](#Undergraduate)
 
 {% include base_path %}
 
-## <a name="phd">Ph.D. degree</a>
+## Ph.D. degree
 
 1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="\_blank"}]
 2. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="\_blank"}]
@@ -26,7 +26,7 @@ modified: 2017-07-5T16:13:37-03:00
 10. Paulo Anselmo da Mota Silveira Neto. **Assessing Security in Software Product Lines: A Maintenance Analysis**. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/6465144387155252){:target="\_blank"}] [[pdf](https://pt.scribd.com/document/359855895/Assessing-Security-in-Software-Product-Lines-A-Maintenance-Analysis){:target="\_blank"}] [[ppt](https://pt.scribd.com/presentation/359855778/Assessing-Security-in-Software-Product-Lines-A-Maintenance-Analysis-Apresentacao){:target="\_blank"}]
 11. Ricardo Alexandre Afonso. **Smartcluster: A Metamodel Indicators for Smart and Human Cities**. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/3117877031824338){:target="\_blank"}] [[pdf](https://pt.scribd.com/document/349849699/Smartcluster-A-Metamodel-Indicators-for-Smart-and-Human-Cities){:target="\_blank"}] [[ppt](https://pt.scribd.com/document/341977480/Smartcluster-A-Metamodel-Indicators-for-Smart-and-Human-Cities-Presentation){:target="\_blank"}]
 
-## <a name="msc">M.Sc. degree</a>
+## M.Sc. degree
 
 1. Ricardo Robson Mendes da Silva. **Em direção a um Framework Serverless para Docker Swarm**. <span style="color: #ff0000;">Início: 2019, Conclusão: 2021</span>. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/1466400900503967){:target="\_blank"}]
 2. Sandrine Ventura Martins. **Título a ser definido**. <span style="color: #ff0000;">Início: 2017, Conclusão: 2019</span>. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/3989518164012856){:target="\_blank"}]
@@ -74,26 +74,26 @@ modified: 2017-07-5T16:13:37-03:00
 44. Cristiano Tavares Silva. **Um Experimento de Engenharia de Requisitos para caracterização do Processo e sua Adequação às Práticas Específicas do CMMI**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [lattes][pdf](http://www.scribd.com/doc/58851350){:target="\_blank"}]
 45. Átila Andrade Bittencourt Paula. **UMA PROPOSTA PARA EXPANSÃO SEMÂNTICA DE CONSULTAS BASEADA EM ONTOLOGIA DE DOMÍNIO ESPECÍFICO**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/8472935389021591){:target="\_blank"}] [[pdf](http://www.scribd.com/doc/58125217){:target="\_blank"}]
 
-## <a name="lato">Post-Graduation (Especialização Lato Sensu)</a>
+## Post-Graduation (Especialização Lato Sensu)
 
 1. Cloves Alberto Chaves de Lima. **Um Modelo de Gerenciamento de Identidade para Segurança de Aplicativos SaaS**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/106154069){:target="\_blank"}]
-1. Priscila Navarro Peixoto de Oliveira. **O Lado Bom e Desconhecido da Camada mais Profunda da Web**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/105910847){:target="\_blank"}]
-1. Ricardo Marinho de Melo. **Segurança em Web Services: Análise de WS-Security, WS-Policy e SAML.** Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/95152944){:target="\_blank"}]
+2. Priscila Navarro Peixoto de Oliveira. **O Lado Bom e Desconhecido da Camada mais Profunda da Web**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/105910847){:target="\_blank"}]
+3. Ricardo Marinho de Melo. **Segurança em Web Services: Análise de WS-Security, WS-Policy e SAML.** Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/95152944){:target="\_blank"}]
 
-## <a name="ic-ext">Undergraduate (scientific/research projects)</a>
+## Undergraduate (scientific/research projects)
 
 1. Marcson Silva dos Santos. **Gestão do Conhecimento acerca do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0154-1.03/18
    \. (Supervision). [[lattes](){:target="\_blank"}]
-1. Daniel Carvalho de Oliveira. **Análise de Domínio do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0074-6.07/18
+2. Daniel Carvalho de Oliveira. **Análise de Domínio do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0074-6.07/18
    \. (Supervision). [[lattes](){:target="\_blank"}]
-1. Nathan Martins Freire. **Uso da Internet das Coisas no acesso multimodal a informações em Smart Cities**. 2016\. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0066-1.03/16\. (Supervision). [[lattes](http://lattes.cnpq.br/3529155728983836){:target="\_blank"}]
-1. Victor Barros de Miranda Neves. **Uso da Internet das Coisas no acesso multimodal a informações em um Smart Campus**. 2015\. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0155-1.03/14\. (Supervision). [[lattes](http://lattes.cnpq.br/3698823434300511){:target="\_blank"}]
-1. Danilo Monteiro Ribeiro. **Maximizando Resultados Através de uma Gestão de Portfólio Eficiente no Agreste Pernambucano: Um estudo de caso envolvendo a realidade das empresas locais**. 2011\. Iniciação científica (Graduando em Sistemas de Informação) - Universidade de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (_Supervision_). [[lattes](http://lattes.cnpq.br/9054177799378154){:target="\_blank"}]
-1. Ana Flávia de Fonte Netto de Mendonça & Heline Juliana Lins. **A importância da tecnologia da informação para o processo decisorial organizacional: um estudo de caso na ASA Indústria e Comércio Ltda**. 2008\. Iniciação Científica. (Graduando em Administração de Empresas) - Universidade de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico (_Supervision_).
-1. Luíza Frota de Paula Pinto, scientific initiation (B.Sc.). **The AspectJ weaving mechanism implementation in the MVCASE Tool** (_in portuguese_) - core development at Federal University of São Carlos. 2004\. (_Co-supervision_)
-1. Fabiana Mari Assáo, scientific initiation (B.Sc.). **Database Persistente in the MVCASE Tool with Crosscutting concerns in Aspects** (_in portuguese_) - core development at Federal University of São Carlos. 2003\. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/3998840368387781){:target="\_blank"}]
+3. Nathan Martins Freire. **Uso da Internet das Coisas no acesso multimodal a informações em Smart Cities**. 2016\. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0066-1.03/16\. (Supervision). [[lattes](http://lattes.cnpq.br/3529155728983836){:target="\_blank"}]
+4. Victor Barros de Miranda Neves. **Uso da Internet das Coisas no acesso multimodal a informações em um Smart Campus**. 2015\. Iniciação acadêmica (Graduando em Ciência da Computação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0155-1.03/14\. (Supervision). [[lattes](http://lattes.cnpq.br/3698823434300511){:target="\_blank"}]
+5. Danilo Monteiro Ribeiro. **Maximizando Resultados Através de uma Gestão de Portfólio Eficiente no Agreste Pernambucano: Um estudo de caso envolvendo a realidade das empresas locais**. 2011\. Iniciação científica (Graduando em Sistemas de Informação) - Universidade de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (_Supervision_). [[lattes](http://lattes.cnpq.br/9054177799378154){:target="\_blank"}]
+6. Ana Flávia de Fonte Netto de Mendonça & Heline Juliana Lins. **A importância da tecnologia da informação para o processo decisorial organizacional: um estudo de caso na ASA Indústria e Comércio Ltda**. 2008\. Iniciação Científica. (Graduando em Administração de Empresas) - Universidade de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico (_Supervision_).
+7. Luíza Frota de Paula Pinto, scientific initiation (B.Sc.). **The AspectJ weaving mechanism implementation in the MVCASE Tool** (_in portuguese_) - core development at Federal University of São Carlos. 2004\. (_Co-supervision_)
+8. Fabiana Mari Assáo, scientific initiation (B.Sc.). **Database Persistente in the MVCASE Tool with Crosscutting concerns in Aspects** (_in portuguese_) - core development at Federal University of São Carlos. 2003\. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/3998840368387781){:target="\_blank"}]
 
-## <a name="undergraduate">Undergraduate</a>
+## Undergraduate
 
 1. Thiago Aquino dos Santos. **Um Estudo do Stackoverflow sobre Perguntas e Soluções sobre Microsserviços**. 2019\. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/){:target="\_blank"}] [[pdf](https://www.scribd.com/document/415329288/Um-Estudo-do-Stackoverflow-sobre-Perguntas-e-Solucoes-sobre-Microsservicos){:target="\_blank"}] [[ppt](){:target="\_blank"}].
 2. Lucas Serra da Cunha Assad. **Mangue Beat! Investigando soluções para Monitoramento de Aplicações Orientadas a Microsserviços**. 2019\. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. (Supervision) [[lattes](http://lattes.cnpq.br/2815325942997286){:target="\_blank"}] [[pdf](https://www.scribd.com/document/415361716/Mangue-Beat-Investigando-solucoes-para-Monitoramento-de-Aplicacoes-Orientadas-a-Microsservicos){:target="\_blank"}] [[ppt](){:target="\_blank"}].
