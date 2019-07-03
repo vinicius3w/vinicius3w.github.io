@@ -6,8 +6,8 @@ modified: 2017-07-5T16:13:37-03:00
 
 - [Ph.D. degree](#PhD-degree)
 - [M.Sc. degree](#MSc-degree)
-- [Post-Graduation (Especialização Lato Sensu)](#Post-Graduation-Especialização-Lato-Sensu)
-- [Undergraduate (scientific/research projects)](#Undergraduate-scientificresearch-projects)
+- [Post-Graduation (Lato Sensu)](#Post-Graduation-Lato-Sensu)
+- [Undergraduate (scientific projects)](#Undergraduate-scientific-projects)
 - [Undergraduate](#Undergraduate)
 
 {% include base_path %}
@@ -74,13 +74,13 @@ modified: 2017-07-5T16:13:37-03:00
 44. Cristiano Tavares Silva. **Um Experimento de Engenharia de Requisitos para caracterização do Processo e sua Adequação às Práticas Específicas do CMMI**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [lattes][pdf](http://www.scribd.com/doc/58851350){:target="\_blank"}]
 45. Átila Andrade Bittencourt Paula. **UMA PROPOSTA PARA EXPANSÃO SEMÂNTICA DE CONSULTAS BASEADA EM ONTOLOGIA DE DOMÍNIO ESPECÍFICO**. 2010\. Dissertação (Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (_Co-supervision_) [[lattes](http://lattes.cnpq.br/8472935389021591){:target="\_blank"}] [[pdf](http://www.scribd.com/doc/58125217){:target="\_blank"}]
 
-## Post-Graduation (Especialização Lato Sensu)
+## Post-Graduation (Lato Sensu)
 
 1. Cloves Alberto Chaves de Lima. **Um Modelo de Gerenciamento de Identidade para Segurança de Aplicativos SaaS**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/106154069){:target="\_blank"}]
 2. Priscila Navarro Peixoto de Oliveira. **O Lado Bom e Desconhecido da Camada mais Profunda da Web**. Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/105910847){:target="\_blank"}]
 3. Ricardo Marinho de Melo. **Segurança em Web Services: Análise de WS-Security, WS-Policy e SAML.** Início: 2010, Conclusão: 2012\. Monografia (Curso de Especialização em Engenharia de Software com Ênfase em SEGURANÇA DA INFORMAÇÃO EM ENGENHARIA DE SOFTWARE - SIESTTA) - Centro de Estudos e Sistemas Avançados do Recife. (_Supervision_) [[pdf](http://pt.scribd.com/doc/95152944){:target="\_blank"}]
 
-## Undergraduate (scientific/research projects)
+## Undergraduate (scientific projects)
 
 1. Marcson Silva dos Santos. **Gestão do Conhecimento acerca do Sistema de Avaliação Isocinética Humac Norm Plus**. 2018\. Iniciação acadêmica (Graduando em Sistemas de Informação) - Universidade Federal de Pernambuco, Programa Institucional de Bolsa de Incentivo Acadêmico - BIA, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), processo número: BIA-0154-1.03/18
    \. (Supervision). [[lattes](){:target="\_blank"}]
