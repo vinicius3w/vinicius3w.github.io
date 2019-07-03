@@ -4,6 +4,8 @@ title: "Supervisions"
 modified: 2017-07-5T16:13:37-03:00
 ---
 
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
 - [Ph.D. degree](#PhD-degree)
 - [M.Sc. degree](#MSc-degree)
 - [Post-Graduation (Lato Sensu)](#Post-Graduation-Lato-Sensu)
