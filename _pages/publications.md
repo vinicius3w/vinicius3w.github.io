@@ -25,7 +25,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 ### Artigos em Conferências / Conference papers
 
 1. DA SILVA, Carlo M. R. da Silva; TEXEIRA, Lucas C.; DE BARROS, Júlio C. G.; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Suscetibilidade através da forja de fidedignidade: uma abordagem sobre ataques de Phishing**](). In: 19th Brazilian Symposium on Information and Computer System Security (SBSeg 2019), São Paulo, SP, 2-5 September 2019.
-1. DA SILVA, Carlo M. R. da Silva; TEXEIRA, Lucas C.; DE BARROS, Júlio C. G.; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Uma Modelagem de Risco Centrada em Comportamentos para o Desenvolvimento Seguro de Serviços no Ecossistema Web**](). In: 19th Brazilian Symposium on Information and Computer System Security (SBSeg 2019), São Paulo, SP, 2-5 September 2019.
+1. DA SILVA, Carlo M. R. da Silva; **GARCIA, Vinicius Cardoso**. [**Uma Modelagem de Risco Centrada em Comportamentos para o Desenvolvimento Seguro de Serviços no Ecossistema Web**](). In: 19th Brazilian Symposium on Information and Computer System Security (SBSeg 2019), São Paulo, SP, 2-5 September 2019.
 
 ## [2018](#2018)
 
