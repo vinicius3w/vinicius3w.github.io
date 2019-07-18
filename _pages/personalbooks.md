@@ -12,7 +12,9 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2019 (5)
 
-- *[lendo]* "Prince of Fools - Vol. 1 - A Guerra da Rainha Vermelha" (420 páginas), by Mark Lawrence *(30-May-19)*
+- "A Rebelião de Lúcifer" (490 páginas), by J.J. Benitez
+- *[lendo]* "Os astronautas de Yaveh" (280 páginas), by J.J. Benitez *(21-Jul-19)*
+- "Prince of Fools - Vol. 1 - A Guerra da Rainha Vermelha" (420 páginas), by Mark Lawrence *(30-May-19 + 79 dias)*
 - "Emperor of Thorns - Trilogia dos Espinhos, Volume 3" (399 páginas), by Mark Lawrence *(23-May-19 + 6 dias)*
 - "King of Thorns - Trilogia dos Espinhos, Volume 2" (528 páginas), by Mark Lawrence *(14-May-19 + 8 dias)*
 - "Prince of Thorns - Trilogia dos Espinhos, Volume 1" (360 páginas), by Mark Lawrence *(01-May-19 + 11 dias)*
