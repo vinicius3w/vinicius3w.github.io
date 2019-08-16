@@ -24,6 +24,9 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Artigos em Conferências / Conference papers
 
+1. FREITAS, Elyda; DE SOUZA, Fernando da Fonseca; **GARCIA, Vinicius Cardoso**. [**Learning Analytics em Ação: Uma
+Revisão Sistemática de Literatura**](). In: Simpósio Brasileiro de Informática na Educação (SBIE 2019) - Trilha 4: Sistemas Inteligentes para a Promoção do Ensino e da Aprendizagem, Brasília, DF, 11 a 14 de Novembro de 2019.
+1. CÂNDIDO, Adriano Lima; TRINTA, Fernando Antonio Mota; REGO, Paulo; MENDONÇA, Nabor C.; **GARCIA, Vinicius Cardoso**. [**A microservice based architecture to support offloading in Mobile Cloud Computing**](). In: XIII Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2019),  Salvador/BA, September 23rd and 27th, 2019.
 1. DA SILVA, Carlo M. R. da Silva; TEXEIRA, Lucas C.; DE BARROS, Júlio C. G.; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Suscetibilidade através da forja de fidedignidade: uma abordagem sobre ataques de Phishing**](). In: 19th Brazilian Symposium on Information and Computer System Security (SBSeg 2019), São Paulo, SP, 2-5 September 2019.
 1. DA SILVA, Carlo M. R. da Silva; **GARCIA, Vinicius Cardoso**. [**Uma Modelagem de Risco Centrada em Comportamentos para o Desenvolvimento Seguro de Serviços no Ecossistema Web**](). In: 19th Brazilian Symposium on Information and Computer System Security (SBSeg 2019), São Paulo, SP, 2-5 September 2019.
 
