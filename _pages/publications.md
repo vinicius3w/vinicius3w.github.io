@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-modified: 2017-04-25T18:02:37-03:00
+modified: 2019-08-16T12:50:37-03:00
 ---
 
 {% include base_path %}
