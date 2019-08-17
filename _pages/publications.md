@@ -24,6 +24,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Artigos em Conferências / Conference papers
 
+1. CÂNDIDO, Adriano Lima; TRINTA, Fernando Antonio Mota; REGO, Paulo; MENDONÇA, Nabor C.; **GARCIA, Vinicius Cardoso**; ROCHA, Lincoln. [**Um relato sobre a migração de uma plataforma de offloading para microsserviços**](). In: VII Workshop on Software Visualization, Evolution and Maintenance (VEM 2019), Salvador/BA, September 23rd and 27th, 2019.
 1. FREITAS, Elyda; DE SOUZA, Fernando da Fonseca; **GARCIA, Vinicius Cardoso**. [**Learning Analytics em Ação: Uma
 Revisão Sistemática de Literatura**](). In: Simpósio Brasileiro de Informática na Educação (SBIE 2019) - Trilha 4: Sistemas Inteligentes para a Promoção do Ensino e da Aprendizagem, Brasília, DF, 11 a 14 de Novembro de 2019.
 1. CÂNDIDO, Adriano Lima; TRINTA, Fernando Antonio Mota; REGO, Paulo; MENDONÇA, Nabor C.; **GARCIA, Vinicius Cardoso**. [**A microservice based architecture to support offloading in Mobile Cloud Computing**](). In: XIII Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2019),  Salvador/BA, September 23rd and 27th, 2019.
