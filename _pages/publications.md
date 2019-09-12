@@ -21,6 +21,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 ### Periódicos / Journals
 
 1. SOARES, Paulo Fernando Almeida; DURÃO, Frederico Araújo; **GARCIA, Vinicius Cardoso**; ASSAD, Rodrigo Elia; SILVA, Diogo Vinícius de Sousa; E SILVA, Anderson Fonseca; MEIRA, Silvio Romero de Lemos. [**Dedupeer: An Algorithm for File Deduplication Through Partitioned Processing**](http://www.globalcis.org/dl/citation.html?id=JCIT-4422). In: [Journal of Convergence Information Technology (JCIT)](http://www.globalcis.org/jcit/home/index.html), Volume 14 Issue 1, January, 2019, Pages 100-111, ISSN 1975-9320 (Print) 2233-9299 (Online). GlobalCIS (Convergence Information Society, Republic of Korea).
+1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), To be plublished, 2019, ISSN 0167-4048.
 
 ### Artigos em Conferências / Conference papers
 
