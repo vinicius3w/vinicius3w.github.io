@@ -16,12 +16,20 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="\_blank"}
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
 
+## [2020](#2020)
+
+### Periódicos / Journals
+
+1. BRITO, K. dos Santos; DE LIMA, A. A.; FERREIRA, S. E.; BURÉGIO, V. de Arruda; **GARCIA, Vinicius Cardoso**; and MEIRA, S. R. de Lemos. [**Evolution of the Web of Social Machines: A Systematic Review and Research Challenges**](https://doi.org/10.1109/TCSS.2019.2961269), in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). To be plublished, 2020. DOI: 10.1109/TCSS.2019.2961269
+
+
 ## [2019](#2019)
 
 ### Periódicos / Journals
 
 1. SOARES, Paulo Fernando Almeida; DURÃO, Frederico Araújo; **GARCIA, Vinicius Cardoso**; ASSAD, Rodrigo Elia; SILVA, Diogo Vinícius de Sousa; E SILVA, Anderson Fonseca; MEIRA, Silvio Romero de Lemos. [**Dedupeer: An Algorithm for File Deduplication Through Partitioned Processing**](http://www.globalcis.org/dl/citation.html?id=JCIT-4422). In: [Journal of Convergence Information Technology (JCIT)](http://www.globalcis.org/jcit/home/index.html), Volume 14 Issue 1, January, 2019, Pages 100-111, ISSN 1975-9320 (Print) 2233-9299 (Online). GlobalCIS (Convergence Information Society, Republic of Korea).
-1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), To be plublished, 2019. DOI: https://doi.org/10.1016/j.cose.2019.101613
+1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](https://doi.org/10.1016/j.cose.2019.101613). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), Volume 88, ISSN: 01674048, 2019. DOI: https://doi.org/10.1016/j.cose.2019.101613
+
 
 ### Artigos em Conferências / Conference papers
 
