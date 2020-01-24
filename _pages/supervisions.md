@@ -8,6 +8,8 @@ modified: 2019-08-16T12:50:37-03:00
 
 ## [Ph.D. degree](#PhD-degree)
 
+1. Arthur Caique Bezerra Vieira. **Título a ser definido**. <span style="color: #ff0000;">Início: 2020, Conclusão: 2024</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/1521869500050398){:target="\_blank"}]
+1. Clovis Holanda do Nascimento. **Título a ser definido**. <span style="color: #ff0000;">Início: 2019, Conclusão: 2023</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/9846282643551300){:target="\_blank"}]
 1. Carlo Marcelo Revoredo da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/5941653866734201){:target="\_blank"}]
 1. Flavio da Silva Neves. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/4349146742631578){:target="\_blank"}]
 1. Jackson Raniel Florencio da Silva. **Título a ser definido**. <span style="color: #ff0000;">Início: 2018, Conclusão: 2022</span>. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (_Supervision_). [[lattes](http://lattes.cnpq.br/9861261850443973){:target="\_blank"}]
