@@ -20,7 +20,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Periódicos / Journals
 
-1. BRITO, K. dos Santos; DE LIMA, A. A.; FERREIRA, S. E.; BURÉGIO, V. de Arruda; **GARCIA, Vinicius Cardoso**; and MEIRA, S. R. de Lemos. [**Evolution of the Web of Social Machines: A Systematic Review and Research Challenges**](https://doi.org/10.1109/TCSS.2019.2961269), in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650). To be plublished, 2020. DOI: 10.1109/TCSS.2019.2961269
+1. BRITO, K. dos Santos; DE LIMA, A. A.; FERREIRA, S. E.; BURÉGIO, V. de Arruda; **GARCIA, Vinicius Cardoso**; and MEIRA, S. R. de Lemos. [**Evolution of the Web of Social Machines: A Systematic Review and Research Challenges**](https://doi.org/10.1109/TCSS.2019.2961269), in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650), vol. 7, no. 2, pp. 373-388, April 2020. DOI: 10.1109/TCSS.2019.2961269
 1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](https://doi.org/10.1016/j.cose.2019.101613). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), Volume 88, ISSN: 0167-4048, 2019. DOI: <https://doi.org/10.1016/j.cose.2019.101613>
 
 
