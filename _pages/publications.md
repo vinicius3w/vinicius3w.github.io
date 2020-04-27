@@ -43,7 +43,7 @@ Revisão Sistemática de Literatura**](https://br-ie.org/pub/index.php/sbie/arti
 
 ### Livros / Books
 
-1. Giovani Felipe Jahn; **VINICIUS CARDOSO GARCIA**. [**Arquitetura Para Tratamento De Dados Não Estruturados**](https://www.morebooks.shop/bookprice_offer_574afe995dd180abf0ad09d30786aa1cc7f2f09b?auth_token=d3d3Lm5lYS1lZGljb2VzLmNvbTo1ZTM2MDk5NjVjNzRhZDU0MzVkMzY1NWEyYzAxYWFhZA%3D%3D&locale=gb&currency=EUR). [Novas Edições Acadêmicas](https://www.morebooks.shop/books/gb/published_by/novas-edi%C3%A7%C3%B5es-acad%C3%AAmicas/332520/products), ISBN-13:
+1. Giovani Felipe Jahn; **VINICIUS CARDOSO GARCIA**. [**Arquitetura Para Tratamento De Dados Não Estruturados**](https://www.morebooks.shop/store/gb/book/arquitetura-para-tratamento-de-dados-não-estruturados/isbn/978-613-9-61515-5). [Novas Edições Acadêmicas](https://www.morebooks.shop/books/gb/published_by/novas-edi%C3%A7%C3%B5es-acad%C3%AAmicas/332520/products), ISBN-13:
    978-613-9-61515-5, Published on 24-05-2018.
 
 ## [2017](#2017)
