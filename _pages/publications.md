@@ -25,6 +25,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Artigos em Conferências / Conference papers
 
+1. ARAÚJO, Elena; ESPÍNDOLA, Álvaro; **GARCIA, Vinicius Cardoso**; TERRA, Ricardo. [**Applying a Multi-plataform Architectural Conformance Solution in a Real-world Microservice-based System**](), In [14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2020)](), *To be published*, October 19-23, Virtual Conference.
 1. FREITAS, Elyda; DE SOUZA, Fernando da Fonseca; **GARCIA, Vinicius Cardoso**; FERREIRA, Rafael; Gašević, Dragan. [**Towards a Maturity Model for Learning Analytics Adoption**: An Overview of its Levels and Areas](), in [IEEE 20th International Conference on Advanced Learning Technologies and Technology-enhanced Learning (ICALT'2020)](https://icalt2020.ut.ee/home-0), pages 180 -- 184, 6 - 9 July, Tartu, Estonia. DOI: 10.1109/ICALT49669.2020.00059.
 
 
