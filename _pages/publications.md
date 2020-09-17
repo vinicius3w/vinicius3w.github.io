@@ -189,7 +189,7 @@ Revisão Sistemática de Literatura**](https://br-ie.org/pub/index.php/sbie/arti
 ### Capítulos de Livro / Book Chapters
 
 1. RODRIGUES NETO, J. ; **Garcia, Vinicius Cardoso** ; ALENCAR, A.L. ; DAMASCENO, J. C. ; ASSAD, R. E. ; TRINTA, Fernando Antonio Mota . **[Software as a Service: Desenvolvendo Aplicações Multi-tenancy com Alto Grau de Reuso](https://www.researchgate.net/publication/236823220_Software_as_a_Service_Desenvolvendo_Aplicacoes_Multi-tenancy_com_Alto_Grau_de_Reuso){:target="\_blank"}**. In: A. A. Macedo; I. Stiubiener; G. Bressan; R.M. Silveira. (Org.). Tópicos em multimídia, hipermídia e Web : minicursos. 1ed.São Paulo: Sociedade Brasileira de Computação, 2012, v. , p. 35-73.
-1. ASSAD, R. E. ; MACHADO, M. A. S. ; SOARES, P. F. A. ; SILVA, A. F. ; SILVA, T. J. ; **Garcia, Vinicius Cardoso **; TRINTA, Fernando Antonio Mota ; MEIRA, Silvio Romero de Lemos . **[Desafios em Cloud computing: Armazenamento, Banco de Dados e BIG Data](https://www.researchgate.net/publication/236823615_Desafios_em_Cloud_computing_Armazenamento_Banco_de_Dados_e_BIG_Data){:target="\_blank"}**. In: A. A. Macedo; I. Stiubiener; G. Bressan; R.M. Silveira. (Org.). Tópicos em multimídia, hipermídia e Web : minicursos. 1ed.São Paulo: Sociedade Brasileira de Computação, 2012, v. , p. 75-116.
+1. ASSAD, R. E. ; MACHADO, M. A. S. ; SOARES, P. F. A. ; SILVA, A. F. ; SILVA, T. J. ; **Garcia, Vinicius Cardoso**; TRINTA, Fernando Antonio Mota ; MEIRA, Silvio Romero de Lemos . **[Desafios em Cloud computing: Armazenamento, Banco de Dados e BIG Data](https://www.researchgate.net/publication/236823615_Desafios_em_Cloud_computing_Armazenamento_Banco_de_Dados_e_BIG_Data){:target="\_blank"}**. In: A. A. Macedo; I. Stiubiener; G. Bressan; R.M. Silveira. (Org.). Tópicos em multimídia, hipermídia e Web : minicursos. 1ed.São Paulo: Sociedade Brasileira de Computação, 2012, v. , p. 75-116.
 
 ### Artigos em Conferências / Conference papers
 
@@ -299,7 +299,7 @@ Revisão Sistemática de Literatura**](https://br-ie.org/pub/index.php/sbie/arti
 
 ### Periódicos / Journals
 
-1. ALMEIDA, Eduardo Santana de ; ALVARO, Alexandre ; **Garcia, Vinicius C. **; DO NASCIMENTO, Leandro Marques ; MEIRA, Silvio Romero de Lemos ; LUCRÉDIO, Daniel. [A Systematic Approach to Design Domain-Specific Software Architectures](https://www.semanticscholar.org/paper/A-Systematic-Approach-to-Design-Domain-Specific-So-Almeida-Alvaro/9039e6446430c96b1839607fb104ed88883903dc){:target="\_blank"}. Journal of Software, v. 2, p. 38-51, 2007.
+1. ALMEIDA, Eduardo Santana de ; ALVARO, Alexandre ; **Garcia, Vinicius C.**; DO NASCIMENTO, Leandro Marques ; MEIRA, Silvio Romero de Lemos ; LUCRÉDIO, Daniel. [A Systematic Approach to Design Domain-Specific Software Architectures](https://www.semanticscholar.org/paper/A-Systematic-Approach-to-Design-Domain-Specific-So-Almeida-Alvaro/9039e6446430c96b1839607fb104ed88883903dc){:target="\_blank"}. Journal of Software, v. 2, p. 38-51, 2007.
 
 ### Artigos em Conferências / Conference papers
 
