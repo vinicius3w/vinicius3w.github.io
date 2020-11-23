@@ -21,11 +21,15 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 ### Periódicos / Journals
 
 1. BRITO, K. dos Santos; DE LIMA, A. A.; FERREIRA, S. E.; BURÉGIO, V. de Arruda; **GARCIA, Vinicius Cardoso**; and MEIRA, S. R. de Lemos. [**Evolution of the Web of Social Machines: A Systematic Review and Research Challenges**](https://doi.org/10.1109/TCSS.2019.2961269), in [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650), vol. 7, no. 2, pp. 373-388, April 2020. DOI: 10.1109/TCSS.2019.2961269
-1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](https://doi.org/10.1016/j.cose.2019.101613). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), Volume 88, ISSN: 0167-4048, 2019. DOI: <https://doi.org/10.1016/j.cose.2019.101613>
+1. DA SILVA, Carlo M. R. da Silva; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Heuristic-based Strategy for Phishing Prediction: A Survey of URL-based approach**](https://doi.org/10.1016/j.cose.2019.101613). In: [Computers & Security](https://www.journals.elsevier.com/computers-and-security), Volume 88, ISSN: 0167-4048, January 2020. DOI: <https://doi.org/10.1016/j.cose.2019.101613>
+
+### Revistas / Magazines
+
+1. FREITAS, Elyda Laisa Soares Xavier; DE SOUZA, Fernando da Fonseca; **GARCIA, Vinicius Cardoso**; FALCÃO, Taciana Pontual da Rocha; MARQUES, Elaine Cristina Moreira; DE MELLO, Rafael Ferreira Leite. [**Avaliação de um Modelo de Maturidade para Adoção de Learning Analytics em Instituições de Ensino Superior**](), In [Revista Latinoamericana de Tecnología Educativa (RELATEC)](https://relatec.unex.es), vol. 19, no. 2, ISSN 1695-288X, 2020. *To be published*
 
 ### Artigos em Conferências / Conference papers
 
-1. ARAÚJO, Elena; ESPÍNDOLA, Álvaro; **GARCIA, Vinicius Cardoso**; TERRA, Ricardo. [**Applying a Multi-plataform Architectural Conformance Solution in a Real-world Microservice-based System**](), In [14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2020)](), *To be published*, October 19-23, Virtual Conference.
+1. ARAÚJO, Elena; ESPÍNDOLA, Álvaro; **GARCIA, Vinicius Cardoso**; TERRA, Ricardo. [**Applying a Multi-plataform Architectural Conformance Solution in a Real-world Microservice-based System**](https://doi.org/10.1145/3425269.3425270), In [14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2020)](https://cbsoft2020.imd.ufrn.br/sbcars.php), October 19 - 23, Natal-RN, Brazil, *Virtual Conference*, Association for Computing Machinery, New York, NY, USA, 41–50. DOI: https://doi.org/10.1145/3425269.3425270
 1. FREITAS, Elyda; DE SOUZA, Fernando da Fonseca; **GARCIA, Vinicius Cardoso**; FERREIRA, Rafael; Gašević, Dragan. [**Towards a Maturity Model for Learning Analytics Adoption**: An Overview of its Levels and Areas](), in [IEEE 20th International Conference on Advanced Learning Technologies and Technology-enhanced Learning (ICALT'2020)](https://icalt2020.ut.ee/home-0), pages 180 -- 184, 6 - 9 July, Tartu, Estonia. DOI: 10.1109/ICALT49669.2020.00059.
 
 
