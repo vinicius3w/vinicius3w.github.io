@@ -11,7 +11,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#){:target="\_blank"}
 - [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html){:target="\_blank"}
 - [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="\_blank"}
-- [Microsoft Academic Search](http://academic.research.microsoft.com/Author/1947462.aspx){:target="\_blank"}
+- [Microsoft Academic Search](https://academic.microsoft.com/profile/j624415h-i181-4136-fg1h-jhjj414hhfef/ViniciusGarcia/){:target="\_blank"}
 - [Plataforma Lattes (in portuguese)](http://bit.ly/vcg-lattes){:target="\_blank"}
 - [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="\_blank"}
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
