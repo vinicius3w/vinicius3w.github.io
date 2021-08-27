@@ -16,6 +16,12 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="\_blank"}
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
 
+## [2021](#2021)
+
+### Artigos em Conferências / Conference papers
+
+1. NEVES, Flávio; **GARCIA, Vinicius Cardoso**; BONFIM, Michel Sales. [**Um mecanismo para recomendação de algoritmos de anonimização de dados baseado no perfil dos dados para ambientes IoT**](). XI Workshop de Teses e Dissertações (WTDSoft) - evento permanente associado ao [Congresso Brasileiro de Software: Teoria e Prática (CBSoft)](http://cbsoft2021.joinville.udesc.br/index.php), 27 de Setembro a 1 de Outubro de 2021, Joinvile, Santa Catarina, Brasil.
+
 ## [2020](#2020)
 
 ### Periódicos / Journals
