@@ -18,6 +18,11 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
 ## Academic Degrees ##
 
+- [IBM Artificial Intelligence Practitioner - Instructor Certificate](https://www.credly.com/badges/01c7fcc5-ddde-4b38-b427-aaee9673c848), Issued by IBM on 26 August 2021.
+- [Enterprise Design Thinking - Team Essentials for AI](https://www.credly.com/badges/7fc4e135-338d-4743-914f-c53baa493a87), Issued by IBM on 11 July 2021.
+- [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/b11d18a0-a659-4e64-ba2c-27f01bcf6625), Issued by IBM on 10 July 2021.
+- [Lifelong Learning](https://www.credly.com/badges/bd3a3226-d604-4bd0-b11c-511f5b2facac?source=linked_in_profile), Issued by CertiProf.
+- [DevOps Essentials Professional Certificate (DEPC)](https://www.credly.com/badges/28aa1881-0e07-4634-a1a9-d9465d5c3d4d), Credential ID: 30912701, CertiProf LLC.
 - Senior Research Scientist at [Ustore](http://www.ustore.com.br){:target="_blank"}, 2013~2017
 - Institutional Representative (RI) of the [Brazilian Computer Society](http://www.sbc.org.br){:target="_blank"} – [UFPE (Federal University of Pernambuco)](http://www.ufpe.br){:target="_blank"}, since 2011
 - Associate Professor at [CIn (Informatic Center)](http://www.cin.ufpe.br){:target="_blank"} of [UFPE (Federal University of Pernambuco)](http://www.ufpe.br){:target="_blank"}, since 2010
@@ -33,6 +38,7 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
 ## Awards ##
 
+- Most Influential Paper (MIP) Award, 14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS), Paper: A Regression Testing Approach for Software Product Lines Architectures, Sociedade Brasileira de Computação (SBC).
 - [Honored Professor](https://goo.gl/photos/7VgfFuFpPyqXyJ3Q7){:target="_blank"}, Class of Information Systems (B.Sc.), [CIn (Informatic Center)](http://www.cin.ufpe.br){:target="_blank"} of [UFPE (Federal University of Pernambuco)](http://www.ufpe.br){:target="_blank"}, 2016 - 2017
 - [Honored Professor (Paraninfo)](https://goo.gl/photos/f7tLnSzgUTEdcCteA){:target="_blank"}, Class of Information Systems (B.Sc.), [CIn (Informatic Center)](http://www.cin.ufpe.br){:target="_blank"} of [UFPE (Federal University of Pernambuco)](http://www.ufpe.br){:target="_blank"}, 2016.2
 - Br-SCMM: Modelo Brasileiro de Maturidade para Cidades Inteligentes. Melhor artigo da trilha Sistemas de Informação e os Desafios do Mundo Aberto do IX Simpósio Brasileiro de Sistemas de Informação (SBSI 2013), João Pessoa, PB, Brazil. Promovido pela Sociedade Brasileira de Computação.
