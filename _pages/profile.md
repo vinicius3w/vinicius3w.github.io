@@ -96,7 +96,7 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
 ## Thesis ##
 
-- **RiSE Reference Model for Software Reuse Adoption in Brazilian Companies**. Ph.D. Thesis presented at Federal University of Pernambuco (UFPE).  Advisor: Silvio Romero de Lemos Meira. [*Download, read and/or share*](https://www.scribd.com/document/53625784/RiSE-Reference-Model-for-Software-Reuse-Adoption-in-Brazilian-Companies?ad_group=&campaign=Skimbit%2C+Ltd.&content=10079&keyword=ft750noi&medium=affiliate&source=impactradius){:target="_blank"}.
+- **RiSE Reference Model for Software Reuse Adoption in Brazilian Companies**. D.C.Sc. Thesis presented at Federal University of Pernambuco (UFPE).  Advisor: Silvio Romero de Lemos Meira. [*Download, read and/or share*](https://www.scribd.com/document/53625784/RiSE-Reference-Model-for-Software-Reuse-Adoption-in-Brazilian-Companies?ad_group=&campaign=Skimbit%2C+Ltd.&content=10079&keyword=ft750noi&medium=affiliate&source=impactradius){:target="_blank"}.
 - **Phoenix: An Approach for the Aspect-Oriented Software Reengineering** *(in portuguese)* M.Sc. Dissertation presented in March 03, 2005 at Federal University of São Carlos (UFScar). Advisor: Antonio Francisco do Prado. [*Download, read and/or share*](https://www.scribd.com/document/42180162/Phoenix-Uma-Abordagem-para-Reengenharia-de-Software-Orientada-a-Aspectos?ad_group=&campaign=Skimbit%2C+Ltd.&content=10079&keyword=ft750noi&medium=affiliate&source=impactradius){:target="_blank"}.
 - **VPN Analisys and Implementation in a Linux Environment** *(in portuguese)* B.Sc. Monography presented in December, 2000 at Salvador University (UNIFACS). Advisor: Antonio Carlos Fontes Atta. *For download, request for me*.
 
