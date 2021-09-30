@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinicius Cardoso Garcia, D.Sc."
+title                    : "Vinicius Cardoso Garcia, D.C.Sc."
 title_separator          : "|"
 name                     : &name "Vinicius Cardoso Garcia"
 description              : &description "Associate Professor, Informatics Center of Federal University of Pernambuco (CIn/UFPE)."
@@ -71,8 +71,7 @@ author:
   bio              : &description
   location         : "Recife-PE,Brazil"
   email            : "vcg@cin.ufpe.br"
-  uri              : "http://vinicius3w.com"
-  bitbucket        : "vinicius3w"
+  uri              : "http://viniciusgarcia.me"
   codepen          :
   dribbble         :
   flickr           :
@@ -93,7 +92,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "vinicius3w"
 
 # Reading Files
 include:
