@@ -16,6 +16,13 @@ Av. Jornalista Anibal Fernandes s/n – Cidade Universitária (Campus Recife), 5
 
 Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
+## Talks ##
+
+- CBSoft'21 - [Painel: Ensino de Engenharia de Software em tempos de pandemia](https://youtu.be/lSlqjTrZspw), Sep 30, 2021
+- Canal Thiago Jabur Tech Talk - [Entrevista ao vivo (live) com o Prof. Dr. Vinicius Cardoso Garcia (UFPE)](https://youtu.be/KHirQfC1-tA), Nov 10, 2020
+- Software Productivity Group - [Experiência com ensino remoto de disciplinas de Engenharia de Software](https://youtu.be/S9q_0-gktFM), Aug 19, 2020
+- Debate no Acadetec News - [Regulamentação das profissões de informática](https://youtu.be/Trd3AzlFYuA), Oct 22, 2015
+
 ## Academic Degrees ##
 
 - [IBM Artificial Intelligence Practitioner - Instructor Certificate](https://www.credly.com/badges/01c7fcc5-ddde-4b38-b427-aaee9673c848), Issued by IBM on 26 August 2021.
