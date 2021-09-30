@@ -19,6 +19,7 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 ## Talks ##
 
 - CBSoft'21 - [Painel: Ensino de Engenharia de Software em tempos de pandemia](https://youtu.be/lSlqjTrZspw), Sep 30, 2021
+- Evento Pesquisa de Destaque CIn 2020/2021 (Vinicius Garcia) - [Data Science without Data Scientists](https://youtu.be/cuxS0OxGJ6E), Sep 28, 2021
 - Canal Thiago Jabur Tech Talk - [Entrevista ao vivo (live) com o Prof. Dr. Vinicius Cardoso Garcia (UFPE)](https://youtu.be/KHirQfC1-tA), Nov 10, 2020
 - Software Productivity Group - [Experiência com ensino remoto de disciplinas de Engenharia de Software](https://youtu.be/S9q_0-gktFM), Aug 19, 2020
 - Debate no Acadetec News - [Regulamentação das profissões de informática](https://youtu.be/Trd3AzlFYuA), Oct 22, 2015
