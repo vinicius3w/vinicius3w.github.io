@@ -18,10 +18,14 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ## [2021](#2021)
 
+### Periódicos / Journals
+
+1. DA SILVA, Carlo M. R.; FERNANDES, Bruno; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Piracema.io: a rules-based tree model for phishing prediction**](). In: [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications), TO APPEAR. ISSN 0957-4174.
+
 ### Artigos em Conferências / Conference papers
 
-1. DA SILVA, Carlo M. R.; TEIXEIRA, Lucas; FERNANDES, Bruno; CASTRO, Gerson; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**; DE OLIVEIRA, João Fausto Lorenzato; ARCOVERDE, Henrique Ferraz. [**Uma avaliação de comportamentos homográficos em ataques de phishing direcionados que exploram a suscetibilidade pela fidedignidade e sazonalidade**](). In: [XXI Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2021)](https://sbseg2021.ufpa.br/), 04 a 07 de Outubro de 2021, Belém, Pará, Brasil.
-1. NEVES, Flávio; **GARCIA, Vinicius Cardoso**; BONFIM, Michel Sales. [**Um mecanismo para recomendação de algoritmos de anonimização de dados baseado no perfil dos dados para ambientes IoT**](). XI Workshop de Teses e Dissertações (WTDSoft) - evento permanente associado ao [Congresso Brasileiro de Software: Teoria e Prática (CBSoft)](http://cbsoft2021.joinville.udesc.br/index.php), 27 de Setembro a 1 de Outubro de 2021, Joinvile, Santa Catarina, Brasil.
+1. DA SILVA, Carlo M. R.; TEIXEIRA, Lucas; FERNANDES, Bruno; CASTRO, Gerson; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**; DE OLIVEIRA, João Fausto Lorenzato; ARCOVERDE, Henrique Ferraz. [**Uma avaliação de comportamentos homográficos em ataques de phishing direcionados que exploram a suscetibilidade pela fidedignidade e sazonalidade**](https://doi.org/10.5753/sbseg.2021.17320). In: [XXI Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2021)](https://sbseg2021.ufpa.br/), 04 a 07 de Outubro de 2021, Belém, Pará, Brasil. DOI: 10.5753/sbseg.2021.17320
+1. NEVES, Flávio; **GARCIA, Vinicius Cardoso**; BONFIM, Michel Sales. [**Um mecanismo para recomendação de algoritmos de anonimização de dados baseado no perfil dos dados para ambientes IoT**](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/17286). XI Workshop de Teses e Dissertações (WTDSoft) - evento permanente associado ao [Congresso Brasileiro de Software: Teoria e Prática (CBSoft)](http://cbsoft2021.joinville.udesc.br/index.php), 27 de Setembro a 1 de Outubro de 2021, Joinvile, Santa Catarina, Brasil. p. 10-18.
 
 ## [2020](#2020)
 
