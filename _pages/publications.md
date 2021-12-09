@@ -20,7 +20,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Periódicos / Journals
 
-1. DA SILVA, Carlo M. R.; FERNANDES, Bruno; FEITOSA, Eduardo L.; **GARCIA, Vinicius Cardoso**. [**Piracema.io: a rules-based tree model for phishing prediction**](). In: [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications), TO APPEAR. ISSN 0957-4174.
+1. DA SILVA, Carlo Marcelo Revoredo; FERNANDES, Bruno José Torres; FEITOSA, Eduardo Luzeiro; **GARCIA, Vinicius Cardoso**. [**Piracema.io: A rules-based tree model for phishing prediction**](https://www.sciencedirect.com/science/article/pii/S0957417421015499). In: [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications), Volume 191, 1 April 2022, 116239, ISSN 0957-4174, DOI: <https://doi.org/10.1016/j.eswa.2021.116239>.
 
 ### Artigos em Conferências / Conference papers
 
