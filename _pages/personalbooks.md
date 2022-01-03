@@ -10,13 +10,17 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2021
+### 2022
 
 - "A Rebelião de Lúcifer" (490 páginas), by J.J. Benitez
 - "Churchill: Uma vida - Volume 2" (560 páginas), by Martin Gilbert
 - "República de ladrões (Nobres Vigaristas Livro 3)" (744 páginas), by Scott Lynch
-- "A espada dos reis (Vol. 12 Crônicas Saxônicas)" (406 páginas), by Bernard Cornwell
-- *[lendo]* "Mares de sangue (Nobres Vigaristas Livro 2)" (757 páginas), by Scott Lynch *(01-Jan-21)*
+- "O senhor da guerra (Vol. 13 Crônicas Saxônicas)" (378 páginas), by Bernard Cornwell
+- *[lendo]* "A espada dos reis (Vol. 12 Crônicas Saxônicas)" (406 páginas), by Bernard Cornwell *(01-Jan-22)*
+
+### 2021
+
+- "Mares de sangue (Nobres Vigaristas Livro 2)" (757 páginas), by Scott Lynch *(01-Jan-21 + 364 dias)*
 
 ### 2020
 
