@@ -10,11 +10,23 @@ Since I bought a Kindle, I resumed my reading habit. Amazing what a device can d
 
 In this context, inspired by my friend [Fernando Castor Personal Books](https://sites.google.com/a/cin.ufpe.br/castor/personal/books){:target="_blank"}, I’ll keep registered all my readings from now. Additionally, I recommend this article, in Portuguese: "[6 conselhos para cultivar o hábito da leitura em sua vida](http://www.elhombre.com.br/6-conselhos-para-cultivar-o-habito-da-leitura-em-sua-vida/){:target="_blank"}".
 
-### 2022
+### Backlog
 
 - "A Rebelião de Lúcifer" (490 páginas), by J.J. Benitez
+- "Getúlio (1945-1954): Da volta pela consagração popular ao suicídio" (628 páginas), by Lira Neto
+- "Getúlio (1930-1945): Do governo provisório à ditadura do Estado Novo" (879 páginas), by Lira Neto
+- "Getúlio (1882-1930) - Dos Anos de Formação à Conquista do Poder" (747 páginas), by Lira Neto
 - "Churchill: Uma vida - Volume 2" (560 páginas), by Martin Gilbert
 - "República de ladrões (Nobres Vigaristas Livro 3)" (744 páginas), by Scott Lynch
+- "O coração do mundo: Uma nova história universal a partir da rota da seda: o encontro do oriente com o ocidente" (688 páginas), by Peter Frankopan
+- "O Lobo do Mar: edição comentada (Clássicos Zahar)" (368 páginas), by Jack London
+- "Padre Cícero – Poder fé e Guerra No Sertão" (560 páginas), by 560 Lira Neto
+- "As grandes estratégias" (487 páginas), by John Lewis Gaddis
+- "O Algoritmo Mestre: Como a busca pelo algoritmo de machine learning definitivo recriará nosso mundo" (377 páginas), by Pedro Domingos
+- "Ele que o abismo viu: Epopeia de Gilgámesh" (336 páginas), by Sin-leqi-unninni
+
+### 2022
+
 - *[lendo]* "Pense de novo: O poder de saber o que você não sabe" (304 páginas), by  Adam Grant *(11-Jan-22)*
 - "O senhor da guerra (Vol. 13 Crônicas Saxônicas)" (378 páginas), by Bernard Cornwell *(05-Jan-22 + 2 dias)*
 - "A espada dos reis (Vol. 12 Crônicas Saxônicas)" (406 páginas), by Bernard Cornwell *(01-Jan-22 + 3 dias)*
