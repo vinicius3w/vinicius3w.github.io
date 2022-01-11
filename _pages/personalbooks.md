@@ -31,11 +31,11 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - "O senhor da guerra (Vol. 13 Crônicas Saxônicas)" (378 páginas), by Bernard Cornwell *(05-Jan-22 + 2 dias)*
 - "A espada dos reis (Vol. 12 Crônicas Saxônicas)" (406 páginas), by Bernard Cornwell *(01-Jan-22 + 3 dias)*
 
-### 2021
+### 2021 (1)
 
 - "Mares de sangue (Nobres Vigaristas Livro 2)" (757 páginas), by Scott Lynch *(01-Jan-21 + 364 dias)*
 
-### 2020
+### 2020 (2)
 
 - "A guerra do lobo (Vol. 11 Crônicas Saxônicas)" (378 páginas), by Bernard Cornwell *(24-Dez-20 + 5 dias)*
 - "As Mentiras de Locke Lamora (Nobres Vigaristas Livro 1)" (549 páginas), by Scott Lynch *(01-Jul-20 + 175 dias)*
