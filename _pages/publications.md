@@ -8,6 +8,8 @@ modified: 2019-08-16T12:50:37-03:00
 
 See also the [ASSERT Lab's](http://assertlab.com) site.
 
+- [ORCID](https://orcid.org/0000-0001-6904-7470){:target="\_blank"}
+- [Publons](https://publons.com/researcher/2163751/vinicius-cardoso-garcia/){:target="\_blank"}
 - [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#){:target="\_blank"}
 - [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html){:target="\_blank"}
 - [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="\_blank"}
