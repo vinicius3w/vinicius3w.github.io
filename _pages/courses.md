@@ -8,6 +8,7 @@
 * if264 – Métodos Computacionais (CTG, Eletrônica)
 * if969 – Algoritmos e Estrutura de Dados (CIn, Sistemas de Informação)
 * if977 – Engenharia de Software (CIn, Sistemas de Informação)
+  *  [Playlist 2021.2](https://www.youtube.com/watch?v=7U_mQDx4giY&list=PLeQs_D4pMTf7KBFWlO0bjdH9qx83nexmt)
 * in1163 – Tópicos Avançados em Desenvolvimento de Software de Código Aberto (CIn, Pós-Graduação em Ciência da Computação – M.Sc. & D.Sc.)
 * if992 – Programação 2 (CIn, Sistemas de Informação)
 * if1006 - Tópicos Avançados em Sistemas de Informação 3 [Serviços e Infraestrutura de Nuvem] (CIn, Sistemas de Informação)
