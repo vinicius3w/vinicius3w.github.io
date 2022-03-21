@@ -15,8 +15,13 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="\_blank"}
 - [Microsoft Academic Search](https://academic.microsoft.com/profile/j624415h-i181-4136-fg1h-jhjj414hhfef/ViniciusGarcia/){:target="\_blank"}
 - [Plataforma Lattes (in portuguese)](http://bit.ly/vcg-lattes){:target="\_blank"}
+- [ReasearchGate](https://www.researchgate.net/profile/Vinicius-Garcia)
+- [CSAuthors](https://www.csauthors.net/vinicius-cardoso-garcia/)
+- [CSIndex](https://csindexbr.org/authors.html?p=Vinicius-Garcia)
+- [Qualis Ciência da Computação](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
 - [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="\_blank"}
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
+- [Scopus Sources](https://www.scopus.com/sources.uri)
 
 ## [2021](#2021)
 
