@@ -23,6 +23,12 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
 - [Scopus Sources](https://www.scopus.com/sources.uri)
 
+## [2022](#2022)
+
+### Periódicos / Journals
+
+1. GOMES DE BARROS, JULIO CESAR ; REVOREDO DA SILVA, CARLO MARCELO ; CANDEIA TEIXEIRA, LUCAS ; TORRES FERNANDES, BRUNO JOSÉ ; LORENZATO DE OLIVEIRA, JOAO FAUSTO ; LUZEIRO FEITOSA, EDUARDO ; PINHEIRO DOS SANTOS, WELLINGTON ; FERRAZ ARCOVERDE, HENRIQUE ; **CARDOSO GARCIA, VINICIUS**. [**Piracema: a Phishing snapshot database for building dataset features**](https://doi.org/10.1038/s41598-022-19442-8). [Scientific Reports](https://www.nature.com/srep/), v. 12, p. 15149, 2022.DOI: <https://doi.org/10.1038/s41598-022-19442-8>.
+
 ## [2021](#2021)
 
 ### Periódicos / Journals
