@@ -8,22 +8,21 @@ modified: 2019-08-16T12:50:37-03:00
 
 See also the [ASSERT Lab's](http://assertlab.com) site.
 
-- [Plataforma Acácia - Genealogia Acadêmica do Brasil]()
+- [Plataforma Acácia - Genealogia Acadêmica do Brasil](http://plataforma-acacia.org/profile/vinicius-cardoso-garcia/){:target="\_blank"}
 - [Diretório de Grupos do CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3695471376981126){:target="\_blank"}
 - [Plataforma Lattes (in portuguese)](http://bit.ly/vcg-lattes){:target="\_blank"}
-- [Qualis Ciência da Computação](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/)
+- [Qualis Ciência da Computação](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/){:target="\_blank"}
 - [Formulário de Cadastro de Produção Científica do Grupo ASSERT](http://bit.ly/ProducaoASSERT){:target="\_blank"}
-
 - [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#){:target="\_blank"}
-- [CSAuthors](https://www.csauthors.net/vinicius-cardoso-garcia/)
-- [CSIndex](https://csindexbr.org/authors.html?p=Vinicius-Garcia)
+- [CSAuthors](https://www.csauthors.net/vinicius-cardoso-garcia/){:target="\_blank"}
+- [CSIndex](https://csindexbr.org/authors.html?p=Vinicius-Garcia){:target="\_blank"}
 - [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html){:target="\_blank"}
 - [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="\_blank"}
 - [Microsoft Academic Search](https://academic.microsoft.com/profile/j624415h-i181-4136-fg1h-jhjj414hhfef/ViniciusGarcia/){:target="\_blank"}
 - [ORCID](https://orcid.org/0000-0001-6904-7470){:target="\_blank"}
 - [Publons](https://publons.com/researcher/2163751/vinicius-cardoso-garcia/){:target="\_blank"}
-- [ReasearchGate](https://www.researchgate.net/profile/Vinicius-Garcia)
-- [Scopus Sources](https://www.scopus.com/sources.uri)
+- [ReasearchGate](https://www.researchgate.net/profile/Vinicius-Garcia){:target="\_blank"}
+- [Scopus Sources](https://www.scopus.com/sources.uri){:target="\_blank"}
 
 
 
