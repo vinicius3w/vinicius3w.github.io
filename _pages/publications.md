@@ -32,6 +32,10 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 1. GOMES DE BARROS, JULIO CESAR ; REVOREDO DA SILVA, CARLO MARCELO ; CANDEIA TEIXEIRA, LUCAS ; TORRES FERNANDES, BRUNO JOSÉ ; LORENZATO DE OLIVEIRA, JOAO FAUSTO ; LUZEIRO FEITOSA, EDUARDO ; PINHEIRO DOS SANTOS, WELLINGTON ; FERRAZ ARCOVERDE, HENRIQUE ; **CARDOSO GARCIA, VINICIUS**. [**Piracema: a Phishing snapshot database for building dataset features**](https://doi.org/10.1038/s41598-022-19442-8). [Scientific Reports](https://www.nature.com/srep/), v. 12, p. 15149, 2022.DOI: <https://doi.org/10.1038/s41598-022-19442-8>.
 
+### Artigos em Conferências / Conference papers
+
+1. Nabor Mendonça, Leopoldo Teixeira, Sergio Soares, Vinicius Cardoso Garcia, Uirá Kulesza, César França, Daniel Lucrédio, Elder Cirilo, and Ivan Machado. 2022. [**A Decade of Internationalization of the Brazilian Symposium on Software Engineering: The Good, the Bad, and the Ugly**](https://doi.org/10.1145/3555228.3555252). In Proceedings of the [XXXVI Brazilian Symposium on Software Engineering (SBES '22)](https://cbsoft2022.facom.ufu.br/artigos.php?evento=sbes-pesquisa). Association for Computing Machinery, New York, NY, USA, 1–10. DOI: <https://doi.org/10.1145/3555228.3555252>
+
 ## [2021](#2021)
 
 ### Periódicos / Journals
