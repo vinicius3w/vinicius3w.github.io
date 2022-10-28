@@ -27,7 +27,7 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 
 ### 2022
 
-- *[lendo]* "Pense de novo: O poder de saber o que você não sabe" (304 páginas), by  Adam Grant *(11-Jan-22)*
+- "Pense de novo: O poder de saber o que você não sabe" (304 páginas), by  Adam Grant *(11-Jan-22 + 204 dias)*
 - "O senhor da guerra (Vol. 13 Crônicas Saxônicas)" (378 páginas), by Bernard Cornwell *(05-Jan-22 + 2 dias)*
 - "A espada dos reis (Vol. 12 Crônicas Saxônicas)" (406 páginas), by Bernard Cornwell *(01-Jan-22 + 3 dias)*
 
