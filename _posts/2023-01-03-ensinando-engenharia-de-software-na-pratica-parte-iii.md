@@ -46,6 +46,6 @@ Os engenheiros de software precisam de fortes habilidades de resolução de prob
 
 Mas, para além disso, foram surgindo outras engenharias ao longo dos anos. E é sobre elas que eu acho relevante falar e entender como podemos e devemos levar elas para nossas jornadas de ensino e aprendizagem, como educadores.
 
-E é sobre isso que estou estudando para o design de uma disciplina que pretendo oferta lá no [CIn](https://www.cin.ufpe.br/), em breve. Unindo a Engenharia de Software coisas como Design, Engenharia Digital, Engenharia de Plataforma, Engenharia de Produtos de Software e claro, a sempre bem v inda Arquitetura de Software.
+E é sobre isso que estou estudando para o design de uma disciplina que pretendo oferta lá no [CIn](https://www.cin.ufpe.br/), em breve. Unindo a Engenharia de Software coisas como Design, Engenharia Digital, Engenharia de Plataforma, Engenharia de Produtos de Software e claro, a sempre bem vinda Arquitetura de Software.
 
 Esse papo continua em outros artigos que virão a seguir...
