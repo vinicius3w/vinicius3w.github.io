@@ -34,7 +34,7 @@ Pois bem, o ponto é que as disciplinas de Engenharia de Software, no geral, tê
 
 ## O que é a Engenharia de Software?
 
-Ou que deve ser o foco do que deveríamos ensinar - ou fortalecer as habilidades e capacidades - nas jornadas de ensino e aprendizagem da Engenharia de Software?
+Ou o que deve ser o foco do que deveríamos ensinar - ou fortalecer as habilidades e capacidades - nas jornadas de ensino e aprendizagem da Engenharia de Software?
 
 O projeto, criação e manutenção (ou evolução) de sistemas de software é (ou deveria ser) a ênfase da disciplina da Ciência da Computação conhecida como Engenharia de Software. Ela envolve o uso de métodos, processos, ferramentas, princípios e conceitos de **engenharia** no desenvolvimento de software, a fim de criar software de **alta qualidade, confiável e de fácil manutenção**.
 
