@@ -18,6 +18,9 @@ tags:
   - software testing
   - software quality
   - software engineer
+  - devops
+  - site reliability engineering
+  - sre
 ---
 
 No [artigo anterior](https://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-iii/) eu comecei a discussão acerca da necessidade de evolução da [disciplina de Engenharia de Software sob a minha responsabilidade](https://bit.ly/vcg-es), no [curso de Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática de UFPE](https://www.cin.ufpe.br/).
