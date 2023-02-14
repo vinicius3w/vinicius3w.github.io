@@ -29,7 +29,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Periódicos / Journals
 
-1. Neves, F., Souza, R., Sousa, J., Bonfim, M., & Garcia, V. (2023). Data privacy in the Internet of Things based on anonymization: A review. Journal of Computer Security, Preprint(Preprint), 1–31. <https://doi.org/10.3233/JCS-210089>. To be published
+1. Neves, F., Souza, R., Sousa, J., Bonfim, M., & **Garcia, V.** (2023). **Data privacy in the Internet of Things based on anonymization: A review**. [Journal of Computer Security](https://content.iospress.com/journals/journal-of-computer-security), Preprint(Preprint), 1–31. <https://doi.org/10.3233/JCS-210089>. To be published
 
 ## [2022](#2022)
 
