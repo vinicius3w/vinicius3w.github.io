@@ -26,35 +26,34 @@ tags:
 
 O desenvolvimento de aplicativos móveis tem se tornado cada vez mais importante no mundo dos negócios, e a escolha da ferramenta certa para esse processo pode ser fundamental para o sucesso do projeto. Nesse contexto, o Flutter vem ganhando destaque como uma das principais opções para o desenvolvimento de aplicativos móveis. No entanto, a qualidade do produto final é um fator crucial para o sucesso do aplicativo, e para isso é necessário implementar uma política efetiva de garantia de qualidade. Neste artigo, vamos explorar algumas diretrizes e ferramentas para implementar uma política de garantia de qualidade para o desenvolvimento de aplicativos móveis usando Flutter.
 
-A necessidade de estudar Flutter e como estabelecer políticas e ambientes para garantia de qualidade em ambiente de desenvolvimento om Flutter vem de um peojto em que estou atuando junto a [A3 Data](https://a3data.com.br/).
+A necessidade de estudar Flutter e como estabelecer políticas e ambientes para garantia de qualidade em ambiente de desenvolvimento om Flutter vem de um projeto em que estou atuando junto a [A3 Data](https://a3data.com.br/).
 
 ## O que é o Flutter
 
 O Flutter é um framework (de código aberto) de desenvolvimento de aplicativos móveis criado pelo Google que permite criar aplicativos nativos para iOS, Android e outras plataformas a partir de um único código base, que pode ser compilado nativamente e é multiplataforma. Ele usa a linguagem de programação Dart e oferece uma ampla variedade de recursos e ferramentas para o desenvolvimento de aplicativos, incluindo widgets personalizados, recursos de compilação rápida e hot reload. Além disso, o Flutter é conhecido por fornecer uma experiência de desenvolvimento rápida e intuitiva para os desenvolvedores.
 
-O Flutter pode ser utilizado para desenvolver aplicativos para dispositivos móveis, web, desktop e embarcados. Mais informações sobre o Flutter no site oficial[^1], ou na documentação[^2] e sobre a instalação[^3].
+O Flutter pode ser utilizado para desenvolver aplicativos para dispositivos móveis, web, desktop e embarcados. Mais informações sobre o [Flutter no site oficial](https://flutter.dev/), ou na [documentação](https://docs.flutter.dev/) e sobre a [instalação](https://docs.flutter.dev/get-started/install).
 
 ## Benefícios no uso de Flutter
 
-Alguns dos principais benefícios[^4] e características[^5] de usar o Flutter para o desenvolvimento de aplicativos móveis são:
+Alguns dos principais [benefícios](https://bit.ly/41TzrzR) e [características](https://logap.com.br/blog/flutter/) de usar o Flutter para o desenvolvimento de aplicativos móveis são:
 
-* **Desenvolvimento rápido de aplicativos**: O Flutter oferece uma ampla variedade de widgets personalizados e recursos de compilação rápida, o que torna o desenvolvimento de aplicativos rápido e eficiente. O recurso Hot Reload[^6] permite que os desenvolvedores vejam as alterações de código em tempo real, o que torna o processo de desenvolvimento mais ágil.
+* **Desenvolvimento rápido de aplicativos**: O Flutter oferece uma ampla variedade de widgets personalizados e recursos de compilação rápida, o que torna o desenvolvimento de aplicativos rápido e eficiente. O recurso [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload) permite que os desenvolvedores vejam as alterações de código em tempo real, o que torna o processo de desenvolvimento mais ágil.
 * **Desenvolvimento multiplataforma**: Com o Flutter, é possível criar aplicativos para iOS, Android e outras plataformas a partir de um único código base. Isso reduz o tempo e o esforço necessários para desenvolver e manter aplicativos para várias plataformas.
 * **Interface de usuário atraente**: O Flutter oferece uma ampla variedade de widgets personalizados e uma arquitetura de widget flexível, o que permite criar interfaces de usuário atraentes e animações fluídas.
-* **Alto desempenho**: O Flutter usa o Dart, uma linguagem de programação otimizada para o desenvolvimento de aplicativos móveis, e a arquitetura de widget personalizada do Flutter é projetada para fornecer alto desempenho em dispositivos móveis[^7].
+* **Alto desempenho**: O Flutter usa o Dart, uma linguagem de programação otimizada para o desenvolvimento de aplicativos móveis, e a arquitetura de widget personalizada do Flutter é projetada para fornecer [alto desempenho em dispositivos móveis](https://bit.ly/3H6e32f).
 * **Comunidade ativa**: O Flutter tem uma comunidade de desenvolvedores ativa e em crescimento, o que significa que há muitos recursos, tutoriais e soluções de problemas disponíveis online.
-* **Um único código base**: Você pode escrever e compartilhar código mais rápido, usando uma única base de código para diferentes plataformas[^8].
+* **Um único código base**: Você pode escrever e compartilhar código mais rápido, usando [uma única base de código para diferentes plataformas](https://bit.ly/3LrSYCg).
 
 Com sua ampla gama de recursos e suporte à plataforma multiplataforma, o Flutter é uma ótima opção para desenvolvedores que desejam criar aplicativos móveis eficientes e atraentes.
-
 
 ## Principais desafios, obstáculos ou riscos
 
 Embora o Flutter tenha muitos benefícios, como mencionado anteriormente, também existem desafios e obstáculos que os desenvolvedores podem enfrentar. Aqui estão alguns dos principais desafios:
 
-* **Tecnologia emergente**: O Flutter ainda é uma tecnologia relativamente nova e em constante evolução, o que pode gerar problemas de compatibilidade, bugs ou falta de recursos[^9][^10].
+* **Tecnologia emergente**: O Flutter ainda é uma tecnologia relativamente nova e em constante evolução, o que pode gerar problemas de compatibilidade, bugs ou falta de recursos (mais [aqui](https://www.devmedia.com.br/guia/flutter/40713) e [aqui](https://blog.cubos.academy/flutter-o-guia-completo/)).
 * **Curva de aprendizado**: O Flutter usa a linguagem de programação Dart, que pode ser nova para alguns desenvolvedores. Além disso, a arquitetura de widget personalizada do Flutter pode levar algum tempo para ser dominada, o que pode aumentar a curva de aprendizado para os desenvolvedores.
-* **Disponibilidade de bibliotecas**: Embora o Flutter ofereça muitos recursos e widgets personalizados, algumas bibliotecas específicas de plataforma podem não estar disponíveis para uso no Flutter. Isso pode limitar a funcionalidade de alguns aplicativos e exigir que os desenvolvedores criem suas próprias soluções[^11].
+* **Disponibilidade de bibliotecas**: Embora o Flutter ofereça muitos recursos e widgets personalizados, algumas bibliotecas específicas de plataforma podem não estar disponíveis para uso no Flutter. Isso pode limitar a funcionalidade de alguns aplicativos e exigir que os desenvolvedores criem suas [próprias soluções](https://bit.ly/3HaJxoc).
 * **Compatibilidade de dispositivo**: Embora o Flutter tenha uma ampla compatibilidade com dispositivos móveis, pode haver alguns problemas de compatibilidade com alguns dispositivos mais antigos ou menos comuns. Isso pode exigir ajustes e testes adicionais para garantir a compatibilidade com diferentes dispositivos.
 * **Tamanho do aplicativo**: Como o Flutter usa uma arquitetura personalizada de widget, o tamanho do aplicativo pode ser maior do que os aplicativos nativos. Isso pode ser um problema para usuários com dispositivos mais antigos ou limitados em espaço de armazenamento.
 * **Suporte limitado a alguns recursos específicos de plataforma**: Embora o Flutter ofereça muitos recursos para desenvolver aplicativos multiplataforma, pode haver alguns recursos específicos da plataforma que não estão disponíveis no Flutter ou exigem a integração com bibliotecas nativas.
@@ -87,13 +86,13 @@ Para estabelecer uma política de garantia de qualidade (QA) eficaz para projeto
 
 Existem várias ferramentas de teste automatizado disponíveis que podem ser usadas em projetos de desenvolvimento de aplicativos com Flutter. Algumas das ferramentas mais populares incluem:
 
-* Flutter Driver[^12]: é uma ferramenta de teste automatizado do Flutter que permite a realização de testes de integração em nível de widget, emulando ações de usuário e interações com a interface do usuário.
-* Mockito[^13]: é uma biblioteca de teste de unidade que permite a criação de mocks e testes de comportamento para objetos em um ambiente de teste controlado.
-* Flutter Test[^14]: é um pacote de teste que inclui várias funções e ferramentas para testar aplicativos Flutter, incluindo testes unitários, testes de widget e testes de integração.
-* Codemagic[^15]: é uma plataforma de integração contínua e entrega contínua (CI/CD) projetada especificamente para aplicativos Flutter. Ele permite a automatização do processo de compilação, teste e implantação de aplicativos Flutter em várias plataformas, incluindo iOS e Android.
-* Firebase Test Lab[^16]: é uma plataforma de teste em nuvem do Google que permite a realização de testes em aplicativos Android e iOS. Ele oferece suporte a testes de integração[^17] e testes de interface do usuário, além de testes de dispositivos físicos e emuladores.
-* Appium Flutter Driver[^18]: é uma biblioteca de código aberto que fornece uma integração entre o Appium e o Flutter Driver, permitindo a automação de testes em aplicativos Flutter em várias plataformas, incluindo iOS e Android.
-* FlutLab[^19]: é uma plataforma de desenvolvimento de aplicativos móveis baseada na nuvem que permite criar aplicativos Flutter sem precisar instalar nenhum software adicional, oferecendo recursos de design de interface do usuário, desenvolvimento de código, testes de aplicativos e integração com serviços em nuvem.
+* [Flutter Driver](https://api.flutter.dev/flutter/flutter_driver/flutter_driver-library.html): é uma ferramenta de teste automatizado do Flutter que permite a realização de testes de integração em nível de widget, emulando ações de usuário e interações com a interface do usuário.
+* [Mockito](https://docs.flutter.dev/cookbook/testing/unit/mocking): é uma biblioteca de teste de unidade que permite a criação de mocks e testes de comportamento para objetos em um ambiente de teste controlado.
+* [Flutter Test](https://docs.flutter.dev/testing): é um pacote de teste que inclui várias funções e ferramentas para testar aplicativos Flutter, incluindo testes unitários, testes de widget e testes de integração.
+* [Codemagic](https://codemagic.io/start/): é uma plataforma de integração contínua e entrega contínua (CI/CD) projetada especificamente para aplicativos Flutter. Ele permite a automatização do processo de compilação, teste e implantação de aplicativos Flutter em várias plataformas, incluindo iOS e Android.
+* [Firebase Test Lab](https://firebase.google.com/docs/test-lab): é uma plataforma de teste em nuvem do Google que permite a realização de testes em aplicativos Android e iOS. Ele oferece suporte a [testes de integração](https://firebase.google.com/docs/test-lab/flutter/integration-testing-with-flutter) e testes de interface do usuário, além de testes de dispositivos físicos e emuladores.
+* [Appium Flutter Driver](https://github.com/appium-userland/appium-flutter-driver): é uma biblioteca de código aberto que fornece uma integração entre o Appium e o Flutter Driver, permitindo a automação de testes em aplicativos Flutter em várias plataformas, incluindo iOS e Android.
+* [FlutLab](https://flutlab.io/): é uma plataforma de desenvolvimento de aplicativos móveis baseada na nuvem que permite criar aplicativos Flutter sem precisar instalar nenhum software adicional, oferecendo recursos de design de interface do usuário, desenvolvimento de código, testes de aplicativos e integração com serviços em nuvem.
 
 Algumas fontes adicionais sobre testes automatizados com Flutter:
 
@@ -108,45 +107,3 @@ Considerações Finais
 Implementar uma política efetiva de garantia de qualidade é crucial para garantir a satisfação dos usuários e o sucesso do aplicativo no mercado competitivo de hoje. O Flutter é uma ferramenta poderosa e versátil para o desenvolvimento de aplicativos móveis, mas a qualidade do produto final depende de como é implementada a política de garantia de qualidade. 
 
 As diretrizes e ferramentas discutidas neste artigo podem ajudar a estabelecer uma política de garantia de qualidade efetiva para aplicativos móveis desenvolvidos com Flutter, ajudando a garantir que o produto final atenda às expectativas dos usuários e às necessidades do mercado. Com isso em mente, é importante buscar a ajuda de empresas e profissionais especializados, como a [A3 Data](https://a3data.com.br/), para garantir o sucesso do projeto.
-
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
-
-[^1]: Flutter - Build apps for any screen. [https://flutter.dev/](https://flutter.dev/) Último Acesso em 24/4/2023.
-
-[^2]: Flutter documentation | Flutter. [https://docs.flutter.dev/](https://docs.flutter.dev/) Último Acesso em 24/4/2023.
-
-[^3]: Install | Flutter. [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install) Último Acesso em 24/4/2023.
-
-[^4]: 10 benefícios do Flutter no desenvolvimento de aplicativos móveis. [https://bit.ly/41TzrzR](https://bit.ly/41TzrzR) Último Acesso em 24/4/2023.
-
-[^5]: O que é Flutter: principais características e 6 vantagens. [https://logap.com.br/blog/flutter/](https://logap.com.br/blog/flutter/) Último Acesso em 24/4/2023.
-
-[^6]: Hot reload | Flutter. [https://docs.flutter.dev/development/tools/hot-reload](https://docs.flutter.dev/development/tools/hot-reload) Último Acesso em 24/4/2023.
-
-[^7]: Principais benefícios do Flutter para o desenvolvimento de aplicativos. [https://bit.ly/3H6e32f](https://bit.ly/3H6e32f) Último Acesso em 24/4/2023.
-
-[^8]: Flutter é o futuro do desenvolvimento mobile? - Programadores Deprê.  [https://bit.ly/3LrSYCg](https://bit.ly/3LrSYCg) Último Acesso em 24/4/2023.
-
-[^9]: Guia Completo de Flutter: Aprenda Flutter do Básico ao Avançado. [https://www.devmedia.com.br/guia/flutter/40713](https://www.devmedia.com.br/guia/flutter/40713) Último Acesso em 24/4/2023.
-
-[^10]: Flutter, Confira o Guia completo para o desenvolvimento de aplicativos. [https://blog.cubos.academy/flutter-o-guia-completo/](https://blog.cubos.academy/flutter-o-guia-completo/) Último Acesso em 24/4/2023.
-
-[^11]: Criando um App com Flutter - Medium. [https://bit.ly/3HaJxoc](https://bit.ly/3HaJxoc) Último Acesso em 24/4/2023.
-
-[^12]: flutter_driver library | Flutter. [https://api.flutter.dev/flutter/flutter_driver/flutter_driver-library.html](https://api.flutter.dev/flutter/flutter_driver/flutter_driver-library.html) Último Acesso em 24/4/2023.
-
-[^13]: Mock dependencies using Mockito | Flutter. [https://docs.flutter.dev/cookbook/testing/unit/mocking](https://docs.flutter.dev/cookbook/testing/unit/mocking) Último Acesso em 24/4/2023.
-
-[^14]: Testing Flutter apps | Flutter. [https://docs.flutter.dev/testing](https://docs.flutter.dev/testing) Último Acesso em 24/4/2023.
-
-[^15]: Codemagic. [https://codemagic.io/start/](https://codemagic.io/start/) Último Acesso em 24/4/2023.
-
-[^16]: Firebase Test Lab. [https://firebase.google.com/docs/test-lab](https://firebase.google.com/docs/test-lab) Último Acesso em 24/4/2023.
-
-[^17]: Testes de integração com o Flutter | Firebase Test Lab. [https://firebase.google.com/docs/test-lab/flutter/integration-testing-with-flutter](https://firebase.google.com/docs/test-lab/flutter/integration-testing-with-flutter) Último Acesso em 24/4/2023.
-
-[^18]: Appium Flutter Driver. [https://github.com/appium-userland/appium-flutter-driver](https://github.com/appium-userland/appium-flutter-driver) Último Acesso em 24/4/2023.
-
-[^19]: FlutLab. [https://flutlab.io/](https://flutlab.io/) Último Acesso em 24/4/2023.
