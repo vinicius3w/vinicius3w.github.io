@@ -24,9 +24,6 @@ tags:
   - A3 Data
 ---
 
-<!--  Um ensaio sobre o Flutter -->
-<!-- Prof. Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br)) -->
-
 O desenvolvimento de aplicativos móveis tem se tornado cada vez mais importante no mundo dos negócios, e a escolha da ferramenta certa para esse processo pode ser fundamental para o sucesso do projeto. Nesse contexto, o Flutter vem ganhando destaque como uma das principais opções para o desenvolvimento de aplicativos móveis. No entanto, a qualidade do produto final é um fator crucial para o sucesso do aplicativo, e para isso é necessário implementar uma política efetiva de garantia de qualidade. Neste artigo, vamos explorar algumas diretrizes e ferramentas para implementar uma política de garantia de qualidade para o desenvolvimento de aplicativos móveis usando Flutter.
 
 A necessidade de estudar Flutter e como estabelecer políticas e ambientes para garantia de qualidade em ambiente de desenvolvimento om Flutter vem de um peojto em que estou atuando junto a [A3 Data](https://a3data.com.br/).
