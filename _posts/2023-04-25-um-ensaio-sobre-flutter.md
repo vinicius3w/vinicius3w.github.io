@@ -97,10 +97,10 @@ Existem várias ferramentas de teste automatizado disponíveis que podem ser usa
 Algumas fontes adicionais sobre testes automatizados com Flutter:
 
 * [Testes automatizados com Flutter & Dart](https://bit.ly/441xvHC) - LinkedIn. Último Acesso em 24/4/2023.
-* [Testes unitários — Dart e Flutter](https://bit.ly/3LbJ46u) | by Cristiano Raffi Cunha. Último Acesso em 24/4/2023.
+* [Testes unitários — Dart e Flutter](https://bit.ly/3LbJ46u) by Cristiano Raffi Cunha. Último Acesso em 24/4/2023.
 * [Teste automatizado no Flutter: uma visão geral](https://br.atsit.in/archives/24540) - BR Atsit. Último Acesso em 24/4/2023.
 * [Automação de Testes em Flutter](https://bit.ly/3LsfRp0). Último Acesso em 24/4/2023.
-* Introdução à automação de testes de usuário no Flutter](https://bit.ly/3NavoLn). Último Acesso em 24/4/2023.
+* [Introdução à automação de testes de usuário no Flutter](https://bit.ly/3NavoLn). Último Acesso em 24/4/2023.
 
 Considerações Finais
 
