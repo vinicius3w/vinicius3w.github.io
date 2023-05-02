@@ -1,5 +1,5 @@
 ---
-title:  "Boas práticas de Arquitetura de Software para mitigar o Débito Técnico em projetos de ecommerce com ciclo de vida longo"
+title:  "Boas práticas de Arquitetura de Software para mitigar o Débito Técnico em projetos de software com ciclo de vida longo"
 header:
   teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 header:
