@@ -93,7 +93,7 @@ A implementação de testes automatizados também é uma prática importante par
 
 Além disso, é importante **monitorar constantemente o acúmulo de Débito Técnico** (isso é um assunto para o próximo artigo) e investir em ações para reduzi-lo ao longo do tempo. Isso pode envolver a refatoração de código legado, a implementação de novas funcionalidades usando as boas práticas de Arquitetura de Software, a revisão periódica do código existente, entre outras iniciativas. Dessa forma, é possível manter a qualidade do código e garantir a escalabilidade, a segurança e a performance da plataforma de software ao longo do ciclo de vida do projeto.
 
-Algumas maneias de monitorar o débito técnico incluem análise estática de código, revisão periódica e contínua de código, monitoramento de métricas, além do gerenciamento de backlog.
+Algumas maneiras de monitorar o débito técnico incluem análise estática de código, revisão periódica e contínua de código, monitoramento de métricas, além do gerenciamento de backlog.
 
 Sugestões de leitura:
 
@@ -118,7 +118,7 @@ Algumas sugestões de leitura:
 
 ## Exemplos práticos de boas práticas
 
-Para ilustrar as boas práticas de arquitetura de software em projetos de platafomas de ecommerce com ciclo de vida longo, é possível explorar exemplos práticos de empresas que tiveram sucesso na implementação dessas práticas e as lições aprendidas ao longo do processo.
+Para ilustrar as boas práticas de arquitetura de software em projetos de plataformas de ecommerce com ciclo de vida longo, é possível explorar exemplos práticos de empresas que tiveram sucesso na implementação dessas práticas e as lições aprendidas ao longo do processo.
 
 Uma empresa que se destaca nesse sentido é a [Amazon](http://www.amazon.com), que construiu uma arquitetura altamente escalável, segura e eficiente para sua plataforma de ecommerce. A Amazon utiliza uma arquitetura baseada em microsserviços, que permite a criação de serviços independentes e altamente especializados, tornando a plataforma escalável, resiliente e facilmente mantida. Além disso, a empresa utiliza práticas de integração contínua e entrega contínua (CI/CD), implementando testes automatizados em todas as fases do desenvolvimento, o que contribui para reduzir o risco de Débito Técnico.
 
