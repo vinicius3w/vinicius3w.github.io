@@ -35,7 +35,7 @@ Você já ouviu falar sobre o lado obscuro das metodologias ágeis no desenvolvi
 
 👇📖 Compartilhe suas opiniões e experiências nos comentários e vamos juntos construir um futuro melhor para o desenvolvimento de software! 🙌💻💡
 
-## O manifesto
+---
 
 As metodologias ágeis revolucionaram a forma como abordamos o desenvolvimento de software. Ao enfatizarem a flexibilidade, colaboração e adaptabilidade, o ágil possibilitou que equipes entreguem software mais rápido e de forma mais eficiente do que nunca. No entanto, como em qualquer metodologia, existem armadilhas potenciais que podem levar a resultados desastrosos se não forem gerenciadas adequadamente.
 
