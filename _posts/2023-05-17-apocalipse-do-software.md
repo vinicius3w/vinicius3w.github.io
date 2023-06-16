@@ -25,13 +25,13 @@ tags:
   - success stories
 ---
 
-Você já ouviu falar sobre o lado obscuro das metodologias ágeis no desenvolvimento de software? 
+Você já ouviu falar sobre o lado obscuro das metodologias ágeis no desenvolvimento de software?
 
-💻💥 Neste artigo, compartilho insights valiosos debatidos e evoluídos a convite do prof Silvio Meira sobre como o mal uso das metodologias ágeis pode nos levar ao tão temido "apocalipse do software". 
+💻💥 Neste artigo, compartilho insights valiosos debatidos e evoluídos a convite do prof Silvio Meira sobre como o mal uso das metodologias ágeis pode nos levar ao tão temido "apocalipse do software".
 
-💔😱 Descubra os potenciais riscos, como a falta de documentação, a acumulação de dívida técnica e a falta de planejamento a longo prazo. Mas não se preocupe, não é tudo negativo! Também abordamos estratégias para evitar esses problemas e garantir a sustentabilidade do seu software no longo prazo. 
+💔😱 Descubra os potenciais riscos, como a falta de documentação, a acumulação de dívida técnica e a falta de planejamento a longo prazo. Mas não se preocupe, não é tudo negativo! Também abordamos estratégias para evitar esses problemas e garantir a sustentabilidade do seu software no longo prazo.
 
-🚀💡 Não perca tempo e mergulhe nesse assunto tão relevante para a indústria de desenvolvimento de software. Leia agora o artigo "Como duas décadas de Lean e Agile nos levaram ao APOCALIPSE do Software"! 
+🚀💡 Não perca tempo e mergulhe nesse assunto tão relevante para a indústria de desenvolvimento de software. Leia agora o artigo "Como duas décadas de Lean e Agile nos levaram ao APOCALIPSE do Software"!
 
 👇📖 Compartilhe suas opiniões e experiências nos comentários e vamos juntos construir um futuro melhor para o desenvolvimento de software! 🙌💻💡
 
