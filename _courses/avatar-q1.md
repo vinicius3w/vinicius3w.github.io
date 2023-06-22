@@ -1,5 +1,5 @@
 ---
-title:  "vatar Q1"
+title:  "Avatar Q1"
 header:
   image: 
   teaser: foo-bar-identity-th.jpg
@@ -9,10 +9,6 @@ tags:
   - area II
   - ufpe
 ---
-
-## Semestre Letivo 2010.2 ##
-
-**Local**: Área II, sala 15, terças (15:00-17:00) e quintas (13:00-15:00)
 
 ## Questão: Como você implementaria as metodologias ágeis (Scrum, Kanban, XP e/ou Lean) e as abordagens tradicionais de desenvolvimento de software em um ambiente híbrido?
 
