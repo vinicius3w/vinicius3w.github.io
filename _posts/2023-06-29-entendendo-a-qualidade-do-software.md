@@ -86,6 +86,12 @@ Quer aprender um pouco mais? Separei aqui algumas referências interessantes pra
 9. "[Software Testing and Quality Assurance: Theory and Practice](https://www.wiley.com/en-us/Software+Testing+and+Quality+Assurance%3A+Theory+and+Practice-p-9781118211632)" de Kshirasagar Naik and Priyadarshi Tripathy. Este livro fornece uma cobertura equilibrada de princípios teóricos e aplicações práticas em garantia e teste de qualidade de software.
 10. "[Software Quality: Concepts and Practice](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119134527)" de John W. Horch. Este livro explora o conceito de qualidade de software e fornece conselhos práticos sobre como alcançá-la.
 
+---
+
+Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece uma visão abrangente sobre Qualidade de Software , mas há muitos outros aspectos a serem explorados. Por exemplo, como diferentes estratégias de garantia e continuidade de qualidade de software afetam o desempenho do sistema? Como as diferentes métricas design podem ser aplicadas na prática? Quais são os trade-offs entre diferentes metodologias e técnicas para medição de qualidade? Essas são apenas algumas perguntas que podem servir de ponto de partida para uma discussão rica e envolvente.
+
+---
+
 ## Estudo de Caso: Garantia de Qualidade de Software Contínua em Ação
 
 Para ilustrar os conceitos discutidos neste artigo, vamos considerar um estudo de caso de uma empresa de desenvolvimento de software, "TechSolutions".
