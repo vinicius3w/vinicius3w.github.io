@@ -42,7 +42,7 @@ Um dos conjuntos mais populares de princípios de design é [SOLID](https://bit.
 
 - **Princípio da Substituição de Liskov (Liskov Substitution Principle - LSP)**: Este princípio afirma que se um programa estiver usando uma classe base, ele deve ser capaz de usar qualquer uma de suas subclasses sem que o programa saiba disso. Isso garante que uma subclasse possa substituir sua superclasse sem afetar a correção do programa.
 
-- **Princípio de Segregação de Interfac (Interface Segregation Principle - ISP)**: Este princípio sugere que os clientes não devem ser forçados a depender de interfaces que não usam. Ele promove o uso de várias interfaces específicas em vez de uma interface de uso geral.
+- **Princípio de Segregação de Interface (Interface Segregation Principle - ISP)**: Este princípio sugere que os clientes não devem ser forçados a depender de interfaces que não usam. Ele promove o uso de várias interfaces específicas em vez de uma interface de uso geral.
 
 - **Princípio de Inversão de Dependência (Dependency Inversion Principle - DIP)**: Este princípio afirma que módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Isso incentiva o desacoplamento dos módulos de software, tornando o sistema mais flexível e adaptável a mudanças.
 
@@ -76,7 +76,7 @@ SOA é conhecido por seus benefícios em **ambientes de grande escala**. Promove
 
 No entanto, a implementação de SOA não é isenta de desafios. Requer um design cuidadoso para definir os serviços e suas interações e também requer medidas de segurança robustas, pois os serviços geralmente são acessíveis por meio de uma rede.
 
-### Arqtuitetura Baseada em Microservices (Microservices-Based Architecture - MBA)
+### Arquitetura Baseada em Microservices (Microservices-Based Architecture - MBA)
 
 A arquitetura [Microservices](https://go.aws/42ZFSS8) é um padrão de projeto que estrutura uma aplicação como uma **coleção de serviços fracamente acoplados**. Em uma arquitetura de microsserviços, os serviços são refinados e **os protocolos são leves**. O benefício de decompor uma aplicação em diferentes serviços "menores" é que ele melhora a modularidade e torna a aplicação mais fácil de entender, desenvolver e testar. Essa abordagem arquitetônica também paraleliza o desenvolvimento, permitindo que pequenas equipes autônomas desenvolvam, implantem e dimensionem seus respectivos serviços de forma independente.
 
@@ -87,10 +87,6 @@ Na próxima seção, forneceremos exemplos práticos ilustrando esses conceitos.
 ## Exemplos Práticos
 
 Para entender melhor esses conceitos, vamos considerar alguns exemplos práticos.
-
-### Example of Design Principles
-
-Consider a system for managing a library. In this system, we might have a `Book` class. According to the Single Responsibility Principle (SRP), this class should have only one responsibility. For instance, it could be responsible for keeping track of the book's information (title, author, ISBN, etc.). If we also assigned it the responsibility of managing book loans, we would be violating SRP. Instead, we should have a separate `Loan` class to handle book loans.
 
 ### Exemplo de Princípios de Design
 
@@ -129,4 +125,3 @@ Acrescento dois ótimos links providos por NGINX
 1. [What is Service-Oriented Architecture (SOA)?](https://bit.ly/3rbqG7j), by NGINX
 2. [Introduction to Microservices](https://bit.ly/44nLg3b), by NGINX
 3. [What Are Microservices?](https://bit.ly/434z99r), by NGINX
-
