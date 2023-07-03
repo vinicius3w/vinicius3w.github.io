@@ -59,20 +59,37 @@ Na próxima seção, exploraremos os padrões arquitetônicos modernos e seu pap
 Os padrões arquitetônicos fornecem uma solução reutilizável para problemas comuns que ocorrem na arquitetura de software. Eles representam uma visão de alto nível do sistema e fornecem uma maneira de organizar o código de maneira a promover a reutilização, manutenção e escalabilidade. Aqui estão alguns padrões arquitetônicos modernos:
 
 - **Arquitetura em camadas**: Também conhecida como arquitetura N-tier, esse padrão organiza o sistema em camadas, cada uma fornecendo serviços para a camada acima dela. Uma arquitetura em camadas típica pode incluir uma camada de apresentação, camada de lógica de negócios e camada de acesso a dados. Esse padrão é benéfico porque separa as preocupações, tornando o sistema mais fácil de entender, manter e atualizar.
-
-- **Event-Driven Architecture**: Este padrão é projetado em torno da produção, detecção e reação a eventos. Um evento é uma mudança de estado que aciona a execução de determinadas tarefas. Essa arquitetura é particularmente útil em sistemas de tempo real e sistemas assíncronos nos quais você deseja desacoplar o produtor de eventos do consumidor de eventos.
-
+- **Model-View-Controller (MVC)**: O MVC separa a representação de dados (modelo), interface do usuário (visão) e lógica de interação do usuário (controlador). Esse padrão melhora a modularidade, permitindo o desenvolvimento e a modificação independentes de cada componente. O MVC é amplamente utilizado em aplicativos web e desktop.
 - **Arquitetura Hexagonal**: Também conhecido como Portas e Adaptadores, este padrão permite que uma aplicação seja igualmente conduzida por usuários, programas, testes automatizados ou scripts em lote, e seja desenvolvida e testada isoladamente de seus eventuais dispositivos de tempo de execução e bancos de dados. O objetivo é criar componentes de aplicativos fracamente acoplados que possam ser facilmente conectados ao seu ambiente de software por meio de portas e adaptadores.
+- **Event-Driven Architecture**: Este padrão é projetado em torno da produção, detecção e reação a eventos. Um evento é uma mudança de estado que aciona a execução de determinadas tarefas. Essa arquitetura é particularmente útil em sistemas de tempo real e sistemas assíncronos nos quais você deseja desacoplar o produtor de eventos do consumidor de eventos. Falaremos em detalhes a seguir.
 
 Em resumo, os padrões arquitetônicos fornecem soluções de alto nível para problemas arquitetônicos. Eles fornecem uma maneira de comunicar sobre a estrutura de alto nível de um sistema e compartilhar conhecimento sobre problemas comuns e suas soluções. Por exemplo, o padrão de arquitetura em camadas é um padrão comum que organiza um sistema em camadas, cada uma com uma função e responsabilidade específicas. Essa separação de preocupações torna o sistema mais fácil de entender e manter. Também promove a reutilização, pois as camadas podem ser compartilhadas em diferentes partes de um sistema ou mesmo em diferentes sistemas.
 
 A arquitetura orientada a eventos, por outro lado, é um padrão adequado para sistemas com comportamento assíncrono. Em uma arquitetura orientada a eventos, o fluxo do programa é determinado por eventos como ações do usuário, saídas de sensores ou mensagens de outros programas. Isso pode levar a um sistema mais responsivo e capaz de lidar com altas cargas.
+
+### Arquiteturas Orientadas em Eventos (Event-Driven Architectures)
+
+[Arquiteturas Orientadas em Eventos (Event-Driven Architectures)](https://www.redhat.com/pt-br/topics/integration/what-is-event-driven-architecture) são um paradigma arquitetural que se concentra no fluxo de eventos como o principal mecanismo de comunicação e coordenação entre componentes de um sistema de software. Nesse modelo, os eventos são as principais entidades de troca de informações e desencadeiam ações nos componentes interessados. Vamos explorar os principais aspectos das Arquiteturas Orientadas em Eventos:
+
+- **Eventos**: Eventos representam mudanças de estado ou ocorrências significativas dentro de um sistema. Essas mudanças podem ser desencadeadas por ações de usuários, integrações com sistemas externos, atualizações de dados, entre outros. Os eventos carregam informações relevantes que são consumidas pelos componentes interessados.
+- **Produtores e Consumidores**: Na arquitetura orientada em eventos, os produtores são responsáveis por gerar e publicar eventos quando ocorrem eventos significativos. Por outro lado, os consumidores são os componentes interessados em receber e reagir aos eventos. Os consumidores podem se inscrever para receber eventos específicos e processá-los de acordo com a lógica de negócios.
+- **Filas de Eventos e Padrões de Mensageria**: Para garantir a entrega e a escalabilidade na troca de eventos, é comum utilizar filas de eventos e padrões de mensageria. As filas de eventos armazenam os eventos publicados até que os consumidores estejam prontos para processá-los. Os padrões de mensageria definem as formas de comunicação assíncrona entre produtores e consumidores, permitindo uma comunicação robusta e assíncrona.
+- **Decoupling (Desacoplamento)**: Uma vantagem fundamental das arquiteturas orientadas em eventos é o desacoplamento entre os componentes. Os produtores e consumidores não precisam conhecer uns aos outros diretamente. Em vez disso, eles se comunicam por meio da troca de eventos. Isso permite que os componentes evoluam independentemente, facilitando a manutenção, a escalabilidade e a substituição de componentes.
+- **Escalabilidade e Resiliência**: Arquiteturas orientadas em eventos são altamente escaláveis e resilientes. A comunicação assíncrona por meio de eventos permite que os componentes sejam distribuídos e dimensionados de forma independente. Além disso, caso ocorram falhas em um componente, os eventos perdidos podem ser recuperados ou tratados posteriormente.
+- **Fluxo de Eventos e Modelagem de Domínio**: A adoção de arquiteturas orientadas em eventos facilita a modelagem de domínio, uma vez que os eventos refletem as mudanças de estado importantes no sistema. Através da análise dos eventos e de seus fluxos, é possível entender o comportamento do sistema e modelar as regras de negócio de forma mais precisa.
+
+As Arquiteturas Orientadas em Eventos oferecem uma abordagem flexível e escalável para o design de sistemas de software. Ao adotar esse paradigma, os engenheiros podem construir sistemas que reagem de forma eficiente a eventos e mudanças de estado, promovendo a flexibilidade, a escalabilidade e a manutenção simplificada. As arquiteturas orientadas em eventos são especialmente adequadas para cenários em que a comunicação assíncrona e a coordenação entre componentes são essenciais.
 
 ### Service Oriented Architecture (SOA)
 
 Arquitetura Orientada a Serviços ([Service Oriented Architecture - SOA](https://ibm.co/3prYGM2)) é um [architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) (padrão arquitetural) - não confundir com [design pattern](https://bit.ly/3JHDjgH) (padrão de projeto) - que divide um sistema em pequenas unidades chamadas **serviços**. Cada serviço é uma unidade discreta de funcionalidade que pode ser acessada remotamente e acionada e atualizada independentemente, semelhante a como um objeto de software, na programação orientada a objetos, pode ser criado, operado e destruído independentemente.
 
 SOA é conhecido por seus benefícios em **ambientes de grande escala**. Promove a reutilização, pois os serviços podem ser usados por vários aplicativos. Também melhora a escalabilidade, pois os serviços podem ser dimensionados individualmente com base na demanda. Além disso, como os serviços são fracamente acoplados, fazendo com que as alterações em um serviço não afetam os outros, o que simplifica a manutenção e as atualizações.
+
+Aspectos-chave do SOA incluem:
+
+- **Composição de Serviços**: O SOA permite a composição de serviços para construir sistemas complexos. Os serviços podem ser combinados para criar novas funcionalidades, aproveitando os princípios de baixo acoplamento e separação de preocupações. Isso promove flexibilidade e reutilização.
+- **Descoberta e Registro de Serviços**: Mecanismos de descoberta de serviços, como registros de serviço, permitem que os serviços localizem e se comuniquem dinamicamente entre si. Isso desacopla os serviços de suas localizações físicas, permitindo escalabilidade e tolerância a falhas.
 
 No entanto, a implementação de SOA não é isenta de desafios. Requer um design cuidadoso para definir os serviços e suas interações e também requer medidas de segurança robustas, pois os serviços geralmente são acessíveis por meio de uma rede.
 
@@ -81,6 +98,11 @@ No entanto, a implementação de SOA não é isenta de desafios. Requer um desig
 A arquitetura [Microservices](https://go.aws/42ZFSS8) é um padrão de projeto que estrutura uma aplicação como uma **coleção de serviços fracamente acoplados**. Em uma arquitetura de microsserviços, os serviços são refinados e **os protocolos são leves**. O benefício de decompor uma aplicação em diferentes serviços "menores" é que ele melhora a modularidade e torna a aplicação mais fácil de entender, desenvolver e testar. Essa abordagem arquitetônica também paraleliza o desenvolvimento, permitindo que pequenas equipes autônomas desenvolvam, implantem e dimensionem seus respectivos serviços de forma independente.
 
 Os [microsserviços](https://red.ht/3XF4Wgb) oferecem vários benefícios, incluindo flexibilidade nas opções de tecnologia, implantação independente e escalabilidade. No entanto, eles também introduzem complexidade em termos de coordenação ([orquestração](https://bit.ly/3JFt2Sl), [coreografia](https://bit.ly/3PIt67L)) de serviço, consistência de dados e operações de sistema distribuído.
+
+Aspectos-chave dos microservices incluem:
+
+- **Governança Descentralizada**: Os microservices adotam uma governança descentralizada, permitindo que equipes individuais tenham autonomia sobre seus respectivos serviços. Isso possibilita um desenvolvimento e implantação rápidos dos serviços, promovendo agilidade e inovação.
+- **Escalabilidade e Isolamento de Falhas**: Os microservices podem ser dimensionados individualmente com base na demanda, melhorando a escalabilidade geral do sistema. Além disso, falhas em um microservice não afetam o sistema inteiro, já que eles são isolados, garantindo tolerância a falhas e resiliência do sistema.
 
 Na próxima seção, forneceremos exemplos práticos ilustrando esses conceitos.
 
@@ -100,7 +122,7 @@ Em uma arquitetura de microsserviços, considere uma plataforma de streaming de 
 
 ## Conclusão
 
-O Design e Arquitetura de Software é um campo complexo que requer uma compreensão profunda de vários princípios e padrões. Compreendendo e aplicando princípios de design, padrões de arquitetura, SOA e microsserviços, os engenheiros de software podem criar sistemas com alta capacidade de manutenção, extensão e compreensão. Embora esses conceitos venham com seu próprio conjunto de desafios, os benefícios que eles oferecem em termos de reutilização, escalabilidade e manutenção os tornam parte integrante da [Engenharia de Software moderna](https://bit.ly/engsoft4-0).
+O **Design e a Arquitetura de Software** são essenciais para o desenvolvimento de sistemas de software modernos, garantindo sua robustez, escalabilidade e facilidade de manutenção. Ao aderir aos princípios de design e adotar padrões arquiteturais modernos, como o SOA e microservices, os engenheiros podem criar software que atenda às necessidades em constante evolução de usuários e empresas. À medida que o campo de desenvolvimento de software continua a avançar, compreender esses conceitos e princípios torna-se cada vez mais crucial para construir sistemas de software de alta qualidade e adaptáveis. Embora esses conceitos venham com seu próprio conjunto de desafios, os benefícios que eles oferecem em termos de reutilização, escalabilidade e manutenção os tornam parte integrante da [Engenharia de Software moderna](https://bit.ly/engsoft4-0).
 
 Isso conclui nossa exploração de Design e Arquitetura de Software. Incentivamos você a se aprofundar nesses tópicos e continuar aprendendo sobre o fascinante campo do desenvolvimento de software.
 
