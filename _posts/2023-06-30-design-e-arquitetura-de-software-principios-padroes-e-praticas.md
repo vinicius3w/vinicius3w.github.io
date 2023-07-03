@@ -124,3 +124,9 @@ Aqui estão as quatro primeiras referências relevantes sobre o tema "Arquitetur
 3. [From The Business Motivation Model (BMM) To Service Oriented Architecture (SOA)](https://dx.doi.org/10.5381/jot.2008.7.8.c6) by Birol Berkem. This article provides insight about how to link your business vision, goals, strategies, tactics, and business rules according to BMM, then bridging the resulting business specifications toward components of a Service Oriented Architecture (SOA). [Full Text](http://www.jot.fm/issues/issue_2008_11/column6.pdf)
 4. [The Role of Internet of Services (IoS) on Industry 4.0 Through the Service Oriented Architecture (SOA)](https://dx.doi.org/10.1007/978-3-319-99707-0_3) by Jacqueline Zonichenn Reis, R. F. Gonçalves. This paper discusses the role of the Internet of Services and Service Oriented Architecture in the context of Industry 4.0. [Full Text](https://hal.inria.fr/hal-02177890/file/472851_1_En_3_Chapter.pdf)
 
+Acrescento dois ótimos links providos por NGINX
+
+1. [What is Service-Oriented Architecture (SOA)?](https://bit.ly/3rbqG7j), by NGINX
+2. [Introduction to Microservices](https://bit.ly/44nLg3b), by NGINX
+3. [What Are Microservices?](https://bit.ly/434z99r), by NGINX
+
