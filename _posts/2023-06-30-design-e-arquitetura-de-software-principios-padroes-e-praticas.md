@@ -70,7 +70,7 @@ A arquitetura orientada a eventos, por outro lado, é um padrão adequado para s
 
 ### Service Oriented Architecture (SOA)
 
-Arquitetura Orientada a Serviços ([Service Oriented Architecture - SOA](https://ibm.co/3prYGM2)) é um [design pattern](https://bit.ly/3JHDjgH) (padrão de projeto) que divide um sistema em pequenas unidades chamadas **serviços**. Cada serviço é uma unidade discreta de funcionalidade que pode ser acessada remotamente e acionada e atualizada independentemente, semelhante a como um objeto de software, na programação orientada a objetos, pode ser criado, operado e destruído independentemente.
+Arquitetura Orientada a Serviços ([Service Oriented Architecture - SOA](https://ibm.co/3prYGM2)) é um [architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) (padrão arquitetural) - não confundir com [design pattern](https://bit.ly/3JHDjgH) (padrão de projeto) - que divide um sistema em pequenas unidades chamadas **serviços**. Cada serviço é uma unidade discreta de funcionalidade que pode ser acessada remotamente e acionada e atualizada independentemente, semelhante a como um objeto de software, na programação orientada a objetos, pode ser criado, operado e destruído independentemente.
 
 SOA é conhecido por seus benefícios em **ambientes de grande escala**. Promove a reutilização, pois os serviços podem ser usados por vários aplicativos. Também melhora a escalabilidade, pois os serviços podem ser dimensionados individualmente com base na demanda. Além disso, como os serviços são fracamente acoplados, fazendo com que as alterações em um serviço não afetam os outros, o que simplifica a manutenção e as atualizações.
 
@@ -120,8 +120,12 @@ Aqui estão as quatro primeiras referências relevantes sobre o tema "Arquitetur
 3. [From The Business Motivation Model (BMM) To Service Oriented Architecture (SOA)](https://dx.doi.org/10.5381/jot.2008.7.8.c6) by Birol Berkem. This article provides insight about how to link your business vision, goals, strategies, tactics, and business rules according to BMM, then bridging the resulting business specifications toward components of a Service Oriented Architecture (SOA). [Full Text](http://www.jot.fm/issues/issue_2008_11/column6.pdf)
 4. [The Role of Internet of Services (IoS) on Industry 4.0 Through the Service Oriented Architecture (SOA)](https://dx.doi.org/10.1007/978-3-319-99707-0_3) by Jacqueline Zonichenn Reis, R. F. Gonçalves. This paper discusses the role of the Internet of Services and Service Oriented Architecture in the context of Industry 4.0. [Full Text](https://hal.inria.fr/hal-02177890/file/472851_1_En_3_Chapter.pdf)
 
-Acrescento dois ótimos links providos por NGINX
+Acrescento alguns ótimos links complementares
 
-1. [What is Service-Oriented Architecture (SOA)?](https://bit.ly/3rbqG7j), by NGINX
-2. [Introduction to Microservices](https://bit.ly/44nLg3b), by NGINX
-3. [What Are Microservices?](https://bit.ly/434z99r), by NGINX
+1. [Software Architecture Guide](https://www.martinfowler.com/architecture/) by Martin Fowler.
+2. [5 essential patterns of software architecture](https://www.redhat.com/architect/5-essential-patterns-software-architecture). Software is essential. What are the main architectural patterns used to create the software we all rely on daily? -- December 16, 2020 by Red Hat.
+3. [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns). Architectural patterns increase your productivity: These reusable schemes address common software design challenges. -- March 16, 2022 by Red Hat
+4. [10 Software Architecture Patterns You Must Know About](https://www.simform.com/blog/software-architecture-patterns/). Software architecture patterns hold a lot of importance as they can be used to solve various problems. Choose the type of software architecture patterns in this blog. -- July 4, 2020 by SIMFORM
+5. [What is Service-Oriented Architecture (SOA)?](https://bit.ly/3rbqG7j), by NGINX
+6. [Introduction to Microservices](https://bit.ly/44nLg3b), by NGINX
+7. [What Are Microservices?](https://bit.ly/434z99r), by NGINX
