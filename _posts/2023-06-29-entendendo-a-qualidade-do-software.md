@@ -23,7 +23,7 @@ tags:
 
 ## Disclaimer
 
-Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece uma visão abrangente sobre Qualidade de Software , mas há muitos outros aspectos a serem explorados. Por exemplo, como diferentes estratégias de garantia e continuidade de qualidade de software afetam o desempenho do sistema? Como as diferentes métricas design podem ser aplicadas na prática? Quais são os trade-offs entre diferentes metodologias e técnicas para medição de qualidade? Essas são apenas algumas perguntas que podem servir de ponto de partida para uma discussão rica e envolvente.
+Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece uma visão abrangente sobre Qualidade de Software, mas há muitos outros aspectos a serem explorados. Por exemplo, como diferentes estratégias de garantia e continuidade de qualidade de software afetam o desempenho do sistema? Como as diferentes métricas podem ser aplicadas na prática? Quais são os _trade-offs_ entre diferentes metodologias e técnicas para medição de qualidade? Essas são apenas algumas perguntas que podem servir de ponto de partida para uma discussão rica e envolvente.
 
 ## Introdução
 
