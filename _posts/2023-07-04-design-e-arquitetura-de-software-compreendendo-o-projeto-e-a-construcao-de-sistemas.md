@@ -398,10 +398,10 @@ Em conclusão, este artigo fornece uma visão geral abrangente de design e arqui
 Aqui estão algumas referências para leitura adicional:
 
 ### Design e Arquitetura
-[Arquitetura de Software: Desenvolvimento orientado para arquitetura](https://bit.ly/30CbnoE)
-[Arquitetura de Software | Wikipedia](https://bit.ly/3cT8VwN)
-[The Twelve-Factor App methodology](https://12factor.net/)
-[Duas Recomendações para Manutenção de Software](https://engsoftmoderna.info/artigos/broken-windows.html)
+1. [Arquitetura de Software: Desenvolvimento orientado para arquitetura](https://bit.ly/30CbnoE)
+2. [Arquitetura de Software | Wikipedia](https://bit.ly/3cT8VwN)
+3. [The Twelve-Factor App methodology](https://12factor.net/)
+4. [Duas Recomendações para Manutenção de Software](https://engsoftmoderna.info/artigos/broken-windows.html)
 
 ### Google Search Engine Architecture
 1. [How does Google Search Engine work?](https://krazytech.com/technical-papers/how-does-google-search-engine-work)
