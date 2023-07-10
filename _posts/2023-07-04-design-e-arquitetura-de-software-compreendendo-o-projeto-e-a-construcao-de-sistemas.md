@@ -30,7 +30,7 @@ Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [
 
 No campo da Engenharia de Software, entender os [princípios de design e arquitetura de software](https://viniciusgarcia.me/architecture/design-e-arquitetura-de-software-principios-padroes-e-praticas/) é fundamental. Esses princípios orientam os desenvolvedores na criação de sistemas eficientes, sustentáveis e capazes de atender às necessidades em constante mudança de usuários e empresas. Este artigo fornece uma visão geral abrangente desses princípios, explorando os principais conceitos, como design orientado a componentes, design responsivo, práticas de refatoração e evolução da arquitetura de software.
 
-O [design e a arquitetura de software](https://engsoftmoderna.info/cap7.html) servem como modelo para o desenvolvimento de software. Eles fornecem uma visão de alto nível do sistema, descrevendo a estrutura, o comportamento e as interações dos componentes de software. Este projeto orienta os engenheiros e engenheiras de software em seu trabalho, ajudando-os a criar sistemas robustos, eficientes e adaptáveis.
+O [design e a arquitetura de software](https://engsoftmoderna.info/cap7.html) servem como modelo para o desenvolvimento de software. Eles fornecem uma visão de alto nível do sistema, descrevendo a estrutura, o comportamento e as interações dos componentes de software. Este design orienta os engenheiros e engenheiras de software em seu trabalho, ajudando-os a criar sistemas robustos, eficientes e adaptáveis.
 
 ## Compreendendo o Design de Software
 
