@@ -1,4 +1,24 @@
-# Software Architecture: An Engineering Perspective
+---
+title:  "Software Architecture: An Engineering Perspective"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+header:
+  image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg?raw=true
+  caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
+categories: 
+  - Architecture
+tags:
+  - Front-End Engineering
+  - Web Development
+  - HTML
+  - CSS
+  - JavaScript
+  - Responsive Design
+  - User Interface
+  - User Experience
+  - Frameworks
+  - Content Management Systems
+---
 
 ## Introduction
 
@@ -10,7 +30,7 @@ Software architecture is the backbone of any software system. It provides a blue
 
 A software architect is a key figure in the software development process. They are responsible for making high-level design choices and dictating technical standards, including software coding standards, tools, and platforms. They are expected to have a deep understanding of the business requirements and translate them into a robust, scalable, and efficient system architecture.
 
-### Making Architecture Decicisions
+### Making Architecture Decisions
 
 The process of making architecture decisions involves a deep understanding of the system requirements, a thorough evaluation of the available technologies, and a forward-looking vision of the system's evolution. These decisions have a long-lasting impact on the system's performance, maintainability, and overall success.
 
