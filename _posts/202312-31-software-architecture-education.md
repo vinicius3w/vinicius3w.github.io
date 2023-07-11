@@ -22,7 +22,7 @@ tags:
 
 ## Introduction
 
-Software architecture is the backbone of any software system. It provides a blueprint for designing, building, and maintaining software systems. The importance of software architecture in the software development lifecycle cannot be overstated. It sets the foundation for the functionality, performance, and overall quality of a software system. 
+Software architecture is the backbone of any software system. It provides a blueprint for designing, building, and maintaining software systems. The importance of software architecture in the software development lifecycle cannot be overstated. It sets the foundation for the functionality, performance, and overall quality of a software system.
 
 ## Defining Software Architecture
 
