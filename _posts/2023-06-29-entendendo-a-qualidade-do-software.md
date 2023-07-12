@@ -21,13 +21,12 @@ tags:
   - Software Development
 ---
 
+A qualidade do software é um aspecto fundamental da Engenharia de Software que influencia significativamente o **sucesso de qualquer produto de software**. É um conceito multifacetado que **engloba vários atributos**, incluindo funcionalidade, confiabilidade, usabilidade, eficiência, capacidade de manutenção e portabilidade. A importância da qualidade do software não pode ser exagerada, pois ela afeta diretamente a satisfação do usuário, a competitividade do mercado e o sucesso geral dos negócios.
+
+
 ## Disclaimer
 
 Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece uma visão abrangente sobre Qualidade de Software, mas há muitos outros aspectos a serem explorados. Por exemplo, como diferentes estratégias de garantia e continuidade de qualidade de software afetam o desempenho do sistema? Como as diferentes métricas podem ser aplicadas na prática? Quais são os _trade-offs_ entre diferentes metodologias e técnicas para medição de qualidade? Essas são apenas algumas perguntas que podem servir de ponto de partida para uma discussão rica e envolvente.
-
-## Introdução
-
-A qualidade do software é um aspecto fundamental da Engenharia de Software que influencia significativamente o **sucesso de qualquer produto de software**. É um conceito multifacetado que **engloba vários atributos**, incluindo funcionalidade, confiabilidade, usabilidade, eficiência, capacidade de manutenção e portabilidade. A importância da qualidade do software não pode ser exagerada, pois ela afeta diretamente a satisfação do usuário, a competitividade do mercado e o sucesso geral dos negócios.
 
 ## Entendendo a qualidade do software
 
