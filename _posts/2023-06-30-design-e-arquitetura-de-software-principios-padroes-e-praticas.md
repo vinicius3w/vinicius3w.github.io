@@ -22,13 +22,11 @@ tags:
   - Design Patterns
 ---
 
+O design e a arquitetura de software representam a realização dos anseios e expectativas dos clientes no desenvolvimento de software, moldando a estrutura, o comportamento e os atributos de um sistema. Ele fornece um plano para o desenvolvimento de sistemas que atendem a requisitos, expectativas, restrições e regras de negócios específicas. Envolve a **tomada de decisões estratégicas** que afetam significativamente o desempenho, a capacidade de manutenção, continuidade do negócio e o sucesso geral do sistema. Este artigo visa fornecer uma compreensão abrangente dos princípios de design de software, padrões de arquitetura modernos, Arquitetura Orientada a Serviços (SOA) e microsserviços em uma abordagem didática e minimamente viável para ser o ponto de partida deste entendimento. Ao explorar esses tópicos, espero fornecer uma compreensão abrangente do assunto, minimamente completa, factível, viável e desejável e, em especial, com pequenos exemplos práticos.
+
 ## Disclaimer
 
 Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece uma visão abrangente de Design e Arquitetura de Software, mas há muitos outros aspectos a serem explorados. Por exemplo, como diferentes estilos de arquitetura afetam o desempenho do sistema? Como os princípios de design podem ser aplicados na prática? Quais são os trade-offs entre diferentes estilos arquitetônicos? Essas são apenas algumas perguntas que podem servir de ponto de partida para uma discussão rica e envolvente.
-
-## Introdução
-
-O design e a arquitetura de software representam a realização dos anseios e expectativas dos clientes no desenvolvimento de software, moldando a estrutura, o comportamento e os atributos de um sistema. Ele fornece um plano para o desenvolvimento de sistemas que atendem a requisitos, expectativas, restrições e regras de negócios específicas. Envolve a **tomada de decisões estratégicas** que afetam significativamente o desempenho, a capacidade de manutenção, continuidade do negócio e o sucesso geral do sistema. Este artigo visa fornecer uma compreensão abrangente dos princípios de design de software, padrões de arquitetura modernos, Arquitetura Orientada a Serviços (SOA) e microsserviços em uma abordagem didática e minimamente viável para ser o ponto de partida deste entendimento. Ao explorar esses tópicos, espero fornecer uma compreensão abrangente do assunto, minimamente completa, factível, viável e desejável e, em especial, com pequenos exemplos práticos.
 
 ## Princípios de design e sua importância
 
