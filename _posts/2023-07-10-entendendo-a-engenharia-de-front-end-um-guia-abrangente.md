@@ -20,13 +20,11 @@ tags:
   - Content Management Systems
 ---
 
+A engenharia de front-end é um componente crítico do desenvolvimento web que se concentra na interface do usuário e na experiência do usuário. À medida que o mundo digital continua a evoluir, o papel dos engenheiros de front-end se torna cada vez mais importante na criação de sites e aplicações intuitivas, eficientes e visualmente atraentes. Este artigo fornece um olhar aprofundado sobre o mundo da engenharia de front-end, discutindo seus conceitos centrais, habilidades necessárias e o dia a dia de um engenheiro de front-end.
+
 ## Disclaimer
 
 Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele fornece um guia abrangente sobre a engenharia de front-end, destacando sua importância no desenvolvimento web. Ele explora o papel de um engenheiro de front-end, as tecnologias centrais utilizadas (HTML, CSS, JavaScript, frameworks e sistemas de gerenciamento de conteúdo), as habilidades necessárias (técnicas e interpessoais), e o que constitui um dia típico na vida de um engenheiro de front-end. O artigo também discute a trajetória de carreira e as expectativas salariais na área, e apresenta exemplos práticos e estudos de caso para ilustrar os conceitos discutidos. A conclusão reitera a importância da engenharia de front-end na criação de sites e aplicações funcionais, amigáveis ao usuário e visualmente atraentes.
-
-## Introdução
-
-A engenharia de front-end é um componente crítico do desenvolvimento web que se concentra na interface do usuário e na experiência do usuário. À medida que o mundo digital continua a evoluir, o papel dos engenheiros de front-end se torna cada vez mais importante na criação de sites e aplicações intuitivas, eficientes e visualmente atraentes. Este artigo fornece um olhar aprofundado sobre o mundo da engenharia de front-end, discutindo seus conceitos centrais, habilidades necessárias e o dia a dia de um engenheiro de front-end.
 
 ## O que é Engenharia de Front-End?
 
