@@ -25,7 +25,7 @@ tags:
   - Architectural Reviews
 ---
 
-No contexto do desenvolvimento de software, a qualidade não **pode ser** uma reflexão tardia - ela é uma parte integrante do processo que começa com uma concepção (design, projeto) inicial e continua até o software entrar nos ciclos de manutenção e atualizações (em operação, sendo mais atual). Um dos principais aspectos para garantir a qualidade do software é a Garantia da Qualidade da Arquitetura do Software, que em inglês gosto de referenciar como **Software Architectural Quality Assurance (SAQA)**. Essa disciplina, por assim dizer, se concentra na **avaliação e no aprimoramento da arquitetura do software**, que forma a espinha dorsal de qualquer sistema de software.
+No contexto do desenvolvimento de software, a qualidade **não pode ser** uma reflexão tardia - ela é uma parte integrante do processo que começa com uma concepção (design, projeto) inicial e continua até o software entrar nos ciclos de manutenção e atualizações (em operação, sendo mais atual). Um dos principais aspectos para garantir a qualidade do software é a Garantia da Qualidade da Arquitetura do Software, que em inglês gosto de referenciar como **Software Architectural Quality Assurance (SAQA)**. Essa disciplina, por assim dizer, se concentra na **avaliação e no aprimoramento da arquitetura do software**, que forma a espinha dorsal de qualquer sistema de software.
 
 ## Entendendo a Garantia de Qualidade da Arquitetura do Software
 
