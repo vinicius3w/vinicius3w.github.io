@@ -9,7 +9,6 @@ categories:
   - Architecture
 tags:
   - software engineering
-  - platform engineering
   - Software Design
   - Software Architecture
   - Software Architecture Evolution
