@@ -22,15 +22,13 @@ tags:
   - Maintainability
 ---
 
-## Disclaimer
-
-Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele oferece uma visão abrangente do design e arquitetura de software, destacando sua importância no desenvolvimento de sistemas eficientes e eficazes. Explora ainda conceitos-chave como design orientado a componentes, design responsivo, práticas de refatoração e evolução da arquitetura de software. Além disso, este artigo fornece exemplos práticos simples e didáticos para ilustrar a aplicação desses princípios e conceitos no mundo real. O objetivo é fornecer aos estudantes um ponto de partida para uma compreensão desses tópicos, ajudando-os a entender a jornada de criação sistemas de software que são escaláveis, confiáveis e adaptáveis às mudanças.
-
-## Introdução
-
 No campo da Engenharia de Software, entender os [princípios de design e arquitetura de software](https://viniciusgarcia.me/architecture/design-e-arquitetura-de-software-principios-padroes-e-praticas/) é fundamental. Esses princípios orientam os desenvolvedores na criação de sistemas eficientes, sustentáveis e capazes de atender às necessidades em constante mudança de usuários e empresas. Este artigo fornece uma visão geral abrangente desses princípios, explorando os principais conceitos, como design orientado a componentes, design responsivo, práticas de refatoração e evolução da arquitetura de software.
 
 O [design e a arquitetura de software](https://engsoftmoderna.info/cap7.html) servem como modelo para o desenvolvimento de software. Eles fornecem uma visão de alto nível do sistema, descrevendo a estrutura, o comportamento e as interações dos componentes de software. Este design orienta os engenheiros e engenheiras de software em seu trabalho, ajudando-os a criar sistemas robustos, eficientes e adaptáveis.
+
+## Disclaimer
+
+Este artigo tem por objetivo estimular um debate entre os alunos da disciplina [Engenharia de Software](https://bit.ly/vcg-es) do curso de [Bacharelado em Sistemas de Informação](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática](https://portal.cin.ufpe.br/) da [UFPE](https://www.ufpe.br/). Ele oferece uma visão abrangente do design e arquitetura de software, destacando sua importância no desenvolvimento de sistemas eficientes e eficazes. Explora ainda conceitos-chave como design orientado a componentes, design responsivo, práticas de refatoração e evolução da arquitetura de software. Além disso, este artigo fornece exemplos práticos simples e didáticos para ilustrar a aplicação desses princípios e conceitos no mundo real. O objetivo é fornecer aos estudantes um ponto de partida para uma compreensão desses tópicos, ajudando-os a entender a jornada de criação sistemas de software que são escaláveis, confiáveis e adaptáveis às mudanças.
 
 ## Compreendendo o Design de Software
 
