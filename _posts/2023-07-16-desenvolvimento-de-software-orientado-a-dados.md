@@ -1,5 +1,28 @@
-Desenvolvimento de software orientado a dados: uma visão geral educacional
-
+---
+title: "Desenvolvimento de software orientado a dados: uma visão geral educacional"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+header:
+  image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg?raw=true
+  caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
+categories: 
+  - Architecture
+tags:
+  - software engineering
+  - Software Design
+  - Software Architecture
+  - Software Development
+  - Data-Driven Software Development
+  - Relational Databases
+  - Non-Relational Databases
+  - Object-Relational Mapping (ORM)
+  - Data Access Frameworks
+  - Software Development Methodologies
+  - Data-Driven Decision Making
+  - Software Development Tools
+  - Data-Driven Design
+  - Software Development Process
+---
 
 ## Introduction
 
