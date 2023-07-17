@@ -116,7 +116,7 @@ Frameworks como Hibernate, Java Persistence API (JPA) e Java Data Objects (JDO) 
 2. [Data-Driven Scientific Programming and Intelligent Application - Hindawi](https://www.hindawi.com/journals/sp/si/785759/)
 3. [(PDF) Data-Driven Decisions and Actions in Today's Software Development - ResearchGate](https://www.researchgate.net/publication/325748524_Data-Driven_Decisions_and_Actions_in_Today's_Software_Development)
 4. [Data Science and Analytics: An Overview from Data-Driven Smart Computing, Decision-Making and Applications Perspective - PMC - NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8274472/)
-5. [Towards data-driven software engineering skills assessment - IEEE Xplore](https://ieeexplore.ieee.org/iel7/9736195/9826620/09826628.pdf)
+5. [Towards data-driven software engineering skills assessment](https://www.emerald.com/insight/content/doi/10.1108/IJCS-07-2018-0014/full/html)
 
 ### Livros
 1. [Running Lean: Iterate from Plan A to a Plan That Works by Ash Maurya](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
