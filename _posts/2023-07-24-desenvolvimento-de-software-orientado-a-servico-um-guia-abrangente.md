@@ -140,44 +140,44 @@ Apesar dos inúmeros benefícios do SOSD, ele também apresenta vários desafios
 
 ## Referências
 
-[1]: Erl, T. (2005). Service-Oriented Architecture: Concepts, Technology, and Design. Prentice Hall.
+[1] Erl, T. (2005). [Service-Oriented Architecture: Concepts, Technology, and Design](https://dl.acm.org/doi/book/10.5555/1088876). Prentice Hall.
 
-[2]: Newcomer, Eric (2002). Understanding SOA with *Web services*. Addison-Wesley Professional. ISBN 0-321-18060-3.
+[2] Newcomer, Eric (2002). [Understanding SOA with Web services](https://bit.ly/3O8D9QV). Addison-Wesley Professional. ISBN 0-321-18060-3.
 
-[3]: Krafzig, Dirk; Banke, Karl; Slama, Dirk (2004). Enterprise SOA: Service-Oriented Architecture Best Practices. Prentice Hall PTR. ISBN 0-13-146575-9.
+[3] Krafzig, Dirk; Banke, Karl; Slama, Dirk (2004). [Enterprise SOA: Service-Oriented Architecture Best Practices](https://bit.ly/3q0quYl). Prentice Hall PTR. ISBN 0-13-146575-9.
 
-[4]: Josuttis, Nicolai M. (2007). SOA in Practice: The Art of Distributed System Design. O'Reilly Media. ISBN 0-596-52955-4.
+[4] Josuttis, Nicolai M. (2007). [SOA in Practice: The Art of Distributed System Design](http://www.soa-in-practice.com/). O'Reilly Media. ISBN 0-596-52955-4.
 
-[5]: Rosen, Michael; Lublinsky, Boris; Smith, Kevin T.; Balcer, Marc J. (2008). Applied SOA: Service-Oriented Architecture and Design Strategies. Wiley Publishing. ISBN 0-470-22336-0.
+[5] Rosen, Michael; Lublinsky, Boris; Smith, Kevin T.; Balcer, Marc J. (2008). [Applied SOA: Service-Oriented Architecture and Design Strategies](https://archive.org/details/appliedsoaservic0000unse). Wiley Publishing. ISBN 0-470-22336-0.
 
-[6]: Little, Mark (2009). "Understanding SOA". InfoQ.
+[6] Vadim Samokhin, Daniel Bryant (2018). "[The SOA Journey: from Understanding Business to Agile Architecture](https://www.infoq.com/articles/soa-microservices-journey/)". InfoQ.
 
-[7]: Papazoglou, Mike P.; van den Heuvel, Willem-Jan (2007). "Service-oriented design and development methodology". International Journal of Web Engineering and Technology.
+[7] Papazoglou, Mike P.; van den Heuvel, Willem-Jan (2007). "[Service-oriented design and development methodology](https://dl.acm.org/doi/10.1504/IJWET.2006.010423)". International Journal of Web Engineering and Technology.
 
-[8]: Erl, Thomas (2008). SOA: Principles of Service Design. Prentice Hall PTR. ISBN 0-13-234482-3.
+[8] Erl, Thomas (2008). [SOA: Principles of Service Design](https://books.google.com.br/books/about/SOA_Principles_of_Service_Design.html?id=mkQJvjR2sX0C&redir_esc=y). Prentice Hall PTR. ISBN 0-13-234482-3.
 
-[9]: Huhns, Michael N.; Singh, Munindar P. (2005). "Service-Oriented Computing: Key Concepts and Principles". IEEE Internet Computing.
+[9] Huhns, Michael N.; Singh, Munindar P. (2005). "[Service-Oriented Computing: Key Concepts and Principles](https://ieeexplore.ieee.org/document/1407782)". IEEE Internet Computing.
 
-[10]: Papazoglou, M. P. (2003). Service-oriented computing: Concepts, characteristics and directions. In Proceedings of the 4th international conference on Web information systems engineering (pp. 3-12). IEEE.
+[10] Papazoglou, M. P. (2003). [Service-oriented computing: Concepts, characteristics and directions](https://ieeexplore.ieee.org/document/1254461). In Proceedings of the 4th international conference on Web information systems engineering (pp. 3-12). IEEE.
 
-[11]: Josuttis, N. M. (2007). SOA in practice: The art of distributed system design. O'Reilly Media, Inc.
+[11] Thomas Erl, Benjamin Carlyle, Cesare Pautasso, Raj Balasubramanian (2017). [Soa with Rest: Principles, Patterns & Constraints for Building Enterprise Solutions with Rest](https://www.amazon.com.br/Principles-Constraints-Enterprise-Solutions-paperback/dp/0134767446/ref=sr_1_12?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AI0AWQK6MAM8&keywords=soa&qid=1690293621&s=books&sprefix=soa%2Cstripbooks%2C167&sr=1-12). O'Reilly Media, Inc.
 
-[12]: Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from <https://en.wikipedia.org/wiki/Service-oriented_architecture>
+[12] Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from <https://en.wikipedia.org/wiki/Service-oriented_architecture>
 
-[13]: Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). *Web services*: concepts, architectures and applications. Springer Science & Business Media.
+[13] Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). [Web services: concepts, architectures and applications](https://link.springer.com/book/10.1007/978-3-662-10876-5). Springer Science & Business Media.
 
-[14]: Fielding, R. T. (2000). Architectural styles and the design of network-based software architectures (Doctoral dissertation, University of California, Irvine).
+[14] Fielding, R. T. (2000). [Architectural styles and the design of network-based software architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) (Doctoral dissertation, University of California, Irvine).
 
-[15]: Pautasso, C., Zimmermann, O., & Leymann, F. (2008). Restful *web services* vs. “big” *web services*: making the right architectural decision. In Proceedings of the 17th international conference on World Wide Web (pp. 805-814).
+[15] Pautasso, C., Zimmermann, O., & Leymann, F. (2008). [Restful web services vs. “big” web services: making the right architectural decision](https://dl.acm.org/doi/10.1145/1367497.1367606). In Proceedings of the 17th international conference on World Wide Web (pp. 805-814).
 
-[16]: "Express.js: Fast, unopinionated, minimalist web framework for Node.js" [GitHub](https://github.com/expressjs/express)
+[16] "Express.js: Fast, unopinionated, minimalist web framework for Node.js" [GitHub](https://github.com/expressjs/express)
 
-[17]: "Django: The web framework for perfectionists with deadlines" [GitHub](https://github.com/django/django)
+[17] "Django: The web framework for perfectionists with deadlines" [GitHub](https://github.com/django/django)
 
-[18]: "Ruby on Rails: Web application development framework" [GitHub](https://github.com/rails/rails)
+[18] "Ruby on Rails: Web application development framework" [GitHub](https://github.com/rails/rails)
 
-[19]: "Laravel: A PHP framework for web artisans" [GitHub](https://github.com/laravel/laravel)
+[19] "Laravel: A PHP framework for web artisans" [GitHub](https://github.com/laravel/laravel)
 
-[20]: "Spring Framework: An application framework and inversion of control container for the Java platform" [GitHub](https://github.com/spring-projects/spring-framework)
+[20] "Spring Framework: An application framework and inversion of control container for the Java platform" [GitHub](https://github.com/spring-projects/spring-framework)
 
-[21]: The Benefits of Using Service-Oriented Architecture (SOA). [Swisslog](https://bit.ly/3Y8I7BZ).
+[21] The Benefits of Using Service-Oriented Architecture (SOA). [Swisslog](https://bit.ly/3Y8I7BZ).
