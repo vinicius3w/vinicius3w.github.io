@@ -12,8 +12,8 @@ tags:
   - platform engineering
   - Service Oriented Software Development (SOSD)
   - Service-oriented architecture (SOA)
-  - Web services
-  - RESTful APIs
+  - *Web services*
+  - ***APIs RESTful***s
   - Loose coupling
   - Reusability
   - Interoperability
@@ -32,11 +32,11 @@ tags:
   - Governance
 ---
 
-O Desenvolvimento de Software Orientado a Serviços ([*Service-Oriented Software Development*](https://en.wikipedia.org/wiki/Service-oriented_software_engineering), SOSD) é um paradigma de design que estrutura um aplicativo como uma coleção de serviços fracamente acoplados. Essa abordagem ganhou atenção significativa nos últimos anos devido à sua capacidade de oferecer suporte ao desenvolvimento de sistemas de software flexíveis, escaláveis e reutilizáveis[1].
+O Desenvolvimento de Software Orientado a Serviços ([*Service-Oriented Software Development*](https://en.wikipedia.org/wiki/Service-oriented_software_engineering), SOSD) é um paradigma de design que estrutura um aplicativo como uma coleção de serviços fracamente acoplados. Essa abordagem ganhou atenção significativa nos últimos anos devido à sua capacidade de oferecer suporte ao desenvolvimento de sistemas de software flexíveis, escaláveis e reutilizáveis [1].
 
 ## Introdução
 
-A arquitetura orientada a serviços (*[Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)*, SOA) é um [estilo de design de software](https://viniciusgarcia.me/architecture/estilos-arquiteturais/) em que os serviços são fornecidos aos outros serviços ou sistemas por componentes de aplicações, por meio de um protocolo de comunicação em uma rede [1]. Os princípios básicos da arquitetura orientada a serviços são independentes de fornecedores, produtos e tecnologias [2]. Um serviço é uma unidade discreta de funcionalidade que pode ser acessada remotamente e acionada e atualizada independentemente, como recuperar uma fatura de cartão de crédito online [3].
+A arquitetura orientada a serviços (*[Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)*, SOA) é um [estilo de design de software](https://viniciusgarcia.me/architecture/estilos-arquiteturais/) em que os serviços são fornecidos aos outros serviços ou sistemas por componentes de aplicações, por meio de um [protocolo de comunicação](https://celsokitamura.com.br/o-que-e-protocolo-de-comunicacao/) em uma rede [1]. Os princípios básicos da arquitetura orientada a serviços são independentes de fornecedores, produtos e tecnologias [2]. Um serviço é uma unidade discreta de funcionalidade que pode ser acessada remotamente e acionada e atualizada independentemente, como recuperar uma fatura de cartão de crédito online [3].
 
 SOA é a estrutura subjacente que suporta as comunicações entre serviços, definindo como duas entidades de computação, como programas, interagem de forma a permitir que uma entidade execute uma unidade de trabalho em nome de outra entidade [4]. A interface de serviço é definida de forma neutra e independente da plataforma de hardware, do sistema operacional e da linguagem de programação implementada [5]. Isso torna a comunicação mútua entre os serviços independentes de plataforma, o que significa que eles podem ser executados em qualquer sistema adequado disponível [6].
 
@@ -44,7 +44,7 @@ SOA é a estrutura subjacente que suporta as comunicações entre serviços, def
 
 ## Princípios do Desenvolvimento de Software Orientado a Serviços
 
-Conforme já foi dito antes, o SOSD é uma abordagem de design em que os serviços são fornecidos a outros componentes por meio de protocolos de software e middleware de comunicação. Esses serviços são peças discretas de funcionalidade que podem ser usadas para construir sistemas maiores e mais complexos. Essa abordagem é baseada em vários princípios-chave [2] que orientam o projeto e a implementação de sistemas orientados a serviços [12].
+Conforme já foi dito antes, o **SOSD** é uma abordagem de design em que os serviços são fornecidos a outros componentes por meio de protocolos de software e middleware de comunicação. Esses serviços são peças discretas de funcionalidade que podem ser usadas para construir sistemas maiores e mais complexos. Essa abordagem é baseada em vários princípios-chave [2] que orientam o projeto e a implementação de sistemas orientados a serviços [12].
 
 1. **Contrato de Serviço Padronizado**: Os serviços aderem a um contrato de comunicação conforme definido coletivamente por um ou mais documentos de descrição do serviço. Por exemplo, um serviço meteorológico pode fornecer dados de temperatura, umidade e velocidade do vento. O contrato desse serviço definiria o formato dos dados e como solicitá-los.
 
@@ -62,43 +62,43 @@ Conforme já foi dito antes, o SOSD é uma abordagem de design em que os serviç
 
 8. **Combinação de serviço**: Os serviços são participantes efetivos da composição, independentemente do tamanho e da complexidade da composição. Por exemplo, um sistema complexo pode ser construído a partir de muitos serviços menores e mais simples.
 
-Os princípios do SOSD fornecem uma estrutura para projetar e implementar sistemas flexíveis, sustentáveis e escaláveis. Os benefícios dessa abordagem podem levar a um desenvolvimento de software mais eficiente e eficaz, que trataremos mais à frente.
+Os princípios do **SOSD** fornecem uma estrutura para projetar e implementar sistemas flexíveis, sustentáveis e escaláveis. Os benefícios dessa abordagem podem levar a um desenvolvimento de software mais eficiente e eficaz, que trataremos mais à frente.
 
-## Web Services and RESTful API
+## *Web services* e *APIs RESTful*
 
-Web services e APIs RESTful são dois componentes principais do Desenvolvimento de Software Orientado a Serviços. Eles facilitam a comunicação e a troca de dados entre diferentes aplicativos de software em uma rede, como a Internet.
+[*Web services*](https://pt.wikipedia.org/wiki/Web_service) e [*APIs RESTful*](https://aws.amazon.com/pt/what-is/restful-api/) são dois componentes principais do **SOSD**. Eles facilitam a comunicação e a troca de dados entre diferentes aplicativos de software em uma rede, como a Internet.
 
-Os Web services são um componente chave do SOSD. Eles fornecem uma maneira padronizada de integrar aplicativos baseados na Web usando padrões abertos XML, SOAP, WSDL e UDDI em um backbone de protocolo de Internet[13]. Eles são independentes de plataforma e linguagem, o que significa que um Web service escrito em Java pode se comunicar com um cliente escrito em Python, C# ou qualquer outra linguagem de programação. Essa interoperabilidade é uma das principais vantagens do uso de Web services.
+Os *Web services* são um componente chave do SOSD. Eles fornecem uma maneira padronizada de integrar aplicativos baseados na Web usando padrões abertos [XML](https://go.aws/3q04LzN), [SOAP](https://pt.wikipedia.org/wiki/SOAP), [WSDL](https://ibm.co/3Ob2Obw) e [UDDI](https://ibm.co/3Y6O95Q) em um backbone de protocolo de Internet [13]. Eles são independentes de plataforma e linguagem, o que significa que um *Web service* escrito em Java pode se comunicar com um cliente escrito em Python, C# ou qualquer outra linguagem de programação. Essa [**interoperabilidade**](https://pt.wikipedia.org/wiki/Interoperabilidade) é uma das principais vantagens do uso de *Web services*.
 
-Por exemplo, considere um site de reservas de viagens que precisa obter informações de voos de várias companhias aéreas. Em vez de cada companhia aérea fornecer um método exclusivo para acessar seus dados de voo, eles poderiam fornecer um Web service. O site de reservas de viagens precisaria apenas saber como interagir com o Web service, independentemente de como os sistemas da companhia aérea são implementados internamente.
+Por exemplo, considere um site de reservas de viagens que precisa obter informações de voos de várias companhias aéreas. Em vez de cada companhia aérea fornecer um método exclusivo para acessar seus dados de voo, eles poderiam fornecer um *Web service*. O site de reservas de viagens precisaria apenas saber como interagir com o Web service, independentemente de como os sistemas da companhia aérea são implementados internamente.
 
-As APIs RESTful, por outro lado, são um tipo de Web service que adere ao estilo arquitetônico [Representational State Transfer (REST)](https://developer.mozilla.org/pt-BR/docs/Glossary/REST) [14]. Eles usam métodos HTTP padrão como GET, POST, PUT e DELETE para operar em recursos, que são identificados por URLs, tornando-os ideais para uso na Web. As APIs RESTful são sem estado, o que significa que cada solicitação de um cliente para um servidor deve conter todas as informações necessárias para entender e processar a solicitação.
+As *APIs RESTful*, por outro lado, são um tipo de *Web service* que adere ao estilo arquitetônico [Representational State Transfer (REST)](https://developer.mozilla.org/pt-BR/docs/Glossary/REST) [14]. Eles usam [métodos HTTP padrão como `GET`, `POST`, `PUT` e `DELETE`](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods) para operar em recursos, que são identificados por [URLs](https://bit.ly/44C81QM), tornando-os ideais para uso na Web. As *APIs RESTful* são [sem estado](https://red.ht/3OvQkNn), o que significa que cada solicitação de um cliente para um servidor deve conter todas as informações necessárias para entender e processar a solicitação.
 
-Vamos considerar um exemplo prático de uma API RESTful usando um aplicativo de mídia social. Quando um usuário deseja postar uma atualização de status, o aplicativo pode enviar uma solicitação POST para a URL "https://api.socialmedia.com/statuses". O corpo da solicitação conteria a mensagem de status. Para recuperar as atualizações de status mais recentes, o aplicativo pode enviar uma solicitação GET para a mesma URL. O servidor responderia com uma lista de atualizações de status.
+Vamos considerar um exemplo prático de uma *API RESTful* usando um aplicativo de mídia social. Quando um usuário deseja postar uma atualização de status, o aplicativo pode enviar uma solicitação `POST` para a URL "https://api.socialmedia.com/statuses". O corpo da solicitação conteria a mensagem de status. Para recuperar as atualizações de status mais recentes, o aplicativo pode enviar uma solicitação `GET` para a mesma URL. O servidor responderia com uma lista de atualizações de status.
 
-Os Web services e as APIs RESTful são semelhantes, pois ambos permitem a comunicação e a troca de dados entre diferentes aplicativos de software. No entanto, eles diferem em como são implementados e usados. Os Web services usam uma variedade de protocolos e podem ser mais complexos de configurar, mas oferecem mais flexibilidade e funcionalidade. As APIs RESTful, por outro lado, são mais simples e usam protocolos HTTP padrão, tornando-as uma escolha popular para aplicativos baseados na web [15].
+Os *Web services* e as *APIs RESTful* são semelhantes, pois ambos permitem a comunicação e a troca de dados entre diferentes aplicativos de software. No entanto, eles diferem em como são implementados e usados. Os *Web services* usam uma variedade de protocolos e podem ser mais complexos de configurar, mas oferecem mais flexibilidade e funcionalidade. As *APIs RESTful*, por outro lado, são mais simples e usam protocolos HTTP padrão, tornando-as uma escolha popular para aplicativos baseados na web [15].
 
-A escolha entre um Web service e uma API RESTful geralmente depende das necessidades específicas do projeto. Os Web services podem ser uma escolha melhor para aplicativos complexos de nível empresarial que requerem funcionalidade avançada e recursos de segurança. As APIs RESTful podem ser mais adequadas para aplicações Web que precisam de uma maneira simples e sem estado de se comunicar com um servidor.
+A escolha entre um *Web service* e uma *API RESTful* geralmente depende das necessidades específicas do projeto. Os *Web services* podem ser uma escolha melhor para aplicativos complexos de nível empresarial que requerem funcionalidade avançada e recursos de segurança. As *APIs RESTful* podem ser mais adequadas para aplicações Web que precisam de uma maneira simples e sem estado de se comunicar com um servidor.
 
-Em termos de benefícios, tanto os Web services quanto as APIs RESTful oferecem a vantagem da interoperabilidade, permitindo que diferentes sistemas de software se comuniquem e compartilhem dados. Eles também promovem a modularidade e a separação de preocupações, já que as mudanças em um sistema não afetam os outros. Isso pode levar a [arquiteturas de software mais sustentáveis e escaláveis](https://viniciusgarcia.me/architecture/design-e-arquitetura-de-software-principios-padroes-e-praticas/).
+Em termos de benefícios, tanto os *Web services* quanto as *APIs RESTful* oferecem a vantagem da interoperabilidade, permitindo que diferentes sistemas de software se comuniquem e compartilhem dados. Eles também promovem a modularidade e a separação de preocupações, já que as mudanças em um sistema não afetam os outros. Isso pode levar a [arquiteturas de software mais sustentáveis e escaláveis](https://viniciusgarcia.me/architecture/design-e-arquitetura-de-software-principios-padroes-e-praticas/).
 
-## Tools and Frameworks for Service Development
+## Ferramentas e Estruturas para Desenvolvimento de Serviços
 
-O desenvolvimento de software orientado a serviços é facilitado por uma variedade de ferramentas e estruturas. Essas ferramentas e estruturas não apenas simplificam o processo de desenvolvimento, mas também garantem que o software seja robusto, escalável e de fácil manutenção.
+O **SOSD** é facilitado por uma variedade de ferramentas e estruturas. Essas ferramentas e estruturas não apenas simplificam o processo de desenvolvimento, mas também garantem que o software seja robusto, escalável e de fácil manutenção.
 
-1. **Express.js**: [Express.js](https://expressjs.com/pt-br/) é um framework web rápido, sem opinião e minimalista para Node.js. Ele fornece uma interface simples para criar aplicações Web e APIs, com recursos como roteamento, middleware e renderização de exibição. Por exemplo, você pode usar o Express.js para criar uma API RESTful para um aplicativo de blog, com *endoints* para criar, ler, atualizar e excluir postagens de blog. O Express.js é usado por empresas como Accenture, IBM e Uber [16].
+1. **Express.js**: [Express.js](https://expressjs.com/pt-br/) é um framework web rápido, sem opinião e minimalista para [Node.js](https://nodejs.org/). Ele fornece uma interface simples para criar aplicações Web e APIs, com recursos como roteamento, middleware e renderização de exibição. Por exemplo, você pode usar o Express.js para criar uma API RESTful para um aplicativo de blog, com *endoints* para criar, ler, atualizar e excluir postagens de blog. O Express.js é usado por empresas como Accenture, IBM e Uber [16].
 
-2. **Django**: [Django](https://www.djangoproject.com/) é um framework web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático. Ele segue o padrão arquitetônico Model-View-Template e vem com recursos como autenticação e mensagens prontas para uso. Por exemplo, você pode usar o Django para criar uma aplicação web para uma loja online, com recursos como registro de usuário, listagem de produtos e carrinho de compras. Django é usado por empresas como Google, YouTube e Instagram [17].
+2. **Django**: [Django](https://www.djangoproject.com/) é um framework web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático. Ele segue o padrão arquitetônico [*Model-View-Template*](https://bit.ly/3QcaE7v) e vem com recursos como autenticação e mensagens prontas para uso. Por exemplo, você pode usar o Django para criar uma aplicação web para uma loja online, com recursos como registro de usuário, listagem de produtos e carrinho de compras. Django é usado por empresas como Google, YouTube e Instagram [17].
 
-3. **Rails**: Rails, ou [Ruby on Rails](https://rubyonrails.org/), é um Web application framework do lado do servidor escrito em Ruby. Ele segue o padrão de arquitetura Model-View-Controller e enfatiza a convenção sobre a configuração e o princípio Don't Repeat Yourself. Por exemplo, você pode usar o Rails para criar uma aplicação Web para um sistema de gerenciamento de projetos, com recursos como rastreamento de tarefas, colaboração do usuário e relatórios do projeto. Rails é usado por empresas como Airbnb, GitHub, Hulu e Shopify [18].
+3. **Rails**: Rails, ou [Ruby on Rails](https://rubyonrails.org/), é um Web application framework do lado do servidor escrito em [Ruby](https://www.ruby-lang.org/pt/). Ele segue o padrão de arquitetura [*Model-View-Controller*](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) e enfatiza a convenção sobre a configuração e o princípio [*Don't Repeat Yourself*](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (DRY). Por exemplo, você pode usar o Rails para criar uma aplicação Web para um sistema de gerenciamento de projetos, com recursos como rastreamento de tarefas, colaboração do usuário e relatórios do projeto. Rails é usado por empresas como Airbnb, GitHub, Hulu e Shopify [18].
 
 4. **Laravel**: [Laravel](https://laravel.com/) é um Web application framework com sintaxe expressiva e elegante. Ele tenta eliminar a dor do desenvolvimento facilitando tarefas comuns usadas na maioria dos projetos Web, como roteamento, autenticação, sessões e armazenamento em cache. O Laravel é acessível, poderoso e fornece as ferramentas necessárias para aplicativos grandes e robustos [19].
 
-5. **Spring**: [Spring](https://spring.io/) é um framework abrangente para construir aplicações de nível empresarial na plataforma Java. Ele oferece uma ampla gama de funcionalidades, incluindo injeção de dependência, gerenciamento de transações, integração JDBC e serviços da Web RESTful. Por exemplo, você pode usar o Spring para criar uma aplicação Web para um sistema bancário, com recursos como gerenciamento de contas, transferência de fundos e histórico de transações. O Spring é usado por empresas como Wix, TicketMaster e BillGuard [20].
+5. **Spring**: [Spring](https://spring.io/) é um framework abrangente para construir aplicações de nível empresarial na plataforma Java. Ele oferece uma ampla gama de funcionalidades, incluindo injeção de dependência, gerenciamento de transações, integração [JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc) e serviços da Web RESTful. Por exemplo, você pode usar o Spring para criar uma aplicação Web para um sistema bancário, com recursos como gerenciamento de contas, transferência de fundos e histórico de transações. O Spring é usado por empresas como Wix, TicketMaster e BillGuard [20].
 
 A escolha da ferramenta ou framework certo depende de vários fatores, incluindo as necessidades específicas do projeto, a experiência da equipe de desenvolvimento e as considerações de manutenção a longo prazo. Cada uma dessas ferramentas e frameworks tem seus pontos fortes e compensações, e compreendê-los pode ajudá-lo a tomar a melhor decisão.
 
-## Benefits and Challenges
+## Benefícios e Desafios
 
 O SOSD oferece inúmeros benefícios, incluindo maior flexibilidade, escalabilidade e reutilização [11].
 
@@ -111,7 +111,6 @@ O SOSD oferece inúmeros benefícios, incluindo maior flexibilidade, escalabilid
 4. **Custo reduzido de gerenciamento e atualizações de software**: A modularidade de SOA ajuda os gerentes de software a reduzir custos no ciclo de vida do software. Quaisquer atualizações ou modificações podem ser implementadas sem afetar o funcionamento correto de outros serviços, o que significa que o armazém experimenta um tempo de inatividade significativamente reduzido enquanto o software é atualizado, modificado ou reparado [21].
 
 5. **Atualizações do armazém em tempo real**: A adoção de SOA permite que o SynQ atualize o sistema ERP da empresa em tempo real com o status real do armazém. Isso permite que os gerentes forneçam respostas em tempo real às necessidades de negócios e antecipem possíveis problemas críticos, como falta de estoque ou gerenciamento de pedidos de clientes [21].
-
 
 No entanto, também apresenta desafios como versão de serviço, descoberta de serviço e governança de serviço. Esses desafios podem ser mitigados com um planejamento cuidadoso e o uso de ferramentas e metodologias apropriadas [11].
 
@@ -127,49 +126,49 @@ No entanto, também apresenta desafios como versão de serviço, descoberta de s
 
 Esses desafios podem impactar a tomada de decisões, exigindo recursos adicionais ou experiência para lidar. Por exemplo, uma organização pode precisar investir em infraestrutura de rede adicional para resolver problemas de desempenho ou pode precisar contratar ou treinar pessoal para gerenciar e proteger os serviços no SOA.
 
-## Conclusion
+## Fica, vai ter bolo!
 
-Em conclusão, o Desenvolvimento de Software Orientado a Serviços (SOSD) transformou significativamente o cenário de desenvolvimento e implantação de software. Ele introduziu uma mudança de paradigma que se concentra no fornecimento de serviços, que são aplicativos modulares independentes que podem ser descritos, publicados, localizados e invocados em uma rede.
+Em conclusão, o **Desenvolvimento de Software Orientado a Serviços** transformou significativamente o cenário de desenvolvimento e implantação de software. Ele introduziu uma mudança de paradigma que se concentra no fornecimento de serviços, que são aplicativos modulares independentes que podem ser descritos, publicados, localizados e invocados em uma rede.
 
 Os princípios do SOSD, como baixo acoplamento, reutilização e interoperabilidade, demonstraram fornecer inúmeros benefícios, incluindo maior eficiência, flexibilidade e escalabilidade. Exemplos práticos, como a implementação de uma arquitetura orientada a serviços em um sistema de gerenciamento de armazém, ilustram esses princípios e seus benefícios em cenários do mundo real.
 
-Os Web services e as APIs RESTful são componentes-chave do SOSD, fornecendo protocolos padronizados para comunicação e troca de dados entre diferentes serviços. Embora compartilhem semelhanças, suas diferenças na filosofia de design e nos casos de uso os tornam adequados para diferentes cenários. A escolha entre eles geralmente depende dos requisitos específicos do projeto, como a necessidade de ausência de estado, capacidade de cache ou capacidade de lidar com grandes quantidades de dados.
+Os *Web services* e as *APIs RESTful* são componentes-chave do SOSD, fornecendo protocolos padronizados para comunicação e troca de dados entre diferentes serviços. Embora compartilhem semelhanças, suas diferenças na filosofia de design e nos casos de uso os tornam adequados para diferentes cenários. A escolha entre eles geralmente depende dos requisitos específicos do projeto, como a necessidade de ausência de estado, capacidade de cache ou capacidade de lidar com grandes quantidades de dados.
 
-Várias ferramentas e frameworks foram desenvolvidos para facilitar o desenvolvimento de serviços, como Apache Axis2, JAX-WS e Spring Boot para serviços da Web, e Express.js e framework Django REST para APIs RESTful. Essas ferramentas e frameworks simplificam o processo de desenvolvimento, implantação e gerenciamento de serviços, e sua seleção geralmente depende de fatores como linguagem de programação, requisitos de desempenho e complexidade do projeto.
+Várias ferramentas e frameworks foram desenvolvidos para facilitar o desenvolvimento de serviços, como [Apache Axis2](https://axis.apache.org/axis2/java/core/), [JAX-WS](https://www.baeldung.com/jax-ws) e [Spring Boot](https://spring.io/projects/spring-boot) para serviços da Web, e Express.js e framework Django REST para *APIs RESTful*. Essas ferramentas e frameworks simplificam o processo de desenvolvimento, implantação e gerenciamento de serviços, e sua seleção geralmente depende de fatores como linguagem de programação, requisitos de desempenho e complexidade do projeto.
 
 Apesar dos inúmeros benefícios do SOSD, ele também apresenta vários desafios, como complexidade, problemas de desempenho, questões de segurança, governança e integração. Esses desafios exigem consideração e planejamento cuidadosos para serem enfrentados e podem impactar a tomada de decisões ao exigir recursos ou conhecimentos adicionais.
 
-## References
+## Referências
 
 [1]: Erl, T. (2005). Service-Oriented Architecture: Concepts, Technology, and Design. Prentice Hall.
 
-[2] Newcomer, Eric (2002). Understanding SOA with Web Services. Addison-Wesley Professional. ISBN 0-321-18060-3.
+[2]: Newcomer, Eric (2002). Understanding SOA with *Web services*. Addison-Wesley Professional. ISBN 0-321-18060-3.
 
-[3] Krafzig, Dirk; Banke, Karl; Slama, Dirk (2004). Enterprise SOA: Service-Oriented Architecture Best Practices. Prentice Hall PTR. ISBN 0-13-146575-9.
+[3]: Krafzig, Dirk; Banke, Karl; Slama, Dirk (2004). Enterprise SOA: Service-Oriented Architecture Best Practices. Prentice Hall PTR. ISBN 0-13-146575-9.
 
-[4] Josuttis, Nicolai M. (2007). SOA in Practice: The Art of Distributed System Design. O'Reilly Media. ISBN 0-596-52955-4.
+[4]: Josuttis, Nicolai M. (2007). SOA in Practice: The Art of Distributed System Design. O'Reilly Media. ISBN 0-596-52955-4.
 
-[5] Rosen, Michael; Lublinsky, Boris; Smith, Kevin T.; Balcer, Marc J. (2008). Applied SOA: Service-Oriented Architecture and Design Strategies. Wiley Publishing. ISBN 0-470-22336-0.
+[5]: Rosen, Michael; Lublinsky, Boris; Smith, Kevin T.; Balcer, Marc J. (2008). Applied SOA: Service-Oriented Architecture and Design Strategies. Wiley Publishing. ISBN 0-470-22336-0.
 
-[6] Little, Mark (2009). "Understanding SOA". InfoQ.
+[6]: Little, Mark (2009). "Understanding SOA". InfoQ.
 
-[7] Papazoglou, Mike P.; van den Heuvel, Willem-Jan (2007). "Service-oriented design and development methodology". International Journal of Web Engineering and Technology.
+[7]: Papazoglou, Mike P.; van den Heuvel, Willem-Jan (2007). "Service-oriented design and development methodology". International Journal of Web Engineering and Technology.
 
-[8] Erl, Thomas (2008). SOA: Principles of Service Design. Prentice Hall PTR. ISBN 0-13-234482-3.
+[8]: Erl, Thomas (2008). SOA: Principles of Service Design. Prentice Hall PTR. ISBN 0-13-234482-3.
 
-[9] Huhns, Michael N.; Singh, Munindar P. (2005). "Service-Oriented Computing: Key Concepts and Principles". IEEE Internet Computing.
+[9]: Huhns, Michael N.; Singh, Munindar P. (2005). "Service-Oriented Computing: Key Concepts and Principles". IEEE Internet Computing.
 
 [10]: Papazoglou, M. P. (2003). Service-oriented computing: Concepts, characteristics and directions. In Proceedings of the 4th international conference on Web information systems engineering (pp. 3-12). IEEE.
 
 [11]: Josuttis, N. M. (2007). SOA in practice: The art of distributed system design. O'Reilly Media, Inc.
 
-[12] Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from https://en.wikipedia.org/wiki/Service-oriented_architecture
+[12]: Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from https://en.wikipedia.org/wiki/Service-oriented_architecture
 
-[13]: Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). Web services: concepts, architectures and applications. Springer Science & Business Media.
+[13]: Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). *Web services*: concepts, architectures and applications. Springer Science & Business Media.
 
 [14]: Fielding, R. T. (2000). Architectural styles and the design of network-based software architectures (Doctoral dissertation, University of California, Irvine).
 
-[15]: Pautasso, C., Zimmermann, O., & Leymann, F. (2008). Restful web services vs. “big” web services: making the right architectural decision. In Proceedings of the 17th international conference on World Wide Web (pp. 805-814).
+[15]: Pautasso, C., Zimmermann, O., & Leymann, F. (2008). Restful *web services* vs. “big” *web services*: making the right architectural decision. In Proceedings of the 17th international conference on World Wide Web (pp. 805-814).
 
 [16]: "Express.js: Fast, unopinionated, minimalist web framework for Node.js" [GitHub](https://github.com/expressjs/express)
 
