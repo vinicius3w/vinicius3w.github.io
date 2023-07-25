@@ -142,23 +142,43 @@ Apesar dos inúmeros benefícios do SOSD, ele também apresenta vários desafios
 ## References
 
 [^1^]: Erl, T. (2005). Service-Oriented Architecture: Concepts, Technology, and Design. Prentice Hall.
+
 [^2^] Newcomer, Eric (2002). Understanding SOA with Web Services. Addison-Wesley Professional. ISBN 0-321-18060-3.
+
 [^3^] Krafzig, Dirk; Banke, Karl; Slama, Dirk (2004). Enterprise SOA: Service-Oriented Architecture Best Practices. Prentice Hall PTR. ISBN 0-13-146575-9.
+
 [^4^] Josuttis, Nicolai M. (2007). SOA in Practice: The Art of Distributed System Design. O'Reilly Media. ISBN 0-596-52955-4.
+
 [^5^] Rosen, Michael; Lublinsky, Boris; Smith, Kevin T.; Balcer, Marc J. (2008). Applied SOA: Service-Oriented Architecture and Design Strategies. Wiley Publishing. ISBN 0-470-22336-0.
+
 [^6^] Little, Mark (2009). "Understanding SOA". InfoQ.
+
 [^7^] Papazoglou, Mike P.; van den Heuvel, Willem-Jan (2007). "Service-oriented design and development methodology". International Journal of Web Engineering and Technology.
+
 [^8^] Erl, Thomas (2008). SOA: Principles of Service Design. Prentice Hall PTR. ISBN 0-13-234482-3.
+
 [^9^] Huhns, Michael N.; Singh, Munindar P. (2005). "Service-Oriented Computing: Key Concepts and Principles". IEEE Internet Computing.
+
 [^10^]: Papazoglou, M. P. (2003). Service-oriented computing: Concepts, characteristics and directions. In Proceedings of the 4th international conference on Web information systems engineering (pp. 3-12). IEEE.
+
 [^11^]: Josuttis, N. M. (2007). SOA in practice: The art of distributed system design. O'Reilly Media, Inc.
+
 [^12^] Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from https://en.wikipedia.org/wiki/Service-oriented_architecture
+
 [^13^]: Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). Web services: concepts, architectures and applications. Springer Science & Business Media.
+
 [^14^]: Fielding, R. T. (2000). Architectural styles and the design of network-based software architectures (Doctoral dissertation, University of California, Irvine).
+
 [^15^]: Pautasso, C., Zimmermann, O., & Leymann, F. (2008). Restful web services vs. “big” web services: making the right architectural decision. In Proceedings of the 17th international conference on World Wide Web (pp. 805-814).
+
 [^16^]: "Express.js: Fast, unopinionated, minimalist web framework for Node.js" [GitHub](https://github.com/expressjs/express)
+
 [^17^]: "Django: The web framework for perfectionists with deadlines" [GitHub](https://github.com/django/django)
+
 [^18^]: "Ruby on Rails: Web application development framework" [GitHub](https://github.com/rails/rails)
+
 [^19^]: "Laravel: A PHP framework for web artisans" [GitHub](https://github.com/laravel/laravel)
+
 [^20^]: "Spring Framework: An application framework and inversion of control container for the Java platform" [GitHub](https://github.com/spring-projects/spring-framework)
+
 [^21^]: The Benefits of Using Service-Oriented Architecture (SOA). [Swisslog](https://bit.ly/3Y8I7BZ).
