@@ -12,8 +12,8 @@ tags:
   - platform engineering
   - Service Oriented Software Development (SOSD)
   - Service-oriented architecture (SOA)
-  - *Web services*
-  - ***APIs RESTful***s
+  - Web services
+  - APIs RESTfuls
   - Loose coupling
   - Reusability
   - Interoperability
