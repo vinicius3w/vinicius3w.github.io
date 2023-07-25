@@ -74,7 +74,7 @@ Por exemplo, considere um site de reservas de viagens que precisa obter informa�
 
 As *APIs RESTful*, por outro lado, são um tipo de *Web service* que adere ao estilo arquitetônico [Representational State Transfer (REST)](https://developer.mozilla.org/pt-BR/docs/Glossary/REST) [14]. Eles usam [métodos HTTP padrão como `GET`, `POST`, `PUT` e `DELETE`](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods) para operar em recursos, que são identificados por [URLs](https://bit.ly/44C81QM), tornando-os ideais para uso na Web. As *APIs RESTful* são [sem estado](https://red.ht/3OvQkNn), o que significa que cada solicitação de um cliente para um servidor deve conter todas as informações necessárias para entender e processar a solicitação.
 
-Vamos considerar um exemplo prático de uma *API RESTful* usando um aplicativo de mídia social. Quando um usuário deseja postar uma atualização de status, o aplicativo pode enviar uma solicitação `POST` para a URL "https://api.socialmedia.com/statuses". O corpo da solicitação conteria a mensagem de status. Para recuperar as atualizações de status mais recentes, o aplicativo pode enviar uma solicitação `GET` para a mesma URL. O servidor responderia com uma lista de atualizações de status.
+Vamos considerar um exemplo prático de uma *API RESTful* usando um aplicativo de mídia social. Quando um usuário deseja postar uma atualização de status, o aplicativo pode enviar uma solicitação `POST` para a URL "<https://api.socialmedia.com/statuses>". O corpo da solicitação conteria a mensagem de status. Para recuperar as atualizações de status mais recentes, o aplicativo pode enviar uma solicitação `GET` para a mesma URL. O servidor responderia com uma lista de atualizações de status.
 
 Os *Web services* e as *APIs RESTful* são semelhantes, pois ambos permitem a comunicação e a troca de dados entre diferentes aplicativos de software. No entanto, eles diferem em como são implementados e usados. Os *Web services* usam uma variedade de protocolos e podem ser mais complexos de configurar, mas oferecem mais flexibilidade e funcionalidade. As *APIs RESTful*, por outro lado, são mais simples e usam protocolos HTTP padrão, tornando-as uma escolha popular para aplicativos baseados na web [15].
 
@@ -126,7 +126,7 @@ No entanto, também apresenta desafios como versão de serviço, descoberta de s
 
 Esses desafios podem impactar a tomada de decisões, exigindo recursos adicionais ou experiência para lidar. Por exemplo, uma organização pode precisar investir em infraestrutura de rede adicional para resolver problemas de desempenho ou pode precisar contratar ou treinar pessoal para gerenciar e proteger os serviços no SOA.
 
-## Fica, vai ter bolo!
+## Fica, vai ter bolo
 
 Em conclusão, o **Desenvolvimento de Software Orientado a Serviços** transformou significativamente o cenário de desenvolvimento e implantação de software. Ele introduziu uma mudança de paradigma que se concentra no fornecimento de serviços, que são aplicativos modulares independentes que podem ser descritos, publicados, localizados e invocados em uma rede.
 
@@ -162,7 +162,7 @@ Apesar dos inúmeros benefícios do SOSD, ele também apresenta vários desafios
 
 [11]: Josuttis, N. M. (2007). SOA in practice: The art of distributed system design. O'Reilly Media, Inc.
 
-[12]: Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from https://en.wikipedia.org/wiki/Service-oriented_architecture
+[12]: Wikipedia contributors. (2023, July 24). Service-oriented architecture. In Wikipedia, The Free Encyclopedia. Retrieved 00:20, July 25, 2023, from <https://en.wikipedia.org/wiki/Service-oriented_architecture>
 
 [13]: Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2004). *Web services*: concepts, architectures and applications. Springer Science & Business Media.
 
