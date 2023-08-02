@@ -105,7 +105,7 @@ Um caso de uso comum para segurança em APIs RESTful é uma plataforma de comér
 - **Autorização**: O RBAC é aplicado para garantir que um cliente possa apenas modificar seus próprios pedidos e não acessar ou alterar os dados de outros clientes (Ferraiolo et al., 2001).
 - **Confidencialidade**: O TLS criptografa informações sensíveis como números de cartão de crédito (Dierks & Rescorla, 2008).
 
-## Segurança em serviços web e API RESTFul
+## As melhores práticas para segurança em serviços web e API RESTFul
 
 Serviços web e API RESTFul são formas comuns de implementar serviços em SOSD. Serviços web usam SOAP (Simple Object Access Protocol) e WSDL (Web Service Definition Language) para definir e trocar mensagens entre provedores e consumidores de serviços. API RESTFul usam métodos HTTP (GET, POST, PUT, DELETE) e JSON (JavaScript Object Notation) ou XML (Extensible Markup Language) para representar recursos e manipulá-los através de interfaces uniformes ([REST Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)).
 
