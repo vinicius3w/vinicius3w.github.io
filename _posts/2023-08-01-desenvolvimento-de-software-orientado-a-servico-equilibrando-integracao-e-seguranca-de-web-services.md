@@ -32,7 +32,7 @@ O Desenvolvimento de Software Orientado a Serviços (SOSD) é um paradigma de de
 
 ## Introdução
 
-O conceito de serviços da Web tem sido a pedra angular da funcionalidade da Internet por muitos anos. Os serviços da Web são essencialmente sistemas de software projetados para oferecer suporte à interação máquina-a-máquina interoperável em uma rede. Eles possuem uma interface descrita em um formato processável por máquina, especificamente WSDL (Web Services Description Language). Outros sistemas interagem com o serviço da web de uma maneira prescrita por sua descrição usando mensagens SOAP, normalmente transmitidas usando HTTP com uma serialização XML em conjunto com outros padrões relacionados à web [W3C, Web Services Glossary](https://www.w3 .org/TR/ws-gloss/).
+O conceito de serviços da Web tem sido a pedra angular da funcionalidade da Internet por muitos anos. Os serviços da Web são essencialmente sistemas de software projetados para oferecer suporte à interação máquina-a-máquina interoperável em uma rede. Eles possuem uma interface descrita em um formato processável por máquina, especificamente WSDL (Web Services Description Language). Outros sistemas interagem com o serviço da web de uma maneira prescrita por sua descrição usando mensagens SOAP, normalmente transmitidas usando HTTP com uma serialização XML em conjunto com outros padrões relacionados à web [W3C, Web Services Glossary](https://www.w3.org/TR/ws-gloss/).
 
 A importância dos serviços da Web no contexto da arquitetura orientada a serviços não pode ser exagerada. Eles fornecem uma maneira padronizada de integrar aplicativos baseados na Web usando os padrões abertos XML, SOAP, WSDL e UDDI em um backbone de protocolo da Internet. XML é o formato de dados usado para conter os dados e fornecer metadados em torno deles, SOAP é usado para transferir os dados, WSDL é usado para descrever os serviços disponíveis e UDDI lista quais serviços estão disponíveis.
 
@@ -105,9 +105,25 @@ Um caso de uso comum para segurança em APIs RESTful é uma plataforma de comér
 - **Autorização**: O RBAC é aplicado para garantir que um cliente possa apenas modificar seus próprios pedidos e não acessar ou alterar os dados de outros clientes (Ferraiolo et al., 2001).
 - **Confidencialidade**: O TLS criptografa informações sensíveis como números de cartão de crédito (Dierks & Rescorla, 2008).
 
-## **Conclusão**
+## Segurança em serviços web e API RESTFul
 
-A segurança das APIs RESTful é um desafio multidimensional que requer uma compreensão robusta de vários princípios, metodologias, métodos e ferramentas. Por meio de insights acadêmicos e exemplos práticos, esta seção visa oferecer uma visão abrangente do panorama de segurança nas APIs RESTful, informando tanto os profissionais quanto os acadêmicos.
+Serviços web e API RESTFul são formas comuns de implementar serviços em SOSD. Serviços web usam SOAP (Simple Object Access Protocol) e WSDL (Web Service Definition Language) para definir e trocar mensagens entre provedores e consumidores de serviços. API RESTFul usam métodos HTTP (GET, POST, PUT, DELETE) e JSON (JavaScript Object Notation) ou XML (Extensible Markup Language) para representar recursos e manipulá-los através de interfaces uniformes ([REST Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)).
+
+Segurança é uma preocupação crucial para ambos os serviços web e API RESTFul, pois eles expõem dados e funcionalidades sensíveis pela internet. Algumas das melhores práticas para garantir a segurança dos serviços web e API RESTFul são:
+
+- Sempre use HTTPS (Hypertext Transfer Protocol Secure) para criptografar a comunicação entre o serviço e o cliente. HTTPS requer um certificado emitido por uma autoridade confiável, que também verifica a identidade do serviço.
+- Use OAuth2 (Open Authorization 2.0) para login único (SSO) com OpenID Connect. OAuth2 é um protocolo padrão para autorização que permite aos clientes acessar recursos protegidos em nome dos usuários, sem compartilhar suas credenciais. OpenID Connect é uma extensão do OAuth2 que fornece informações de autenticação e identidade para os usuários.
+- Restrinja os métodos HTTP apenas aos que são necessários para a funcionalidade do serviço. Por exemplo, se um serviço só permite ler dados, então só permita requisições GET e rejeite outros métodos como POST, PUT ou DELETE. Isso pode evitar modificações ou exclusões não autorizadas ou maliciosas de dados.
+- Valide os dados de entrada e saída do serviço. A validação de entrada pode prevenir ataques de injeção, como SQL injection ou cross-site scripting (XSS), verificando o formato, comprimento, faixa, etc. dos dados. A validação de saída pode prevenir vazamento de informações, como mensagens de erro ou rastreamento de pilha, higienizando os dados antes de enviá-los ao cliente.
+- Valide os tipos de conteúdo do serviço. Tipos de conteúdo indicam o formato dos dados trocados entre o serviço e o cliente, como JSON ou XML. Validar os tipos de conteúdo pode prevenir ataques de falsificação de conteúdo, onde um atacante envia uma carga maliciosa com um tipo de conteúdo diferente do esperado pelo serviço ou pelo cliente.
+- Use cabeçalhos de segurança para o serviço. Cabeçalhos de segurança são cabeçalhos de resposta HTTP que instruem o navegador do cliente como tratar os dados recebidos do serviço. Alguns exemplos de cabeçalhos de segurança são:
+  - Content-Security-Policy: Especifica quais fontes de conteúdo são permitidas ou proibidas para o serviço.
+  - X-Frame-Options: Previne ataques de clickjacking restringindo como o serviço pode ser incorporado em outras páginas web.
+  - X-XSS-Protection: Habilita o filtro XSS embutido do navegador para detectar e bloquear ataques XSS.
+  - X-Content-Type-Options: Previne ataques de sniffing MIME forçando o navegador a usar o tipo de conteúdo declarado pelo serviço.
+  - Strict-Transport-Security: Impõe conexões HTTPS para o serviço e previne ataques de rebaixamento.
+  - Referrer-Policy: Controla quanto de informação de referência é enviada pelo navegador ao solicitar recursos de outros domínios.
+  - Feature-Policy: Permite ou proíbe certas funcionalidades do navegador para o serviço, como geolocalização, câmera, microfone, etc.
 
 ## Integração de Sistemas
 
@@ -118,6 +134,19 @@ A integração pode ser alcançada em diferentes níveis, incluindo integração
 Um dos principais desafios na integração de sistemas é lidar com a complexidade e compatibilidade dos diferentes componentes do sistema. Cada componente do sistema pode ter suas próprias interfaces, protocolos e padrões, o que pode levar a problemas de compatibilidade e conflitos durante a integração. Por exemplo, integrar um sistema legado com um aplicativo moderno baseado em nuvem pode ser uma tarefa assustadora devido às diferenças nas pilhas de tecnologia e formatos de dados (Hvolby & Trienekens, 2010).
 
 Além disso, o processo de integração pode se tornar ainda mais complexo quando vários sistemas estão envolvidos, cada um com seu próprio conjunto exclusivo de dependências. Essa complexidade pode levar ao aumento do risco de erros e falhas do sistema, o que pode trazer consequências graves para o negócio. Por exemplo, uma falha na integração entre uma plataforma de e-commerce e um gateway de pagamento pode levar a falhas nas transações, impactando a receita da empresa e a confiança do cliente (Bjerke-Gulstuen & Cruzes 2020; Rajabalinejad et al., 2020; LinkedIn Team, 2023 ).
+
+Existem diferentes métodos de integração de sistemas, como:
+
+- **Integração vertical**: O processo de integrar subsistemas de acordo com sua funcionalidade, criando entidades funcionais também chamadas de silos. O benefício deste método é que ele é rápido e barato no curto prazo, mas tem altos custos de manutenção e baixa escalabilidade no longo prazo.
+- **Integração em estrela**: O processo de integrar cada sistema com todos os outros sistemas em uma maneira ponto a ponto. O benefício deste método é que ele é simples e flexível, mas tem alta complexidade e baixa confiabilidade à medida que o número de sistemas aumenta.
+- **Integração horizontal**: O processo de integrar sistemas através de uma interface comum ou middleware, como um barramento de serviço corporativo (ESB) ou uma interface de programação de aplicação (API). O benefício deste método é que ele reduz a complexidade e aumenta a confiabilidade e escalabilidade, mas requer mais planejamento e coordenação. 
+
+Algumas das melhores práticas para integração de sistemas são:
+
+- Defina interfaces e protocolos claros e consistentes para os sistemas se comunicarem. Interfaces e protocolos devem ser baseados em padrões e especificações, como SOAP, REST, JSON, XML, etc. Interfaces e protocolos também devem ser documentados e testados para compatibilidade e desempenho.
+- Use acoplamento fraco e alta coesão para os sistemas. Acoplamento fraco significa que os sistemas têm dependências mínimas entre si e podem funcionar independentemente. Alta coesão significa que os sistemas têm uma funcionalidade e responsabilidade claras e focadas. Acoplamento fraco e alta coesão podem melhorar a modularidade, manutenibilidade e reusabilidade dos sistemas.
+- Use abstração e encapsulamento para os sistemas. Abstração significa que os sistemas escondem seus detalhes internos e complexidade uns dos outros e só expõem suas características essenciais. Encapsulamento significa que os sistemas protegem seus dados e funcionalidades de acesso ou modificação não autorizados ou não intencionais. Abstração e encapsulamento podem melhorar a segurança, confiabilidade e flexibilidade dos sistemas.
+- Use padrões de projeto e frameworks para os sistemas. Padrões de projeto são soluções reutilizáveis para problemas comuns em design de software, como adaptador, fachada, proxy, etc. Frameworks são plataformas de software reutilizáveis que fornecem funcionalidades e estruturas comuns para desenvolver aplicações, como Spring, Django, Laravel, etc. Padrões de projeto e frameworks podem melhorar a qualidade, eficiência e consistência dos sistemas.
 
 Para mitigar esses riscos, é crucial ter uma estratégia de integração bem definida e uma abordagem sistemática para a integração. Isso inclui o uso de técnicas e ferramentas de integração apropriadas, como Enterprise Service Bus (ESB) para integrações complexas e gateways de API para integrações mais simples e diretas (Richardson & Smith, 2016).
 
@@ -148,6 +177,16 @@ O SOSD oferece uma abordagem flexível e escalável para o desenvolvimento de si
 - "[SOA Source Book - What Is SOA?](https://www.opengroup.org/soa/source-book/intro/)" collaboration.opengroup.org. Retrieved March 30, 2021.
 - Michael Bell (2008). "Introduction to Service-Oriented Modeling". [Service-Oriented Modeling: Service Analysis, Design, and Architecture](https://archive.org/details/serviceorientedm00bell). Wiley & Sons. ISBN 978-0-470-14111-3.
 - Duan, Yucong; Narendra, Nanjangud; Du, Wencai; Wang, Yongzhi; Zhou, Nianjun (2014). "[Exploring Cloud Service Brokering from an Interface Perspective](https://doi.org/10.1109/ICWS.2014.55)". 2014 IEEE International Conference on Web Services. IEEE. ISBN 978-1-4799-5054-6.
+- [Service-oriented software engineering](https://en.wikipedia.org/wiki/Service-oriented_Software_Engineering) - Wikipedia.
+- [What is SOA (Service-Oriented Architecture)?](https://www.ibm.com/topics/soa) | IBM.
+- [SOA vs. Microservices: What’s the Difference?](https://www.ibm.com/cloud/blog/soa-vs-microservices) | IBM.
+- [Service-oriented development of applications](https://en.wikipedia.org/wiki/Service-Oriented_Development_of_Applications) - Wikipedia.
+- [Best practices for REST API security ...](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/) - Stack Overflow Blog.
+- [REST Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html).
+- [Securing Web APIs and Best Practices](https://www.developer.com/web-services/securing-web-apis/) | www.Developer.com.
+- [System integration](https://en.wikipedia.org/wiki/System_integration) - Wikipedia.
+- [Definition of System Integration - IT Glossary](https://www.gartner.com/en/information-technology/glossary/system-integration) | Gartner.
+- [System Integration: Types, Methods, and Approaches](https://www.altexsoft.com/blog/system-integration/) | AltexSoft.
 
 ## Referências
 
