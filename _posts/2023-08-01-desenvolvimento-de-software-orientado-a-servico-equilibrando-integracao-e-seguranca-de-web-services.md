@@ -141,13 +141,6 @@ Existem diferentes métodos de integração de sistemas, como:
 - **Integração em estrela**: O processo de integrar cada sistema com todos os outros sistemas em uma maneira ponto a ponto. O benefício deste método é que ele é simples e flexível, mas tem alta complexidade e baixa confiabilidade à medida que o número de sistemas aumenta.
 - **Integração horizontal**: O processo de integrar sistemas através de uma interface comum ou middleware, como um barramento de serviço corporativo (ESB) ou uma interface de programação de aplicação (API). O benefício deste método é que ele reduz a complexidade e aumenta a confiabilidade e escalabilidade, mas requer mais planejamento e coordenação. 
 
-Algumas das melhores práticas para integração de sistemas são:
-
-- Defina interfaces e protocolos claros e consistentes para os sistemas se comunicarem. Interfaces e protocolos devem ser baseados em padrões e especificações, como SOAP, REST, JSON, XML, etc. Interfaces e protocolos também devem ser documentados e testados para compatibilidade e desempenho.
-- Use acoplamento fraco e alta coesão para os sistemas. Acoplamento fraco significa que os sistemas têm dependências mínimas entre si e podem funcionar independentemente. Alta coesão significa que os sistemas têm uma funcionalidade e responsabilidade claras e focadas. Acoplamento fraco e alta coesão podem melhorar a modularidade, manutenibilidade e reusabilidade dos sistemas.
-- Use abstração e encapsulamento para os sistemas. Abstração significa que os sistemas escondem seus detalhes internos e complexidade uns dos outros e só expõem suas características essenciais. Encapsulamento significa que os sistemas protegem seus dados e funcionalidades de acesso ou modificação não autorizados ou não intencionais. Abstração e encapsulamento podem melhorar a segurança, confiabilidade e flexibilidade dos sistemas.
-- Use padrões de projeto e frameworks para os sistemas. Padrões de projeto são soluções reutilizáveis para problemas comuns em design de software, como adaptador, fachada, proxy, etc. Frameworks são plataformas de software reutilizáveis que fornecem funcionalidades e estruturas comuns para desenvolver aplicações, como Spring, Django, Laravel, etc. Padrões de projeto e frameworks podem melhorar a qualidade, eficiência e consistência dos sistemas.
-
 Para mitigar esses riscos, é crucial ter uma estratégia de integração bem definida e uma abordagem sistemática para a integração. Isso inclui o uso de técnicas e ferramentas de integração apropriadas, como Enterprise Service Bus (ESB) para integrações complexas e gateways de API para integrações mais simples e diretas (Richardson & Smith, 2016).
 
 Outro desafio na integração de sistemas é gerenciar o escopo e o cronograma do projeto. Como a integração de sistemas geralmente ocorre no final do ciclo de vida de desenvolvimento de software, ela pode ser afetada por alterações e atrasos nas fases anteriores. Essas mudanças podem aumentar o escopo e a complexidade das tarefas de integração, levando ao aumento de custos e atrasos (Hvolby & Trienekens, 2010).
@@ -157,6 +150,13 @@ Para gerenciar isso, é importante ter um plano de projeto claro e realista, com
 Por fim, garantir a documentação e a rastreabilidade adequadas é outro desafio na integração de sistemas. A documentação é essencial para verificar os requisitos e o projeto do sistema e para facilitar futuras manutenções e modificações. No entanto, manter a documentação atualizada e precisa pode ser uma tarefa demorada (Hvolby & Trienekens, 2010).
 
 Para resolver isso, é aconselhável usar formatos e ferramentas de documentação padrão e manter uma matriz de rastreabilidade que vincule os requisitos do sistema, design, implementação e artefatos de teste. Isso pode ajudar a garantir que todos os componentes do sistema sejam contabilizados e que quaisquer alterações sejam devidamente rastreadas (LinkedIn Team, 2023).
+
+Algumas das melhores práticas para integração de sistemas são:
+
+- Defina interfaces e protocolos claros e consistentes para os sistemas se comunicarem. Interfaces e protocolos devem ser baseados em padrões e especificações, como SOAP, REST, JSON, XML, etc. Interfaces e protocolos também devem ser documentados e testados para compatibilidade e desempenho.
+- Use acoplamento fraco e alta coesão para os sistemas. Acoplamento fraco significa que os sistemas têm dependências mínimas entre si e podem funcionar independentemente. Alta coesão significa que os sistemas têm uma funcionalidade e responsabilidade claras e focadas. Acoplamento fraco e alta coesão podem melhorar a modularidade, manutenibilidade e reusabilidade dos sistemas.
+- Use abstração e encapsulamento para os sistemas. Abstração significa que os sistemas escondem seus detalhes internos e complexidade uns dos outros e só expõem suas características essenciais. Encapsulamento significa que os sistemas protegem seus dados e funcionalidades de acesso ou modificação não autorizados ou não intencionais. Abstração e encapsulamento podem melhorar a segurança, confiabilidade e flexibilidade dos sistemas.
+- Use padrões de projeto e frameworks para os sistemas. Padrões de projeto são soluções reutilizáveis para problemas comuns em design de software, como adaptador, fachada, proxy, etc. Frameworks são plataformas de software reutilizáveis que fornecem funcionalidades e estruturas comuns para desenvolver aplicações, como Spring, Django, Laravel, etc. Padrões de projeto e frameworks podem melhorar a qualidade, eficiência e consistência dos sistemas.
 
 ## Conclusão
 
