@@ -177,16 +177,16 @@ O SOSD oferece uma abordagem flexível e escalável para o desenvolvimento de si
 - "[SOA Source Book - What Is SOA?](https://www.opengroup.org/soa/source-book/intro/)" collaboration.opengroup.org. Retrieved March 30, 2021.
 - Michael Bell (2008). "Introduction to Service-Oriented Modeling". [Service-Oriented Modeling: Service Analysis, Design, and Architecture](https://archive.org/details/serviceorientedm00bell). Wiley & Sons. ISBN 978-0-470-14111-3.
 - Duan, Yucong; Narendra, Nanjangud; Du, Wencai; Wang, Yongzhi; Zhou, Nianjun (2014). "[Exploring Cloud Service Brokering from an Interface Perspective](https://doi.org/10.1109/ICWS.2014.55)". 2014 IEEE International Conference on Web Services. IEEE. ISBN 978-1-4799-5054-6.
-- [Service-oriented software engineering](https://en.wikipedia.org/wiki/Service-oriented_Software_Engineering) - Wikipedia.
-- [What is SOA (Service-Oriented Architecture)?](https://www.ibm.com/topics/soa) | IBM.
-- [SOA vs. Microservices: What’s the Difference?](https://www.ibm.com/cloud/blog/soa-vs-microservices) | IBM.
-- [Service-oriented development of applications](https://en.wikipedia.org/wiki/Service-Oriented_Development_of_Applications) - Wikipedia.
-- [Best practices for REST API security ...](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/) - Stack Overflow Blog.
+- [Service-oriented software engineering](https://en.wikipedia.org/wiki/Service-oriented_Software_Engineering) -- Wikipedia.
+- [What is SOA (Service-Oriented Architecture)?](https://www.ibm.com/topics/soa) -- IBM.
+- [SOA vs. Microservices: What’s the Difference?](https://www.ibm.com/cloud/blog/soa-vs-microservices) -- IBM.
+- [Service-oriented development of applications](https://en.wikipedia.org/wiki/Service-Oriented_Development_of_Applications) -- Wikipedia.
+- [Best practices for REST API security ...](https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/) -- Stack Overflow Blog.
 - [REST Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html).
-- [Securing Web APIs and Best Practices](https://www.developer.com/web-services/securing-web-apis/) | www.Developer.com.
+- [Securing Web APIs and Best Practices](https://www.developer.com/web-services/securing-web-apis/) -- www.Developer.com.
 - [System integration](https://en.wikipedia.org/wiki/System_integration) - Wikipedia.
-- [Definition of System Integration - IT Glossary](https://www.gartner.com/en/information-technology/glossary/system-integration) | Gartner.
-- [System Integration: Types, Methods, and Approaches](https://www.altexsoft.com/blog/system-integration/) | AltexSoft.
+- [Definition of System Integration - IT Glossary](https://www.gartner.com/en/information-technology/glossary/system-integration) -- Gartner.
+- [System Integration: Types, Methods, and Approaches](https://www.altexsoft.com/blog/system-integration/) -- AltexSoft.
 
 ## Referências
 
