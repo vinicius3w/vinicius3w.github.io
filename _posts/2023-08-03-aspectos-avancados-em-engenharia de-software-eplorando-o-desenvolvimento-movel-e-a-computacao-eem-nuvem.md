@@ -144,7 +144,6 @@ Alguns provedores populares de BaaS para desenvolvimento móvel são:
 - **AWS Amplify**: AWS Amplify é uma plataforma BaaS que fornece vários serviços de back-end para aplicativos móveis e web. O AWS Amplify faz parte da plataforma Amazon Web Services (AWS), que oferece vários recursos, como armazenamento de dados, autenticação de usuário, notificações por push, funções de nuvem, suporte a GraphQL, análises, etc. O AWS Amplify também fornece um console amigável, uma interface de linha de comando e SDKs para diferentes plataformas, como Android, iOS, Flutter, React Native, etc.
 - **Azure Mobile Apps**: Azure Mobile Apps é uma plataforma BaaS que fornece vários serviços de back-end para aplicativos móveis e web. O Azure Mobile Apps faz parte da plataforma Microsoft Azure, que oferece vários recursos, como armazenamento de dados, autenticação do usuário, notificações push, funções de nuvem, análises, etc. O Azure Mobile Apps também fornece um portal amigável, uma interface de linha de comando , e SDKs para diferentes plataformas, como Android, iOS, Flutter, React Native, etc.
 
-
 ### Referências para Desenvolvimento Móvel
 
 - [What is Hybrid Mobile App Development: Hybrid vs Native vs Web -- Ionic](https://ionic.io/resources/articles/what-is-hybrid-app-development)
@@ -275,8 +274,6 @@ Alguns dos principais desafios e soluções para migrar e integrar sistemas e ap
 - [13 Cloud Migration Challenges and their Solutions - Simform](https://www.simform.com/blog/cloud-migration-challenges/)
 - [Application Migration -- Google Cloud](https://cloud.google.com/solutions/application-migration)
 - [Most Common Challenges with Cloud Migration -- Lucidchart Blog](https://www.lucidchart.com/blog/challenges-with-moving-to-the-cloud)
-
-
 
 ## Fica, vai ter bolo
 
