@@ -122,13 +122,13 @@ Portanto, para escolher a IDE mais adequada para o seu projeto de software, é i
 
 Alguns links interessantes:
 
-- [Dicas para escolher o melhor IDE de programação](https://www.isbrasil.info/blog/dicas-para-escolher-o-melhor-ide-de-programacao.html) - ISBrasil.
-- [Como escolher a IDE certa para suas necessidades de programação](https://awari.com.br/ide/) - Awari.
-- [IDE: o que é, história, importância e como funciona](https://www.alura.com.br/artigos/o-que-e-uma-ide) | Alura.
-- [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments) - Wikipedia.
-- [The 12 best IDEs for programming](https://www.techrepublic.com/article/best-ide-software/) | TechRepublic.
-- [Top Integrated Developer Environments (IDEs): Top 50 Tools](https://stackify.com/top-integrated-developer-environments-ides/) - Stackify.
-- [The 12 best IDEs for programming](https://www.techrepublic.com/article/best-ide-software/) | TechRepublic.
+- [Dicas para escolher o melhor IDE de programação](https://www.isbrasil.info/blog/dicas-para-escolher-o-melhor-ide-de-programacao.html) -- ISBrasil.
+- [Como escolher a IDE certa para suas necessidades de programação](https://awari.com.br/ide/) -- Awari.
+- [IDE: o que é, história, importância e como funciona](https://www.alura.com.br/artigos/o-que-e-uma-ide) -- Alura.
+- [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments) -- Wikipedia.
+- [The 12 best IDEs for programming](https://www.techrepublic.com/article/best-ide-software/) -- TechRepublic.
+- [Top Integrated Developer Environments (IDEs): Top 50 Tools](https://stackify.com/top-integrated-developer-environments-ides/) -- Stackify.
+- [The 12 best IDEs for programming](https://www.techrepublic.com/article/best-ide-software/) -- TechRepublic.
 
 ### Como configurar e usar as ferramentas de automação: Maven, Jenkins e Docker?
 
@@ -166,8 +166,8 @@ Alguns links interessantes:
 - [Install Maven in jenkins/blueocean docker container](https://stackoverflow.com/questions/52804677/install-maven-in-jenkins-blueocean-docker-container).
 - [how to properly build maven/docker with Jenkins?](https://stackoverflow.com/questions/39886432/how-to-properly-build-maven-docker-with-jenkins).
 - [Building Maven Project with Jenkins Pipeline](https://medium.com/@mgmkamran/building-maven-project-with-jenkins-pipeline-jenkins-docker-image-56a9a237e61d).
-- [Introdução aos contêineres do Docker no WSL](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-containers) | Microsoft Learn.
-- [docker - extend jenkins image to install maven](https://stackoverflow.com/questions/46052711/extend-jenkins-image-to-install-maven) - Stack Overflow.
+- [Introdução aos contêineres do Docker no WSL](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-containers) -- Microsoft Learn.
+- [docker - extend jenkins image to install maven](https://stackoverflow.com/questions/46052711/extend-jenkins-image-to-install-maven) -- Stack Overflow.
 
 ## Controle de versão e sistemas de gerenciamento de código-fonte (Git)
 
