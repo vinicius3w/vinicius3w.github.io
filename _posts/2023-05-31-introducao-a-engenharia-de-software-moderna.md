@@ -87,7 +87,7 @@ Esses quatro conceitos se relacionam entre si de forma complementar e sinérgica
 
 ### Padrões de Projeto
 
-Além dos princípios citados, alguns conceitos são fundamentais na engenharia de software, em especial os **padrões de projeto**. Os padrões de projeto são soluções genéricas e reutilizáveis para problemas recorrentes no desenvolvimento de software. Eles não são código, mas sim descrições de como lidar com esses problemas e projetar uma solução. Usar esses padrões é considerado uma boa prática, pois o projeto da solução foi testado e comprovado por muitos engenheiros de software ao longo do tempo, resultando em maior legibilidade, manutenibilidade e extensibilidade do código final¹.
+Além dos princípios citados, alguns conceitos são fundamentais na engenharia de software, em especial os **padrões de projeto**. Os padrões de projeto são soluções genéricas e reutilizáveis para problemas recorrentes no desenvolvimento de software. Eles não são código, mas sim descrições de como lidar com esses problemas e projetar uma solução. [Usar esses padrões é considerado uma boa prática, pois o projeto da solução foi testado e comprovado por muitos engenheiros de software ao longo do tempo, resultando em maior legibilidade, manutenibilidade e extensibilidade do código final](https://www.devmedia.com.br/conheca-os-padroes-de-projeto/957).
 
 Os benefícios de aplicar os padrões de projeto no desenvolvimento de software são:
 
@@ -156,7 +156,7 @@ Para gerenciar os processos de desenvolvimento, operação e manutenção do sof
 
 Para gerenciar esses aspectos de forma eficaz, é recomendável utilizar ferramentas que auxiliem na organização, na documentação, na comunicação e na automação dos processos de desenvolvimento, operação e manutenção do software. Algumas dessas ferramentas são:
 
-- **Ferramentas de gerenciamento de projetos**: são ferramentas que permitem planejar, estimar, monitorar e controlar as atividades do projeto de software. Elas facilitam a definição do escopo, dos requisitos, dos recursos, dos prazos, dos custos e dos riscos do projeto. Elas também permitem acompanhar o progresso, o status e os problemas do projeto. Alguns exemplos dessas ferramentas são: Artia², Microsoft Project, Trello, etc.
+- **Ferramentas de gerenciamento de projetos**: são ferramentas que permitem planejar, estimar, monitorar e controlar as atividades do projeto de software. Elas facilitam a definição do escopo, dos requisitos, dos recursos, dos prazos, dos custos e dos riscos do projeto. Elas também permitem acompanhar o progresso, o status e os problemas do projeto. [Alguns exemplos dessas ferramentas são: Artia](https://artia.com/blog/processo-de-desenvolvimento-de-software/), Microsoft Project, Trello, etc.
 - **Ferramentas de gerenciamento de configuração**: são ferramentas que permitem controlar as versões dos artefatos produzidos no projeto de software. Elas facilitam a identificação, o armazenamento, o rastreamento e a recuperação dos artefatos. Elas também permitem gerenciar as mudanças nos artefatos. Alguns exemplos dessas ferramentas são: Git, SVN, CVS, etc.
 - **Ferramentas de gerenciamento de qualidade**: são ferramentas que permitem verificar e validar a qualidade do software em relação aos requisitos funcionais e não funcionais. Elas facilitam a realização de testes automatizados ou manuais no software. Elas também permitem medir e avaliar os atributos de qualidade do software. Alguns exemplos dessas ferramentas são: Selenium, JUnit, SonarQube, etc.
 
