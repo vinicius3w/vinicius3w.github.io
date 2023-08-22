@@ -94,10 +94,10 @@ O DDD é como uma bússola te guiando através da complexa paisagem do desenvolv
 
 Portanto, na próxima vez que você embarcar em uma jornada de desenvolvimento de software, lembre-se da "magia" do Design Orientado ao Domínio. Lembre-se de que você não é apenas um **codificador**, mas um tradutor, um designer, um **resolvedor de problemas**. E quem sabe? Você pode descobrir -assim como eu descobri - que o DDD é a chave para ajudar a liberar todo o potencial do seu software.
 
-Para leituras adicionais e um mergulho profundo no mundo do Design Orientado ao Domínio, recomendo fortemente o livro de Eric Evans "Domain-Driven Design: Tackling Complexity in the Heart of Software"[^1^] e "Implementing Domain-Driven Design" de Vaughn Vernon[^2^]. Ambos fornecem insights abrangentes e exemplos práticos que te ajudarão a entender e aplicar o DDD em seus projetos.
+Para leituras adicionais e um mergulho profundo no mundo do Design Orientado ao Domínio, recomendo fortemente o livro de Eric Evans "Domain-Driven Design: Tackling Complexity in the Heart of Software" [1] e "Implementing Domain-Driven Design" de Vaughn Vernon [2]. Ambos fornecem insights abrangentes e exemplos práticos que te ajudarão a entender e aplicar o DDD em seus projetos.
 
-[^1^]: Evans, E. (2003). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley Professional.
-[^2^]: Vernon, V. (2013). Implementing Domain-Driven Design. Addison-Wesley Professional.
+[1] Evans, E. (2003). [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/). Addison-Wesley Professional.
+[2] Vernon, V. (2013). [Implementing Domain-Driven Design](https://www.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/). Addison-Wesley Professional.
 
 Lembre-se, uma longa jornada começa sempre com o primeiro passo. Então, por que não dar esse passo com o Design Orientado ao Domínio?
 

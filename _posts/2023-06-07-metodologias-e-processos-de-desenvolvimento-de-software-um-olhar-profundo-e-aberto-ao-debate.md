@@ -89,7 +89,7 @@ A escolha da metodologia mais adequada para cada projeto deve ser feita de forma
 Algumas leituras interessantes:
 
 - [Embracing Agile](https://hbr.org/2016/05/embracing-agile) - Harvard Business Review.
-- [Agile Methodologies in Education: A Review](https://link.springer.com/chapter/10.1007/978-981-13-2751-3_2) | SpringerLink.
+- [Agile Methodologies in Education: A Review](https://link.springer.com/chapter/10.1007/978-981-13-2751-3_2) -- SpringerLink.
 - [An Agile Approach to Change Management](https://hbr.org/2021/01/an-agile-approach-to-change-management) - Harvard Business Review.
 
 ### Como escolher a metodologia ágil mais adequada para o seu projeto ou negócio?
@@ -316,13 +316,13 @@ Como sugestões para trabalhos futuros, propomos realizar estudos de caso com em
 
 Essas referências foram selecionadas com base na relevância dos temas abordados, na qualidade dos autores e das fontes e na disponibilidade em português ou inglês.
 
-1 - Scrum vs Kanban vs Lean: quais as semelhanças, diferenças e ... - artia. https://artia.com/blog/scrum-vs-kanban-vs-lean/.
-2 - Metodologias Ágeis: como usar Scrum, Lean, Kanban e Smart - Rock Content. https://rockcontent.com/br/blog/metodologias-ageis/.
-3 - Tudo sobre metodologia Scrum, Lean e Kanban - iugu. https://www.iugu.com/blog/iugu4devs/blog/metodologia-scrum-lean-kanban.
-4 - Lean, Scrum, Kanban e Design Sprint: qual metodologia ágil é mais .... https://medium.com/@odo.technology/lean-scrum-kanban-e-design-sprint-qual-metodologia-ágil-é-mais-adequada-para-o-seu-projeto-36f67f344340.
-5 - Metodologias Ágeis: Como Usar Scrum Lean Kanban E Smart. https://planejadorweb.com.br/metodologias-ageis-como-usar-scrum-lean-kanban-e-smart/.
-6 - Entenda o que é metodologia híbrida de gestão de projetos. https://artia.com/blog/metodologia-hibrida-de-gestao-de-projetos/.
-7 - Abordagem Agile Híbrida – O que é, por que usar e como aplicar?. https://www.elirodrigues.com/2017/07/31/abordagem-agile-hibrida-o-que-e-por-que-usar-e-como-aplicar/.
-8 - HIBRIDISMO NA GESTÃO DE PROJETOS: AVALIANDO PROPOSTAS DE COMBINAÇÃO DAS .... https://abepro.org.br/biblioteca/enegep2014_TN_STO_202_145_24895.pdf.
-9 - Metodologia ágil: o que é? Tipos (Scrum, Lean etc.), exemplos e .... https://www.appvizer.com.br/revista/gestao-planejamento/gestao-de-projetos/metodologia-agil.
-10 -  As 5 principais metodologias agile: vantagens e desvantagens. https://www.xpand-it.com/pt-pt/blog/5-metodologias-agile/.
+1. Scrum vs Kanban vs Lean: quais as semelhanças, diferenças e ... - artia. https://artia.com/blog/scrum-vs-kanban-vs-lean/.
+2. Metodologias Ágeis: como usar Scrum, Lean, Kanban e Smart - Rock Content. https://rockcontent.com/br/blog/metodologias-ageis/.
+3. Tudo sobre metodologia Scrum, Lean e Kanban - iugu. https://www.iugu.com/blog/iugu4devs/blog/metodologia-scrum-lean-kanban.
+4. Lean, Scrum, Kanban e Design Sprint: qual metodologia ágil é mais .... https://medium.com/@odo.technology/lean-scrum-kanban-e-design-sprint-qual-metodologia-ágil-é-mais-adequada-para-o-seu-projeto-36f67f344340.
+5. Metodologias Ágeis: Como Usar Scrum Lean Kanban E Smart. https://planejadorweb.com.br/metodologias-ageis-como-usar-scrum-lean-kanban-e-smart/.
+6. Entenda o que é metodologia híbrida de gestão de projetos. https://artia.com/blog/metodologia-hibrida-de-gestao-de-projetos/.
+7. Abordagem Agile Híbrida – O que é, por que usar e como aplicar?. https://www.elirodrigues.com/2017/07/31/abordagem-agile-hibrida-o-que-e-por-que-usar-e-como-aplicar/.
+8 HIBRIDISMO NA GESTÃO DE PROJETOS: AVALIANDO PROPOSTAS DE COMBINAÇÃO DAS .... https://abepro.org.br/biblioteca/enegep2014_TN_STO_202_145_24895.pdf.
+9 Metodologia ágil: o que é? Tipos (Scrum, Lean etc.), exemplos e .... https://www.appvizer.com.br/revista/gestao-planejamento/gestao-de-projetos/metodologia-agil.
+10 As 5 principais metodologias agile: vantagens e desvantagens. https://www.xpand-it.com/pt-pt/blog/5-metodologias-agile/.
