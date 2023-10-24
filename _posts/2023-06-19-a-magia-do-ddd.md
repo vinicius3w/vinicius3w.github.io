@@ -72,7 +72,7 @@ Cada um desses conceitos desempenha um papel crucial na construção de software
 
 ## O Poder do DDD: Um Exemplo do Mundo Real
 
-Vamos pegar um exemplo do mundo real para ilustrar o poder do DDD. Considere um sistema de saúde onde médicos, pacientes e prontuários estão envolvidos. Em uma abordagem tradicional, você pode acabar com um design centrado no banco de dados com tabelas para médicos, pacientes e registros. 
+Vamos pegar um exemplo do mundo real para ilustrar o poder do DDD. Considere um sistema de saúde onde médicos, pacientes e prontuários estão envolvidos. Em uma abordagem tradicional, você pode acabar com um design centrado no banco de dados com tabelas para médicos, pacientes e registros.
 
 Por exemplo, um médico pode ter muitos pacientes e um paciente pode ter muitos registros médicos. Neste modelo, a relação entre médicos e pacientes pode ser considerada "muitos para muitos", e a relação entre pacientes e registros médicos pode ser considerada "um para muitos".
 
