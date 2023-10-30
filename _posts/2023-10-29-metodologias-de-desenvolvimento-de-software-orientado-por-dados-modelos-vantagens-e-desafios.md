@@ -9,16 +9,18 @@ categories:
   - Architecture
 tags:
   - software engineering
-  - Data-Driven Software Development (DDSD)
-  - Big Data
-  - Distributed Processing
-  - Data Analysis
-  - Data Mining
-  - Virtual Collection
-  - Contextual Processing
-  - Continuous Experimentation
-  - Data-Driven Innovation
-  - Demand Forecasting
+  - Data-Driven Software Development
+  - Data-Driven Development (D3)
+  - Agile Data-Driven Development
+  - Test-Driven Development (TDD)
+  - Continuous Integration/Continuous Deployment (CI/CD)
+  - Data Quality
+  - Data Privacy and Security
+  - Organizational Change Resistance
+  - Implementation Complexity
+  - Cost Efficiency
+  - Continuous Improvement
+  - Data-Based Decision Making
 ---
 
 O desenvolvimento de software orientado por dados é uma abordagem metodológica que enfatiza a utilização de dados para guiar decisões e processos no ciclo de vida do desenvolvimento de software. Esta abordagem é crucial em uma era dominada por big data, aprendizado de máquina e inteligência artificial, onde a capacidade de extrair insights de vastas quantidades de dados pode ser a diferença entre o sucesso e o fracasso de um software. Este artigo explora modelos e abordagens populares de desenvolvimento de software orientado por dados, bem como suas vantagens e desafios, com o objetivo de fomentar um debate acadêmico sobre o tema.
