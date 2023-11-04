@@ -6,7 +6,7 @@ header:
   image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg?raw=true
   caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
 categories: 
-  - Architecture
+  - Data-Driven
 tags:
   - Data-Driven Software Development
   - Data-Driven Development (D3)
@@ -135,7 +135,7 @@ Por fim, se **não complementadas com análises quantitativas**, as interpretaç
 
 Portanto, é essencial que os pesquisadores qualitativos tomem precauções para minimizar esses riscos potenciais, buscando maior objetividade, transparência e triangulação. Apesar desses desafios, quando conduzidas com rigor metodológico, as pesquisas qualitativas oferecem insights únicos sobre a condição humana e os fenômenos sociais.
 
-Dois bons exemplos de pesquisas qualitatvas são:
+Dois bons exemplos de pesquisas qualitativas são:
 
 1. **Entrevistas e Questionários**: Utilizados para compreender as necessidades e as experiências dos usuários. Pode-se aplicar análise temática para identificar padrões e temas nas respostas.
 2. **Revisões de Documentação**: Análise de documentos existentes para extrair requisitos ou entender o domínio do problema.
@@ -158,7 +158,7 @@ Os dados quantitativos são geralmente expressos em números e requerem o uso de
 
 As pesquisas quantitativas são frequentemente consideradas o **padrão-ouro** para a produção de conhecimento confiável na ciência. Isso se deve ao fato de que elas se baseiam em princípios metodológicos fundamentais que buscam maximizar a objetividade e precisão dos resultados. O primeiro princípio é a **objetividade** - os pesquisadores quantitativos utilizam instrumentos padronizados de coleta de dados para minimizar a influência de vieses e julgamentos subjetivos.
 
-Além disso, enfatiza-se a **reprodutibilidade** dos achados por meio da replicação dos estudos com diferentes amostras e contextos. A **precisão** também é crucial, com os pesquisadores quantitativos dependendo de medições válidas e confiáveis que capturem com exatidão os constructos de interesse. 
+Além disso, enfatiza-se a **reprodutibilidade** dos achados por meio da replicação dos estudos com diferentes amostras e contextos. A **precisão** também é crucial, com os pesquisadores quantitativos dependendo de medições válidas e confiáveis que capturem com exatidão os constructos de interesse.
 
 Por fim, todo o processo é regido por um rigoroso **rigor estatístico**, desde o desenho amostral até as técnicas de análise de dados. A aplicação cuidadosa desses princípios fundamentais aumenta substancialmente a confiança de que os resultados quantitativos refletem relações verdadeiras na população estudada, em vez de artefatos ou erros metodológicos.
 
@@ -431,4 +431,4 @@ Embora a abordagem data-driven ofereça muitas vantagens, tais como decisões fu
 
 ### Conclusão
 
-A engenharia de softwaredata-driven é um processo poderoso que promete melhorar a qualidade e a relevância do software desenvolvido. Entretanto, exige uma aplicação cuidadosa e consciente das etapas descritas, mantendo-se atento aos desafios e riscos inerentes. A compreensão crítica e a atualização constante nas metodologias e ferramentas de análise são essenciais para que profissionais e acadêmicos possam maximizar as vantagens e mitigar as desvantagens desse enfoque na engenharia de software.
+A engenharia de software data-driven é um processo poderoso que promete melhorar a qualidade e a relevância do software desenvolvido. Entretanto, exige uma aplicação cuidadosa e consciente das etapas descritas, mantendo-se atento aos desafios e riscos inerentes. A compreensão crítica e a atualização constante nas metodologias e ferramentas de análise são essenciais para que profissionais e acadêmicos possam maximizar as vantagens e mitigar as desvantagens desse enfoque na engenharia de software.
