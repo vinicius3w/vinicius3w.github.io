@@ -6,7 +6,7 @@ header:
   image: https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/header-by-jesus-kiteque-224069.jpg?raw=true
   caption: "Photo credit: @ikukevk on [**Unsplash**](https://unsplash.com/photos/w7ZyuGYNpRQ)"
 categories: 
-  - software engineering
+  - Development
 tags:
   - Front-End Engineering
   - Web Development
