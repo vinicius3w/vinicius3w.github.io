@@ -22,8 +22,6 @@ tags:
   - Privacy and Compliance
 ---
 
-**Resumo:**
-
 Este artigo fornece uma visão geral das arquiteturas de dados modernas, destacando os desafios comuns enfrentados em sistemas intensivos em dados. Profissionais e estudantes irão se beneficiar ao compreender como os princípios, processos, técnicas e ferramentas se integram para criar soluções de software robustas e escaláveis, que são fundamentais nas operações de empresas líderes como Google, Amazon, Dell, IBM e Accenture.
 
 ## Panorama das Arquiteturas de Dados Modernas
