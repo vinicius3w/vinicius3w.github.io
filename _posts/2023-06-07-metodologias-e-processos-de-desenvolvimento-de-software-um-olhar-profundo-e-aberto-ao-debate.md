@@ -305,7 +305,6 @@ Como sugestões para trabalhos futuros, propomos realizar estudos de caso com em
 ## Referências
 - Cohn, Mike. (2005). *Agile Estimating and Planning.*
 - Womack, James P., & Jones, Daniel T. (2003). *Lean Thinking: Banish Waste and Create Wealth in Your Corporation.*
-
 - Sutherland, J. (2014). Scrum: a arte de fazer o dobro do trabalho na metade do tempo. Editora Sextante.
 - Anderson, D. J. (2016). Kanban: Mudança Evolucionária de Sucesso para seu Negócio de Tecnologia. Bookman Editora.
 - Poppendieck, M., & Poppendieck, T. (2014). Implementando o desenvolvimento lean de software: da concepção ao cash. Bookman Editora.
@@ -313,16 +312,3 @@ Como sugestões para trabalhos futuros, propomos realizar estudos de caso com em
 - Conforto, E. C., Salum, F., Amaral, D. C., da Silva, S. L., & de Almeida, L. F. M. (2014). [Can agile project management be adopted by industries other than software development?](https://www.pmi.org/-/media/pmi/documents/public/pdf/research/research-summaries/conforto_agile-pm.pdf). Project Management Journal, 45(3), 21-34.
 - Boehm, B., & Turner, R. (2003). [Balancing agility and discipline: A guide for the perplexed](https://link.springer.com/chapter/10.1007/978-3-540-24675-6_1). Addison-Wesley Professional.
 - Stellman, A., & Greene, J. (2014). [Learning agile: understanding scrum, XP, lean, and kanban](https://www.oreilly.com/library/view/learning-agile/9781449363819/). O'Reilly Media, Inc.
-
-Essas referências foram selecionadas com base na relevância dos temas abordados, na qualidade dos autores e das fontes e na disponibilidade em português ou inglês.
-
-1. Scrum vs Kanban vs Lean: quais as semelhanças, diferenças e ... - artia. https://artia.com/blog/scrum-vs-kanban-vs-lean/.
-2. Metodologias Ágeis: como usar Scrum, Lean, Kanban e Smart - Rock Content. https://rockcontent.com/br/blog/metodologias-ageis/.
-3. Tudo sobre metodologia Scrum, Lean e Kanban - iugu. https://www.iugu.com/blog/iugu4devs/blog/metodologia-scrum-lean-kanban.
-4. Lean, Scrum, Kanban e Design Sprint: qual metodologia ágil é mais .... https://medium.com/@odo.technology/lean-scrum-kanban-e-design-sprint-qual-metodologia-ágil-é-mais-adequada-para-o-seu-projeto-36f67f344340.
-5. Metodologias Ágeis: Como Usar Scrum Lean Kanban E Smart. https://planejadorweb.com.br/metodologias-ageis-como-usar-scrum-lean-kanban-e-smart/.
-6. Entenda o que é metodologia híbrida de gestão de projetos. https://artia.com/blog/metodologia-hibrida-de-gestao-de-projetos/.
-7. Abordagem Agile Híbrida – O que é, por que usar e como aplicar?. https://www.elirodrigues.com/2017/07/31/abordagem-agile-hibrida-o-que-e-por-que-usar-e-como-aplicar/.
-8 HIBRIDISMO NA GESTÃO DE PROJETOS: AVALIANDO PROPOSTAS DE COMBINAÇÃO DAS .... https://abepro.org.br/biblioteca/enegep2014_TN_STO_202_145_24895.pdf.
-9 Metodologia ágil: o que é? Tipos (Scrum, Lean etc.), exemplos e .... https://www.appvizer.com.br/revista/gestao-planejamento/gestao-de-projetos/metodologia-agil.
-10 As 5 principais metodologias agile: vantagens e desvantagens. https://www.xpand-it.com/pt-pt/blog/5-metodologias-agile/.
