@@ -55,10 +55,10 @@ Essas camadas são projetadas para serem altamente escaláveis e distribuídas, 
 
 Para aprofundar o entendimento sobre arquiteturas de dados modernas, recomenda-se explorar as seguintes obras e recursos:
 
-- _Designing Data-Intensive Applications_ por Martin Kleppmann — uma exploração abrangente dos princípios por trás das arquiteturas de sistemas atuais.
-- _Streaming Systems_ por Tyler Akidau, Slava Chernyak e Reuven Lax — para insights sobre processamento de dados em tempo real.
-- _The Data Warehouse Toolkit_ por Ralph Kimball e Margy Ross — um guia clássico sobre o design de data warehouses.
-- Documentação do Apache Software Foundation — para detalhes técnicos sobre ferramentas de processamento de dados como Hadoop e Spark.
+- _[Designing Data-Intensive Applications](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)_ por Martin Kleppmann — uma exploração abrangente dos princípios por trás das arquiteturas de sistemas atuais. Mais informações: <https://dataintensive.net/>
+- _[Streaming Systems](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)_ por Tyler Akidau, Slava Chernyak e Reuven Lax — para insights sobre processamento de dados em tempo real.
+- _[The Data Warehouse Toolkit](https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)_ por Ralph Kimball e Margy Ross — um guia clássico sobre o design de data warehouses.
+- Documentação da [Apache Software Foundation](https://apache.org/) — para detalhes técnicos sobre ferramentas de processamento de dados como Hadoop e Spark.
 
 A evolução para arquiteturas de dados modernas é uma transformação crítica para empresas que desejam manter relevância na era do big data. As organizações que adotam essas arquiteturas se capacitam a tomar decisões informadas rapidamente, inovar e atender às demandas de um mercado em constante mudança. A exploração contínua e a educação em torno desses sistemas são fundamentais para os arquitetos de dados, desenvolvedores e decisores empresariais que buscam aproveitar o verdadeiro potencial dos seus ativos de dados.
 
@@ -78,9 +78,9 @@ Dentre os principais desafios está o manejo da heterogeneidade das fontes de da
 
 Para aqueles que buscam aprofundar seus conhecimentos na camada de ingestão de dados, as seguintes referências são recomendadas:
 
-- _Streaming Data_ por Andrew Psaltis — para entender a ingestão de dados em tempo real.
-- Documentação técnica do Apache NiFi e Apache Kafka — para detalhes práticos de implementação em plataformas de ingestão.
-- Artigos do Journal of Big Data — que oferecem pesquisas sobre as últimas inovações e desafios na ingestão de big data.
+- _[Streaming Systems](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)_ por Andrew Psaltis — para entender a ingestão de dados em tempo real.
+- Documentação técnica do [Apache NiFi](https://nifi.apache.org/) e [Apache Kafka](https://kafka.apache.org/) — para detalhes práticos de implementação em plataformas de ingestão.
+- Artigos do [Journal of Big Data](https://journalofbigdata.springeropen.com/) — que oferecem pesquisas sobre as últimas inovações e desafios na ingestão de big data.
 
 A camada de ingestão é o primeiro filtro pelo qual todos os dados devem passar em uma arquitetura de dados moderna. As decisões tomadas nesta camada têm repercussões em todo o sistema de dados. Portanto, é crucial que esta etapa seja meticulosamente projetada e gerenciada para assegurar que a integridade e o valor dos dados sejam mantidos desde o início. Ao manter-se informado sobre as práticas recomendadas e estar ciente dos desafios potenciais, os arquitetos de dados podem construir uma fundação sólida para suas soluções de dados.
 
@@ -100,9 +100,9 @@ Um dos principais desafios é o gerenciamento eficiente da explosão de dados, t
 
 Para uma compreensão mais aprofundada da camada de armazenamento, as seguintes fontes são recomendadas:
 
-- _Big Data Storage and Management: Challenges and Opportunities_ — para perspectivas atuais sobre o estado da arte em armazenamento de big data.
-- Documentação do Amazon S3 e Google Cloud Storage — para insights sobre opções de armazenamento em nuvem.
-- _The Data Warehouse Toolkit_ por Ralph Kimball e Margy Ross — um recurso essencial para projetar armazenamentos de dados estruturados para análises.
+- _[Big Data Storage and Management: Challenges and Opportunities](https://link.springer.com/chapter/10.1007/978-3-319-89935-0_3)_ — para perspectivas atuais sobre o estado da arte em armazenamento de big data.
+- Documentação do [Amazon S3](https://aws.amazon.com/pt/s3/) e [Google Cloud Storage](https://cloud.google.com/storage/) — para insights sobre opções de armazenamento em nuvem.
+- _[The Data Warehouse Toolkit](https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)_ por Ralph Kimball e Margy Ross — um recurso essencial para projetar armazenamentos de dados estruturados para análises.
 
 A camada de armazenamento não é apenas um repositório passivo, mas uma parte ativa e estratégica da infraestrutura de dados que suporta a análise avançada e a tomada de decisões. Sua concepção deve ser meticulosa e estratégica, levando em conta não apenas as necessidades atuais, mas também antecipando as demandas futuras. Arquitetos de dados e engenheiros precisam estar vigilantes em relação às novas tendências e desafios, continuando a educar-se e adaptar-se para construir sistemas de armazenamento que sejam seguros, confiáveis e escaláveis.
 
@@ -122,9 +122,8 @@ Um dos maiores desafios é gerenciar a complexidade inerente ao processamento de
 
 Para aqueles interessados em aprofundar seus conhecimentos sobre a camada de processamento, recomenda-se:
 
-- _Data Intensive Text Processing with MapReduce_ por Jimmy Lin e Chris Dyer — um guia prático para o processamento de dados com MapReduce.
-- _Learning Spark: Lightning-Fast Data Analytics_ por Holden Karau e colaboradores — um recurso abrangente para o processamento de dados com Apache Spark.
-- Pesquisas publicadas na conferência ACM SIGMOD — que fornecem insights sobre as tendências atuais e os avanços no processamento de dados.
+- _[Data Intensive Text Processing with MapReduce](https://link.springer.com/book/10.1007/978-3-031-02136-7)_ por Jimmy Lin e Chris Dyer — um guia prático para o processamento de dados com MapReduce.
+- _[Learning Spark: Lightning-Fast Data Analytics](https://www.amazon.com.br/Learning-Spark-2e-Jules-Damji/dp/1492050040)_ por Holden Karau e colaboradores — um recurso abrangente para o processamento de dados com Apache Spark.
 
 A camada de processamento desempenha uma função vital em extrair o valor dos dados. Com a crescente demanda por análises rápidas e precisas, é fundamental projetar esta camada com uma infraestrutura que seja tanto resiliente quanto ágil. Enquanto os arquitetos de dados enfrentam desafios significativos relacionados à complexidade e segurança, permanecer informado sobre as práticas recomendadas e as tecnologias emergentes é essencial para criar soluções de processamento que sejam robustas e capazes de entregar insights confiáveis em tempo hábil.
 
@@ -144,9 +143,10 @@ Os principais desafios incluem criar visualizações que sejam simultaneamente r
 
 Para aprofundamento, são recomendados os seguintes textos:
 
-- _Information Dashboard Design: Displaying Data for At-a-Glance Monitoring_ por Stephen Few — um livro fundamental sobre as melhores práticas de design de dashboard.
-- _The Visual Display of Quantitative Information_ por Edward Tufte — uma obra clássica sobre a teoria e prática de visualização de dados.
-- Publicações e workshops da IEEE Conference on Visualization — para as últimas pesquisas e inovações em visualização de dados.
+- _[Dataviz em perspectiva: Ensino e prática profissional da visualização de dados no design brasileiro](https://www.amazon.com.br/Dataviz-perspectiva-profissional-visualiza%C3%A7%C3%A3o-brasileiro-ebook/dp/B0CBSZTSXD)_ por Júlia Rabetti Giannella e Rodrigo Pessoa Medeiros - Este livro registra, de forma permanente, um panorama do ensino, da pesquisa e da prática profissional no campo da visualização de dados brasileiros sob a ótica do design nos últimos anos.
+- _[Information Dashboard Design: Displaying Data for At-a-Glance Monitoring](https://www.amazon.com.br/Information-Dashboard-Design-At-Glance/dp/1938377001)_ por Stephen Few — um livro fundamental sobre as melhores práticas de design de dashboard.
+- _[The Visual Display of Quantitative Information](https://archive.org/details/the-visual-display-of-quantitative-information-2ed-by-tufte-edward-r.-z-lib.org)_ por Edward Tufte — uma obra clássica sobre a teoria e prática de visualização de dados.
+- Publicações e workshops da [IEEE Conference on Visualization](https://ieeevis.org/year/2023/welcome) — para as últimas pesquisas e inovações em visualização de dados.
 
 A camada de consumo e visualização é o ponto de encontro entre dados e decisões, destacando a importância do design centrado no usuário e da comunicação eficaz de informações complexas. Ao abordar os desafios desta camada, designers e desenvolvedores precisam de uma mistura cuidadosa de criatividade, técnica e uma compreensão profunda das necessidades dos usuários finais. Isso assegura que as visualizações de dados sejam não apenas esteticamente agradáveis, mas, o mais importante, funcionalmente significativas, levando a insights acionáveis e a um impacto empresarial mensurável.
 
@@ -204,9 +204,9 @@ A arquitetura pode ser dividida em quatro camadas principais:
 
 3. **Camada de Processamento**: Aqui, o Spark ou o Hadoop podem ser utilizados para processar e analisar grandes conjuntos de dados. O processamento em lote é frequentemente realizado para análises de tendências e relatórios de vendas, enquanto o processamento em tempo real pode acionar alertas de estoque ou recomendações personalizadas.
 
-4. **Camada de Consumo e Visualização**: Finalmente, as ferramentas de Business Intelligence (BI), como o Tableau ou o Power BI, são implementadas para transformar dados em insights acionáveis que podem ser visualizados em dashboards. Isso permite que os gerentes tomem decisões informadas sobre inventário, marketing e vendas.
+4. **Camada de Consumo e Visualização**: Finalmente, as ferramentas de [Business Intelligence](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_empresarial) (BI), como o [Tableau](https://www.tableau.com/pt-br) ou o [Power BI](https://powerbi.microsoft.com/pt-br/), são implementadas para transformar dados em insights acionáveis que podem ser visualizados em dashboards. Isso permite que os gerentes tomem decisões informadas sobre inventário, marketing e vendas.
 
-Para um e-commerce, assegurar que a arquitetura de dados suporte tanto operações em tempo real quanto análises profundas é fundamental. Isso inclui o desafio de integrar continuamente novas fontes de dados e manter a qualidade e a governança dos dados em um ambiente em constante mudança. As empresas precisam garantir que sua arquitetura seja segura e em conformidade com regulamentos como GDPR e LGPD, principalmente no tratamento de dados pessoais dos clientes.
+Para um e-commerce, assegurar que a arquitetura de dados suporte tanto operações em tempo real quanto análises profundas é fundamental. Isso inclui o desafio de integrar continuamente novas fontes de dados e manter a qualidade e a governança dos dados em um ambiente em constante mudança. As empresas precisam garantir que sua arquitetura seja segura e em conformidade com regulamentos como [GDPR](https://gdpr-info.eu/) e [LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais), principalmente no tratamento de dados pessoais dos clientes.
 
 Essa arquitetura não apenas permite que as operações do dia a dia ocorram de maneira suave e eficiente, mas também fornece a flexibilidade para adaptar-se a novas tendências de mercado e comportamentos de consumo, mantendo a plataforma de e-commerce competitiva e relevante.
 
