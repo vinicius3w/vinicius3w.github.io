@@ -23,8 +23,6 @@ tags:
   - Stakeholder Analysis
 ---
 
-## Introdução Ampliada ao Gerenciamento de Projetos de Software
-
 O gerenciamento de projetos de software é uma área que permanece em constante evolução, impulsionada pelas mudanças nas demandas do mercado, avanços tecnológicos e o crescente reconhecimento de que o sucesso de um projeto é medido não apenas pela entrega dentro do prazo e do orçamento, mas também pela qualidade e pelo valor que o produto final traz aos usuários finais (PMI, 2017). A emergência de metodologias ágeis nas últimas duas décadas, em contraste com os métodos mais prescritivos e sequenciais do modelo Cascata, reflete uma busca pela adaptabilidade e resposta rápida às mudanças, características essenciais no desenvolvimento de software contemporâneo (Schwaber & Sutherland, 2020).
 
 A motivação para explorar diferentes metodologias de gerenciamento de projetos de software surge da necessidade de se adaptar às complexidades inerentes do desenvolvimento de software. Esta necessidade é amplificada pela volatilidade dos requisitos do negócio e a pressão por inovação acelerada (Beck et al., 2001). A justificativa para um exame detalhado dessas metodologias reside no impacto substancial que o gerenciamento de projetos tem na eficácia e eficiência da entrega de software. A compreensão das diferentes abordagens é crucial, visto que a escolha inadequada de uma metodologia pode levar a atrasos, custos elevados e produtos que não atendem às necessidades do usuário (Sommerville, 2015).
