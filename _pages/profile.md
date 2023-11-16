@@ -18,7 +18,7 @@ Tel: (+55 81) 2126-8430, x4092   Fax: (+55 81) 2126-8438
 
 ## Talks ##
 
-- [A era pós Engenharia de Dados na transformação dos negócios digitais!](https://youtu.be/swQ19sv1D1w) | Helga Jinzenji / Cesar Augusto de Carvalho / Vinicius Cardoso Garcia / Filipe Avilla, 24 de abr. de 2023 
+- [A era pós Engenharia de Dados na transformação dos negócios digitais!](https://youtu.be/swQ19sv1D1w) -- Helga Jinzenji / Cesar Augusto de Carvalho / Vinicius Cardoso Garcia / Filipe Avilla, 24 de abr. de 2023 
 - CBSoft'21 - [Painel: Ensino de Engenharia de Software em tempos de pandemia](https://youtu.be/lSlqjTrZspw), Sep 30, 2021
 - Evento Pesquisa de Destaque CIn 2020/2021 (Vinicius Garcia) - [Data Science without Data Scientists](https://youtu.be/cuxS0OxGJ6E), Sep 28, 2021
 - Canal Thiago Jabur Tech Talk - [Entrevista ao vivo (live) com o Prof. Dr. Vinicius Cardoso Garcia (UFPE)](https://youtu.be/KHirQfC1-tA), Nov 10, 2020
