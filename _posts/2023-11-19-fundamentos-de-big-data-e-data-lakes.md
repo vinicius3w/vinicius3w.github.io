@@ -397,45 +397,40 @@ A única certeza que temos é que o campo de Big Data e Data Lakes continuará a
 
 Este artigo buscou proporcionar um entendimento crítico e detalhado sobre Big Data, Data Lakes e Data Warehouses, fundamentais na arquitetura moderna de software para análise de dados. Para aprofundamento, sugere-se as seguintes referências:
 
-1. "Big Data: Principles and best practices of scalable real-time data systems" por Nathan Marz e James Warren.
-2. "Designing Data-Intensive Applications" por Martin Kleppmann.
-3. "Hadoop: The Definitive Guide" por Tom White.
-4. Artigos recentes em periódicos como “IEEE Transactions on Big Data”.
-5. "The Data Warehouse Toolkit" por Ralph Kimball e Margy Ross.
-6. "Data Science for Business" por Foster Provost e Tom Fawcett, para uma compreensão aplicada de como os dados podem ser transformados em valor de negócio.
-7. "Big Data: A Revolution That Will Transform How We Live, Work, and Think" por Viktor Mayer-Schönberger e Kenneth Cukier, para um panorama abrangente sobre Big Data.
-8. "The Big Data-Driven Business" por Russell Glass e Sean Callahan, que explora como os dados estão remodelando o mundo dos negócios.
-9. "Data-Intensive Text Processing with MapReduce" de Jimmy Lin e Chris Dyer - Oferece uma visão profunda do processamento de grandes conjuntos de dados usando MapReduce.
-10. "Ethics of Big Data: Balancing Risk and Innovation" de Kord Davis - Fornece uma perspectiva crítica sobre os aspectos éticos no manejo de Big Data.
-11. Inmon, W. H. (2005). "Building the Data Warehouse." Wiley.
-12. Dixon, J. (2010). "Pentaho, Hadoop, and Data Lakes." Pentaho Blog.
-13. Chen, C. L. P., & Zhang, C.-Y. (2014). "Data-intensive applications, challenges, techniques and technologies: A survey on Big Data." Information Sciences.
-14. Vassiliadis, P. (2009). "A survey of extract-transform-load technology." International Journal of Data Warehousing and Mining.
-15. Codd, E. F. (1993). "Providing OLAP (On-line Analytical Processing) to User-Analysts: An IT Mandate." Hyperion Solutions Corporation.
-16. James, G., & Raj, P. (2019). "Data Lakes: Insights and Perspectives." Data Science Journal.
-17. Stein, B., & Morrison, A. (2014). "The enterprise data lake: Better integration and deeper analytics." PwC Technology Forecast.
-18. Beyer, M. A., & Laney, D. (2012). "The Importance of 'Big Data': A Definition." Gartner.
-19. Davenport, T. H., & Patil, D. J. (2012). "Data Scientist: The Sexiest Job of the 21st Century." Harvard Business Review.
-20. Madden, S. (2012). "From Databases to Big Data." IEEE Internet Computing.
-21. Borkar, V., Carey, M. J., & Li, C. (2012). "Big Data Platforms: What's Next?" ACM Queue.
-22. Russom, P. (2011). "Big Data Analytics." TDWI Best Practices Report, Fourth Quarter.
-23. Reinsel, D., Gantz, J., & Rydning, J. (2020). "The Digitization of the World from Edge to Core." IDC.
-24. White, T. (2015). "Hadoop: The Definitive Guide." O'Reilly Media.
-25. Sadalage, P. J., & Fowler, M. (2012). "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence." Addison-Wesley.
-26. Gentry, C. (2009). "A Fully Homomorphic Encryption Scheme." PhD Thesis, Stanford University.
-27. Dwork, C. (2011). "Differential Privacy." Encyclopedia of Cryptography and Security.
-28. LeCun, Y., Bengio, Y., & Hinton, G. (2015). "Deep learning." Nature.
-29. Kreps, J. (2014). "Apache Kafka: A Distributed Streaming Platform." Apache Software Foundation.
-30. Mittelstadt, B. et al. (2016). "The Ethics of Algorithms: Mapping the Debate." Big Data & Society.
-31. Horton, M., et al. (2019). "Data Integration Solutions for Big Data." Journal of Data Management.
-32. Stonebraker, M., et al. (2018). "Big Data Integration." Data Engineering Bulletin.
-33. Vinoski, S. (2017). "RESTful Web Services: Principles, Patterns, Emerging Technologies." ACM Computing Surveys.
-34. European Parliament (2016). "General Data Protection Regulation (GDPR)." Official Journal of the European Union.
-35. Barocas, S. & Selbst, A. D. (2016). "Big Data's Disparate Impact." California Law Review.
-36. Edwards, L. & Veale, M. (2017). "Slave to the Algorithm? Why a 'Right to an Explanation' is Probably Not the Remedy You are Looking For." Duke Law & Technology Review.
-37. European Union (2018). "General Data Protection Regulation (GDPR): Guidelines, Recommendations and Best Practices." Official Journal of the European Union.
-38. Chang, F. et al. (2016). "Bigtable: A Distributed Storage System for Structured Data." ACM Transactions on Computer Systems.
-39. Zaharia, M. et al. (2010). "Spark: Cluster Computing with Working Sets." HotCloud.
-40. Smith, J. et al. (2017). "The GDPR: Understanding Implications for Data Privacy and Security." Information Security Journal.
-41. Jordan, M.I. & Mitchell, T.M. (2015). "Machine Learning: Trends, Perspectives, and Prospects." Science.
-42. Halevy, A. et al. (2016). "Principles of Dataspace Systems." ACM PODS.
+1. "[Big Data: Principles and best practices of scalable real-time data systems](https://ieeexplore.ieee.org/book/10279852)" por Nathan Marz e James Warren.
+2. "[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)" por Martin Kleppmann.
+3. "[Hadoop: The Definitive Guide](https://www.amazon.com.br/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)" por Tom White.
+4. "[The Data Warehouse Toolkit](https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)" por Ralph Kimball e Margy Ross.
+5. "[Data Science for Business](https://www.amazon.com.br/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)" por Foster Provost e Tom Fawcett, para uma compreensão aplicada de como os dados podem ser transformados em valor de negócio.
+6. "[Big Data: A Revolution That Will Transform How We Live, Work, and Think](https://academic.oup.com/aje/article/179/9/1143/2739247)" por Viktor Mayer-Schönberger e Kenneth Cukier, para um panorama abrangente sobre Big Data.
+7. "[The Big Data-Driven Business](https://www.amazon.com.br/Big-Data-Driven-Business-Customers-Competitors/dp/1118889800)" por Russell Glass e Sean Callahan, que explora como os dados estão remodelando o mundo dos negócios.
+8. "[Data-Intensive Text Processing with MapReduce](https://link.springer.com/book/10.1007/978-3-031-02136-7)" de Jimmy Lin e Chris Dyer - Oferece uma visão profunda do processamento de grandes conjuntos de dados usando MapReduce.
+9. "[Ethics of Big Data: Balancing Risk and Innovation](https://dl.acm.org/doi/book/10.5555/2432198)" de Kord Davis - Fornece uma perspectiva crítica sobre os aspectos éticos no manejo de Big Data.
+10. "[Building the Data Warehouse.](https://archive.org/details/2005BuildingTheDataWarehouse4thEditionWilliamH.Inmon)" Inmon, W. H., Wiley.
+11. "[Pentaho, Hadoop, and Data Lakes](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)". Pentaho Blog. Dixon, J. (2010). 
+12. Chen, C. L. P., & Zhang, C.-Y. (2014). "D[ata-intensive applications, challenges, techniques and technologies: A survey on Big Data](https://www.sciencedirect.com/science/article/pii/S0020025514000346)." Information Sciences.
+13. Vassiliadis, P. (2009). "[A survey of extract-transform-load technology](https://www.igi-global.com/chapter/survey-extract-transform-load-technology/53076)." International Journal of Data Warehousing and Mining.
+14. Codd, E. F. (1993). "[Providing OLAP (On-line Analytical Processing) to User-Analysts: An IT Mandate](https://www.estgv.ipv.pt/PaginasPessoais/jloureiro/ESI_AID2007_2008/fichas/codd.pdf)." Hyperion Solutions Corporation.
+15. Ravat, F., Zhao, Y. (2019). [Data Lakes: Trends and Perspectives](https://doi.org/10.1007/978-3-030-27615-7_23). In: Hartmann, S., Küng, J., Chakravarthy, S., Anderst-Kotsis, G., Tjoa, A., Khalil, I. (eds) Database and Expert Systems Applications. DEXA 2019. Lecture Notes in Computer Science(), vol 11706. Springer, Cham.
+16. Stein, B., & Morrison, A. (2014). "[The enterprise data lake: Better integration and deeper analytics](https://1library.net/document/ynpp5kpz-enterprise-data-lake-better-integration-deeper-analytics.html)." PwC Technology Forecast.
+17. Beyer, M. A., & Laney, D. (2012). "[The Importance of 'Big Data': A Definition](https://www.gartner.com/en/documents/2057415)." Gartner.
+18. Davenport, T. H., & Patil, D. J. (2012). "[Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)." Harvard Business Review.
+19. Madden, S. (2012). "[From Databases to Big Data](https://www.sciencedirect.com/science/article/abs/pii/B9780128003442000112)." IEEE Internet Computing.
+20. Borkar, V., Carey, M. J., & Li, C. (2012). "[Big Data Platforms: What's Next?](https://dl.acm.org/doi/10.1145/2331042.2331057)" ACM Queue.
+21. Russom, P. (2011). "Big Data Analytics." [TDWI Best Practices Report, Fourth Quarter](https://tdwi.org/research/2011/09/best-practices-report-q4-big-data-analytics.aspx).
+22. Reinsel, D., Gantz, J., & Rydning, J. (2020). "[The Digitization of the World from Edge to Core](https://www.seagate.com/files/www-content/our-story/trends/files/idc-seagate-dataage-whitepaper.pdf)." IDC.
+23. Sadalage, P. J., & Fowler, M. (2012). "[NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com.br/Nosql-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)." Addison-Wesley.
+24. Gentry, C. (2009). "[A Fully Homomorphic Encryption Scheme](https://crypto.stanford.edu/craig/craig-thesis.pdf)." PhD Thesis, Stanford University.
+25. Dwork, C. (2011). "[Differential Privacy](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-5906-5_752)." Encyclopedia of Cryptography and Security.
+26. LeCun, Y., Bengio, Y., & Hinton, G. (2015). "[Deep learning](https://www.nature.com/articles/nature14539)." Nature.
+27. Kreps, J. (2014). "[Apache Kafka: A Distributed Streaming Platform](https://kafka.apache.org/)." Apache Software Foundation.
+28. Mittelstadt, B. et al. (2016). "[The Ethics of Algorithms: Mapping the Debate](https://journals.sagepub.com/doi/full/10.1177/2053951716679679)." Big Data & Society.
+29. Pautasso, C. (2014). [RESTful Web Services: Principles, Patterns, Emerging Technologies](https://doi.org/10.1007/978-1-4614-7518-7_2). In: Bouguettaya, A., Sheng, Q., Daniel, F. (eds) Web Services Foundations. Springer, New York, NY.
+30. European Parliament (2016). "[General Data Protection Regulation (GDPR).](https://gdpr-info.eu/)" Official Journal of the European Union.
+31. Barocas, S. & Selbst, A. D. (2016). "[Big Data's Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899)." California Law Review.
+32. Edwards, L. & Veale, M. (2017). "[Slave to the Algorithm? Why a 'Right to an Explanation' is Probably Not the Remedy You are Looking For](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972855)." Duke Law & Technology Review.
+33. European Union (2018). "[General Data Protection Regulation (GDPR): Guidelines, Recommendations and Best Practices](https://edpb.europa.eu/our-work-tools/general-guidance/guidelines-recommendations-best-practices_en)." Official Journal of the European Union.
+34. Chang, F. et al. (2016). "[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/)." ACM Transactions on Computer Systems.
+35. Zaharia, M. et al. (2010). "[Spark: Cluster Computing with Working Sets](https://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf)." HotCloud.
+36. Jordan, M.I. & Mitchell, T.M. (2015). "[Machine Learning: Trends, Perspectives, and Prospects](https://www.science.org/doi/10.1126/science.aaa8415)." Science.
+37. Halevy, A. et al. (2016). "[Principles of Dataspace Systems](https://dl.acm.org/doi/10.1145/1142351.1142352)." ACM PODS.
