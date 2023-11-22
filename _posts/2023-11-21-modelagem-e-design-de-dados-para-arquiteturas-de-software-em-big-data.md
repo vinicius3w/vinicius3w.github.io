@@ -327,7 +327,7 @@ Estes exigem alta manutenção e serão o foco deste curso. A implementação ma
 
 **Arquitetura Lambda**
 
-![Arquitetura Lambda](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wbgeTFO8VR-JHGcF-L0dgg.png "Lambda Architecture")
+![Arquitetura Lambda](https://miro.medium.com/v2/resize:fit:786/format:webp/1*Osmm1PT37wywMMIYJgQiCw.png "Lambda Architecture")
 
 A arquitetura do Lambda é formalmente definida como uma abordagem de propósito geral para implementar uma função arbitrária em um conjunto de dados arbitrário e fazer com que a função retorne seus resultados com baixa latência.
 
@@ -411,6 +411,7 @@ Principais Áreas de Evolução:
 - **Adaptação às Necessidades em Tempo Real**: Com a aceleração da geração de dados, as arquiteturas de big data estão evoluindo para processar e analisar dados em tempo real, permitindo respostas mais rápidas e decisões mais informadas.
 
 Desafios Contemporâneos:
+
 - **Gerenciamento de Dados em Escala**: À medida que o volume de dados continua crescendo, o desafio de gerenciar e processar esses dados de maneira eficiente se torna mais premente.
 - **Segurança e Privacidade**: A segurança dos dados e as preocupações com a privacidade estão no centro das discussões, exigindo soluções inovadoras para proteger informações sensíveis e cumprir com regulamentações rigorosas.
 
