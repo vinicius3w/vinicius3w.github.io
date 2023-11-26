@@ -163,8 +163,8 @@ Na arquitetura de microserviços, os componentes se comunicam através de micros
 
 Para saber mais sobre a EDA, você pode consultar os seguintes recursos:
 
-- [O que é arquitetura orientada a eventos? - Red Hat](https://www.redhat.com/pt-br/topics/integration/what-is-event-driven-architecture), que explica os conceitos básicos e os benefícios da EDA.
-- [Java com Spring Boot, Kafka e Microserviços | Udemy](https://www.udemy.com/course/java-spring-boot-kafka-microservicos/), que é um curso online que ensina como implementar microserviços com comunicação híbrida (via eventos e via rest) usando Java, Spring Boot e Kafka.
+- [O que é arquitetura orientada a eventos? -- Red Hat](https://www.redhat.com/pt-br/topics/integration/what-is-event-driven-architecture), que explica os conceitos básicos e os benefícios da EDA.
+- [Java com Spring Boot, Kafka e Microserviços -- Udemy](https://www.udemy.com/course/java-spring-boot-kafka-microservicos/), que é um curso online que ensina como implementar microserviços com comunicação híbrida (via eventos e via rest) usando Java, Spring Boot e Kafka.
 - [Event Driven: o que é como ela pode ajudar a sua empresa?](https://access.run/2019/08/event-driven-o-que-e-com-ela-pode-ajudar-a-sua-empresa/), que é um artigo que mostra como a EDA pode aumentar a agilidade, a eficiência e a inovação dos negócios.
 
 Os desafios de implementar a EDA são variados e dependem do contexto, do domínio e do objetivo da aplicação. No entanto, alguns dos desafios mais comuns são:
