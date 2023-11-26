@@ -387,15 +387,11 @@ A Integração Contínua (CI) e a Entrega Contínua (CD) são práticas centrais
 
 2. **Entrega Contínua**: CD leva a CI um passo adiante. Após a integração, o código é automaticamente implantado em um ambiente de teste ou produção. Isso assegura que o software possa ser lançado a qualquer momento com confiança. Em ambientes de microservices, a CD permite atualizações frequentes e independentes para diferentes serviços, o que é crucial para a manutenção de sistemas dinâmicos e em constante evolução.
 
-#### Desafios e Estratégias em CI/CD para Microservices
+Idealmente, c**ada microservice deve ter seu próprio pipeline de CI/CD**. Isso proporciona autonomia às equipes e permite atualizações mais rápidas e focadas.
 
-1. **Pipeline de CI/CD para Cada Serviço**: Idealmente, cada microservice deve ter seu próprio pipeline de CI/CD. Isso proporciona autonomia às equipes e permite atualizações mais rápidas e focadas.
+Em um ambiente de microservices, a complexidade dos testes aumenta. Implementar uma abrangente estratégia de **testes automatizados**, incluindo testes unitários, de integração, e de ponta a ponta, é essencial para garantir a qualidade.
 
-2. **Testes Automatizados**: Em um ambiente de microservices, a complexidade dos testes aumenta. Implementar uma abrangente estratégia de testes automatizados, incluindo testes unitários, de integração, e de ponta a ponta, é essencial para garantir a qualidade.
-
-3. **Orquestração de Implantação**: Ferramentas como Kubernetes e Docker Swarm são cruciais para a orquestração eficiente das implantações, gerenciando a complexidade de lançar, escalar e atualizar serviços de forma independente.
-
-#### Conclusão
+E ferramentas como **Kubernetes e Docker Swar**m são cruciais para a orquestração eficiente das implantações, gerenciando a complexidade de lançar, escalar e atualizar serviços de forma independente.
 
 CI/CD é um componente integral em ambientes de microservices, promovendo agilidade, eficiência e qualidade contínua. A implementação eficaz de CI/CD em microservices não apenas acelera o desenvolvimento e a implantação, mas também fortalece a resiliência e adaptabilidade do sistema.
 
