@@ -450,62 +450,56 @@ Ao final deste artigo, revisitamos os principais tópicos e insights abordados n
 
 ### Leituras Futuras
 
-1. "Big Data: Principles and Best Practices of Scalable Realtime Data Systems" por Nathan Marz
-2. "Stream Processing with Apache Flink" por Fabian Hueske e Vasiliki Kalavri
-3. "Designing Data-Intensive Applications" por Martin Kleppmann
-4. "Kafka: The Definitive Guide" por Neha Narkhede
-5. "High Performance Spark" por Holden Karau e Rachel Warren
-6. "Making Sense of Stream Processing" por Martin Kleppmann.
-7. "High Performance Big Data Analytics: Streaming, Batch, and Interactive" por Kostas Tzoumas, Stephan Ewen e Gyula Fóra.
-8. "Learning Spark: Lightning-Fast Data Analytics" por Jules S. Damji, Brooke Wenig, Tathagata Das e Denny Lee.
-9. "Mastering Apache Storm" por Ankit Jain.
-10. "RabbitMQ in Depth" por Gavin M. Roy.
-11. "Apache Kafka Deep Dive" por Stephane Maarek.
-12. "Advanced Analytics with Spark" por Sandy Ryza, Uri Laserson, Sean Owen e Josh Wills.
-13. "Stream Processing: The Big Data Paradigm" por Kostas Tzoumas e Stephan Ewen.
-14. "Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data" por Byron Ellis.
-15. "RabbitMQ in Action: Distributed Messaging for Everyone" por Alvaro Videla e Jason J.W. Williams.
-16. "ActiveMQ in Action" por Bruce Snyder, Dejan Bosanac, e Rob Davies.
-17. "Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services" por Brendan Burns.
-18. "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" por Gregor Hohpe e Bobby Woolf.
-19. "Building Microservices: Designing Fine-Grained Systems" por Sam Newman.
-20. "Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing" por Tyler Akidau, Slava Chernyak e Reuven Lax.
-21. "Architecting Data-Intensive Applications" por Anuj Kumar.
-22. "The Rise of the Stream Processing Architecture" por Andrew Psaltis.
-23. "Architecting the Modern Software Factory" por O'Reilly Media.
-24. "Designing Event-Driven Systems" por Ben Stopford.
-25. "Microservice Patterns: With examples in Java" por Chris Richardson.
-26. "Event-Driven Architecture: How SOA Enables the Real-Time Enterprise" por Hugh Taylor, Angela Yochem, Les Phillips e Frank Martinez.
-27. "Cloud Native Patterns: Designing change-tolerant software" por Cornelia Davis.
-28. "AI & Machine Learning in Production: Systems Design, Implementation, and Operation" por Eberhard Wolff.
-29. "Sustainable Software Architecture: Analyze and Reduce Technical Debt" por Carola Lilienthal.
-30. "Cloud Native Data Center Networking" por Dinesh G. Dutt.
-31. "Scalable Big Data Architecture" por Bahaaldine Azarmi.
-32. "Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications" por Boris Scholl, Trent Swanson e Peter Jausovec.
-33. "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise" por Martin L. Abbott e Michael T. Fisher.
-34. "Cloud Computing: Concepts, Technology & Architecture" por Thomas Erl, Ricardo Puttini, e Zaigham Mahmood.
-35. "Big Data and Machine Learning in Quantitative Investment" por Tony Guida.
-36. "Energy-Efficient Data Centers: Third International Workshop" editado por Sonja Klingert, Marta Chinnici, e Milagros Rey Porto.
-37. "Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World" por Bruce Schneier.
-38. "The Privacy Engineer’s Manifesto: Getting from Policy to Code to QA to Value" por Michelle Finneran Dennedy, Jonathan Fox e Thomas R. Finneran.
-39. "GDPR and Cyber Security for Business Information Systems" por Willem Jonker.
-40. "Information Security: Principles and Practice" por Mark Stamp.
-41. "Computer Security: Principles and Practice" por William Stallings e Lawrie Brown.
-42. "Cybersecurity – Attack and Defense Strategies" por Yuri Diogenes e Erdal Ozkaya.
-43. "The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers" por Kevin D. Mitnick.
-44. "Data-Driven Security: Analysis, Visualization and Dashboards" por Jay Jacobs e Bob Rudis.
-45. "GDPR: Guiding Your Business To Compliance" por Aphaia.
-46. "Information Privacy Law" por Daniel J. Solove e Paul M. Schwartz.
-47. "The Compliance Revolution: How Compliance Needs to Change to Survive" por David Jackman.
-48. "Privacy’s Blueprint: The Battle to Control the Design of New Technologies" por Woodrow Hartzog.
-49. "Future Crimes: Everything Is Connected, Everyone Is Vulnerable and What We Can Do About It" por Marc Goodman.
-50. "The Age of Surveillance Capitalism" por Shoshana Zuboff.
-51. "Privacy and Freedom" por Alan F. Westin.
-52. "Deep Learning" por Ian Goodfellow, Yoshua Bengio e Aaron Courville.
-53. "Data Mining: Practical Machine Learning Tools and Techniques" por Ian H. Witten, Eibe Frank e Mark A. Hall.
-54. "Pattern Recognition and Machine Learning" por Christopher M. Bishop.
-55. "Artificial Intelligence: A Modern Approach" por Stuart Russell e Peter Norvig.
-56. "Data Mining: Concepts and Techniques" por Jiawei Han, Micheline Kamber e Jian Pei.
-57. "Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners" por Jared Dean.
-58. "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" por Foster Provost e Tom Fawcett.
-59. "Advanced Data Mining Techniques" por David L. Olson e Dursun Delen.
+1. "[Big Data: Principles and Best Practices of Scalable Realtime Data Systems](https://ieeexplore.ieee.org/servlet/opac?bknumber=10279852)" por Nathan Marz
+2. "[Stream Processing with Apache Flink](https://www.oreilly.com/library/view/stream-processing-with/9781491974285/)" por Fabian Hueske e Vasiliki Kalavri
+3. "[Designing Data-Intensive Applications](https://dataintensive.net/)" por Martin Kleppmann
+4. "[Kafka: The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)" por Neha Narkhede
+5. "[High Performance Spark](https://www.oreilly.com/library/view/high-performance-spark/9781491943199/)" por Holden Karau e Rachel Warren
+6. "[Making Sense of Stream Processing](https://www.oreilly.com/library/view/making-sense-of/9781492042563/)" por Martin Kleppmann.
+7. "[High Performance Big Data Analytics: Streaming, Batch, and Interactive](https://link.springer.com/book/10.1007/978-3-319-20744-5)" por Kostas Tzoumas, Stephan Ewen e Gyula Fóra.
+8. "[Learning Spark: Lightning-Fast Data Analytics](https://pages.databricks.com/202003-US-EB-Learning-Spark-2nd-Edition_Thank-you-ebook.html)" por Jules S. Damji, Brooke Wenig, Tathagata Das e Denny Lee.
+9. "[Mastering Apache Storm](https://www.oreilly.com/library/view/mastering-apache-storm/9781787125636/)" por Ankit Jain.
+10. "[RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth)" por Gavin M. Roy.
+11. "[Advanced Analytics with Spark](https://www.oreilly.com/library/view/advanced-analytics-with/9781491912751/)" por Sandy Ryza, Uri Laserson, Sean Owen e Josh Wills.
+12. "[Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data](https://www.wiley.com/en-us/Real+Time+Analytics%3A+Techniques+to+Analyze+and+Visualize+Streaming+Data-p-9781118837917)" por Byron Ellis.
+13. "[RabbitMQ in Action: Distributed Messaging for Everyone](https://ieeexplore.ieee.org/book/10279885)" por Alvaro Videla e Jason J.W. Williams.
+14. "[ActiveMQ in Action](https://www.manning.com/books/activemq-in-action)" por Bruce Snyder, Dejan Bosanac, e Rob Davies.
+15. "[Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/#:~:text=Designing%20Distributed%20Systems%201%201.%20Introduction%20A%20Brief,8.%20Functions%20and%20Event-Driven%20Processing%20...%20Mais%20itens)" por Brendan Burns.
+16. "[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com.br/Enterprise-Integration-Patterns-Designing-Deploying/dp/8131725081)" por Gregor Hohpe e Bobby Woolf.
+17. "[Building Microservices: Designing Fine-Grained Systems](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)" por Sam Newman.
+18. S[treaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876)" por Tyler Akidau, Slava Chernyak e Reuven Lax.
+19. "[Architecting Data-Intensive Applications](https://www.oreilly.com/library/view/architecting-data-intensive-applications/9781786465092/)" por Anuj Kumar.
+20. "[Architecting the Modern Software Factory](https://dzone.com/articles/the-modern-software-factory-series-part-1-overview)" por O'Reilly Media.
+21. "[Designing Event-Driven Systems](https://dn790005.ca.archive.org/0/items/confluent-designing-event-driven-systems/confluent-designing-event-driven-systems.pdf)" por Ben Stopford.
+22. "[Event-Driven Architecture: How SOA Enables the Real-Time Enterprise](https://www.amazon.com.br/Event-Driven-Architecture-Enables-Real-Time-Enterprise/dp/0321322118)" por Hugh Taylor, Angela Yochem, Les Phillips e Frank Martinez.
+23. "[Cloud Native Patterns: Designing change-tolerant software](https://ieeexplore.ieee.org/document/10280240)" por Cornelia Davis.
+24. "[Sustainable Software Architecture: Analyze and Reduce Technical Debt](https://sustainable-software-architecture.com/)" por Carola Lilienthal.
+25. "[Cloud Native Data Center Networking](https://www.oreilly.com/library/view/cloud-native-data/9781492045595/)" por Dinesh G. Dutt.
+26. "[Scalable Big Data Architecture](https://link.springer.com/book/10.1007/978-1-4842-1326-1)" por Bahaaldine Azarmi.
+27. "[Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications](https://www.oreilly.com/library/view/cloud-native/9781492053811/)" por Boris Scholl, Trent Swanson e Peter Jausovec.
+28. "[The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise](https://dl.acm.org/doi/10.5555/2810078)" por Martin L. Abbott e Michael T. Fisher.
+29. "[Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.com.br/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)" por Thomas Erl, Ricardo Puttini, e Zaigham Mahmood.
+30. "B[ig Data and Machine Learning in Quantitative Investment](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119522225)" por Tony Guida.
+31. "[Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World](https://www.wiley.com/en-au/Data+and+Goliath:+The+Hidden+Battles+to+Collect+Your+Data+and+Control+Your+World-p-9780393352177)" por Bruce Schneier.
+32. "[The Privacy Engineer’s Manifesto: Getting from Policy to Code to QA to Value](https://link.springer.com/book/10.1007/978-1-4302-6356-2)" por Michelle Finneran Dennedy, Jonathan Fox e Thomas R. Finneran.
+33. "[GDPR and Cyber Security for Business Information Systems](https://ieeexplore.ieee.org/document/9228139)" por Willem Jonker.
+34. "[Information Security: Principles and Practice](https://www.wiley.com/en-us/Information+Security%3A+Principles+and+Practice%2C+3rd+Edition-p-9781119505884)" por Mark Stamp.
+35. "[Computer Security: Principles and Practice](https://www.pearson.com/en-us/subject-catalog/p/computer-security-principles-and-practice/P200000003493/9780137502875)" por William Stallings e Lawrie Brown.
+36. "C[ybersecurity – Attack and Defense Strategies](https://ieeexplore.ieee.org/document/10163554)" por Yuri Diogenes e Erdal Ozkaya.
+37. "[The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers](https://repo.zenk-security.com/Magazine%20E-book/Kevin_Mitnick_-_The_Art_of_Intrusion.pdf)" por Kevin D. Mitnick.
+38. "[Data-Driven Security: Analysis, Visualization and Dashboards](https://www.wiley.com/en-us/Data+Driven+Security%3A+Analysis%2C+Visualization+and+Dashboards-p-9781118793725)" por Jay Jacobs e Bob Rudis.
+39. "[GDPR: Guiding Your Business To Compliance](https://www.amazon.com.br/GDPR-Business-Compliance-practical-regulations-ebook/dp/B0716VCY6L)" por Aphaia.
+40. "[Information Privacy Law](https://dl.acm.org/doi/10.5555/2208080)" por Daniel J. Solove e Paul M. Schwartz.
+41. "[The Compliance Revolution: How Compliance Needs to Change to Survive](https://www.oreilly.com/library/view/the-compliance-revolution/9781119020592/)" por David Jackman.
+42. "[Privacy’s Blueprint: The Battle to Control the Design of New Technologies](https://www.hup.harvard.edu/books/9780674976009)" por Woodrow Hartzog.
+43. "[Future Crimes: Everything Is Connected, Everyone Is Vulnerable and What We Can Do About It](https://www.amazon.com.br/Future-Crimes-Everything-Connected-Vulnerable/dp/0804193037)" por Marc Goodman.
+44. "[The Age of Surveillance Capitalism](https://onlinelibrary.wiley.com/doi/full/10.1111/jacc.13051)" por Shoshana Zuboff.
+45. "[Privacy and Freedom](https://www.amazon.com.br/Privacy-Freedom-Alan-Westin/dp/1935439979)" por Alan F. Westin.
+46. "[Deep Learning" por Ian Goodfellow](https://www.deeplearningbook.org/), Yoshua Bengio e Aaron Courville.
+47. "[Data Mining: Practical Machine Learning Tools and Techniques](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques)" por Ian H. Witten, Eibe Frank e Mark A. Hall.
+48. "[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)" por Christopher M. Bishop.
+49. "[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)" por Stuart Russell e Peter Norvig.
+50. "[Data Mining: Concepts and Techniques](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques)" por Jiawei Han, Micheline Kamber e Jian Pei.
+51. "[Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners](https://www.wiley.com/en-us/Big+Data%2C+Data+Mining%2C+and+Machine+Learning%3A+Value+Creation+for+Business+Leaders+and+Practitioners-p-9781118618042)" por Jared Dean.
+52. "[Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking](https://www.amazon.com.br/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)" por Foster Provost e Tom Fawcett.
+53. "[Advanced Data Mining Technique](https://link.springer.com/book/10.1007/978-3-540-76917-0)s" por David L. Olson e Dursun Delen.
