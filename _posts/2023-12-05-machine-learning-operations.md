@@ -38,9 +38,9 @@ Neste artigo vamos tentar explorar todos os recursos que ajudam a compreender n�
 
 O [ciclo de vida de um modelo de Machine Learning](https://ml-ops.org/content/crisp-ml) é um processo **complexo e multifacetado**, essencial para entender no contexto de MLOps. Esta seção busca desvendar as etapas - em um alto nívl de abstração - do ciclo de vida de um [modelo de Machine Learning](https://blog.nvidia.com.br/2021/09/28/o-que-e-um-modelo-de-machine-learning/), enfatizando a importância de cada fase no contexto das operações de Machine Learning. As subseções detalham aspectos específicos, incluindo coleta de dados, treinamento, avaliação, implantação e monitoramento, cada uma crucial para o sucesso de um projeto de Machine Learning.
 
-![Machine Learning Development Life Cycle Process according to CRISP-ML(Q).](https://ml-ops.org/img/crisp-ml-process.jpg)
+![Machine Learning Development Life Cycle Process according to CRISP-ML(Q).](https://github.com/vinicius3w/vinicius3w.github.io/blob/master/images/2023-12-05-machine-learning-operations/crisp-ml-process.jpg?raw=true)
 
-Figure 1: Machine Learning Development Life Cycle Process.
+Figura 1: Machine Learning Development Life Cycle Process.
 
 Para quem quiser um olhar mais profundo, indico o artigo [CRISP-ML(Q). The ML Lifecycle Process](https://ml-ops.org/content/crisp-ml)).
 
