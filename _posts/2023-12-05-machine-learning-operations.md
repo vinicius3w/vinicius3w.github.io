@@ -10,7 +10,11 @@ categories:
 tags:
   - Machine Learning Operations
   - MLOps
+  - Software Architecture
+  - Scalable Systems
   - Data Processing
+  - Real-Time Processing
+  - Data Analytics
   - Real-Time Analytics
   - Efficient Architectures
   - Data Scalability
@@ -19,6 +23,7 @@ tags:
   - Data Security
   - AI Integration
   - Big Data
+  - Operational Efficiency
   - Technology Innovation
   - Data-Driven
   - Data Platform
