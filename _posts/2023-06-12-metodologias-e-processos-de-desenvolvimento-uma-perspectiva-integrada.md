@@ -122,7 +122,7 @@ Para uma análise mais aprofundada dos desafios e vantagens do TDD e BDD, recome
 
 Os estudos de caso ilustram que, embora as metodologias de desenvolvimento possam oferecer melhorias significativas na qualidade e eficiência, elas não estão isentas de desafios. A escolha entre TDD, BDD, CI/CD e DevOps dependerá das necessidades específicas da organização, da cultura da equipe e dos objetivos do projeto. A chave para o sucesso é a adaptação contínua e a disposição para enfrentar os desafios de frente, aprendendo e evoluindo com cada projeto. Ao estudar esses casos reais e comparar diferentes abordagens, os alunos podem ganhar uma compreensão mais profunda das complexidades envolvidas na engenharia de software moderna e estar melhor preparados para aplicar essas lições em suas próprias carreiras.
 
-## Debates Éticos e Sociais: A Responsabilidade na Engenharia de Software*
+## Debates Éticos e Sociais: A Responsabilidade na Engenharia de Softw
 
 A engenharia de software, como qualquer outra disciplina que molda significativamente o mundo em que vivemos, está sujeita a uma série de debates éticos e sociais. As metodologias e processos de desenvolvimento não são apenas questões técnicas; elas têm implicações que vão além do código e afetam a sociedade em vários níveis. Esta seção explora essas implicações, discutindo os fundamentos éticos e sociais e como eles se entrelaçam com os desafios, riscos e desvantagens das práticas de desenvolvimento de software.
 
