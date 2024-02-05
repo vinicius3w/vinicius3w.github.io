@@ -290,10 +290,6 @@ Para aprofundar seus conhecimentos sobre metodologias e processos de desenvolvim
 
 ## Conclusão: O Caminho para o Desenvolvimento de Software Eficiente
 
-Uma possível sugestão para a seção de Conclusão e Considerações Finais deste artigo é:
-
-Conclusão e Considerações Finais
-
 Neste artigo, buscamos apresentar as principais características, vantagens, desafios e exemplos das metodologias ágeis de desenvolvimento de software, bem como dos modelos híbridos que combinam elementos das abordagens ágil e tradicional. Para isso, utilizamos como base a revisão bibliográfica de artigos científicos e livros sobre o tema, além de ferramentas de busca na web.
 
 A partir da análise dos dados coletados, pudemos concluir que as metodologias ágeis são abordagens que visam aumentar a eficiência, a qualidade e a satisfação dos clientes e das equipes no desenvolvimento de software. Elas se baseiam em valores e princípios que enfatizam a entrega de valor, a colaboração, a adaptação e a melhoria contínua. No entanto, existem diversas metodologias ágeis, cada uma com suas características, vantagens e desafios. Portanto, é preciso escolher a melhor metodologia ágil para cada projeto, considerando as características e necessidades do produto, do cliente, da equipe e da organização.
