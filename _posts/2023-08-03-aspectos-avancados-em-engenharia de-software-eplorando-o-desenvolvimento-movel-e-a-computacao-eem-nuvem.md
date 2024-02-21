@@ -82,30 +82,18 @@ As vantagens e desvantagens do uso de frameworks cross-platform versus ferrament
   - Eles permitem que os desenvolvedores reutilizem a mesma base de código para várias plataformas, o que pode reduzir o tempo, o custo e a complexidade do desenvolvimento.
   - Eles permitem que os desenvolvedores aproveitem as habilidades e ferramentas de desenvolvimento da Web amplamente disponíveis e familiares a muitos desenvolvedores.
   - Eles se beneficiam de recursos e serviços da web, como atualizações dinâmicas, suporte offline, otimização de SEO, etc.
-- Eles permitem que os desenvolvedores reutilizem a mesma base de código para várias plataformas, o que pode reduzir o tempo, o custo e a complexidade do desenvolvimento.
-- Eles permitem que os desenvolvedores aproveitem as habilidades e ferramentas de desenvolvimento da Web amplamente disponíveis e familiares a muitos desenvolvedores.
-- Eles se beneficiam de recursos e serviços da web, como atualizações dinâmicas, suporte offline, otimização de SEO, etc.
 - **Desvantagens dos frameworks multiplataforma**:
   - Eles podem ter desempenho e experiência do usuário inferiores aos aplicativos nativos, pois dependem de uma camada intermediária para se comunicar com o dispositivo.
   - Eles podem ter acesso limitado a alguns recursos do dispositivo ou recursos específicos da plataforma que não são suportados pelas tecnologias da Web ou pelo contêiner nativo.
   - Eles podem enfrentar problemas de complexidade e compatibilidade de teste em diferentes plataformas, dispositivos, navegadores e versões.
-- Eles podem ter desempenho e experiência do usuário inferiores aos aplicativos nativos, pois dependem de uma camada intermediária para se comunicar com o dispositivo.
-- Eles podem ter acesso limitado a alguns recursos do dispositivo ou recursos específicos da plataforma que não são suportados pelas tecnologias da Web ou pelo contêiner nativo.
-- Eles podem enfrentar problemas de complexidade e compatibilidade de teste em diferentes plataformas, dispositivos, navegadores e versões.
 - **Vantagens das ferramentas de desenvolvimento nativas**:
   - Eles permitem que os desenvolvedores acessem todos os recursos do dispositivo, como sensores, câmera, GPS, contatos etc.
   - Eles permitem que os desenvolvedores forneçam o melhor desempenho e experiência do usuário, pois são otimizados para a plataforma e seguem as diretrizes de interface do usuário específicas da plataforma.
   - Eles aproveitam os recursos e serviços específicos da plataforma, como notificações push, distribuição na loja de aplicativos, compras no aplicativo etc.
-- Eles permitem que os desenvolvedores acessem todos os recursos do dispositivo, como sensores, câmera, GPS, contatos etc.
-- Eles permitem que os desenvolvedores forneçam o melhor desempenho e experiência do usuário, pois são otimizados para a plataforma e seguem as diretrizes de interface do usuário específicas da plataforma.
-- Eles aproveitam os recursos e serviços específicos da plataforma, como notificações push, distribuição na loja de aplicativos, compras no aplicativo etc.
 - **Desvantagens das ferramentas de desenvolvimento nativas**:
   - Eles exigem desenvolvimento e manutenção separados para cada plataforma, o que pode aumentar o tempo, o custo e a complexidade do desenvolvimento.
   - Eles dependem das atualizações da plataforma e problemas de compatibilidade, que podem afetar a funcionalidade e a estabilidade do aplicativo.
   - Eles devem cumprir as regras e restrições específicas da plataforma para aprovação e distribuição na loja de aplicativos.
-- Eles exigem desenvolvimento e manutenção separados para cada plataforma, o que pode aumentar o tempo, o custo e a complexidade do desenvolvimento.
-- Eles dependem das atualizações da plataforma e problemas de compatibilidade, que podem afetar a funcionalidade e a estabilidade do aplicativo.
-- Eles devem cumprir as regras e restrições específicas da plataforma para aprovação e distribuição na loja de aplicativos.
 
 ### Melhores práticas e padrões para projetar UI e UX para aplicativos móveis
 
