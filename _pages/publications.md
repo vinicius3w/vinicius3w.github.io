@@ -29,13 +29,13 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ### Periódicos / Journals
 
-1. Neves, F., Souza, R., Sousa, J., Bonfim, M., & **Garcia, V.** (2023). **Data privacy in the Internet of Things based on anonymization: A review**. [Journal of Computer Security](https://content.iospress.com/journals/journal-of-computer-security), Preprint(Preprint), 1–31. <https://doi.org/10.3233/JCS-210089>. To be published
+1. Neves, F., Souza, R., Sousa, J., Bonfim, M., & **Garcia, V.** (2023). **Data privacy in the Internet of Things based on anonymization: A review**. [Journal of Computer Security](https://content.iospress.com/journals/journal-of-computer-security), 31, 3 (2023), 261--291. <https://doi.org/10.3233/JCS-210089>.
 
 ## [2022](#2022)
 
 ### Periódicos / Journals
 
-1. GOMES DE BARROS, JULIO CESAR ; REVOREDO DA SILVA, CARLO MARCELO ; CANDEIA TEIXEIRA, LUCAS ; TORRES FERNANDES, BRUNO JOSÉ ; LORENZATO DE OLIVEIRA, JOAO FAUSTO ; LUZEIRO FEITOSA, EDUARDO ; PINHEIRO DOS SANTOS, WELLINGTON ; FERRAZ ARCOVERDE, HENRIQUE ; **CARDOSO GARCIA, VINICIUS**. [**Piracema: a Phishing snapshot database for building dataset features**](https://doi.org/10.1038/s41598-022-19442-8). [Scientific Reports](https://www.nature.com/srep/), v. 12, p. 15149, 2022.DOI: <https://doi.org/10.1038/s41598-022-19442-8>.
+1. GOMES DE BARROS, JULIO CESAR ; REVOREDO DA SILVA, CARLO MARCELO ; CANDEIA TEIXEIRA, LUCAS ; TORRES FERNANDES, BRUNO JOSÉ ; LORENZATO DE OLIVEIRA, JOAO FAUSTO ; LUZEIRO FEITOSA, EDUARDO ; PINHEIRO DOS SANTOS, WELLINGTON ; FERRAZ ARCOVERDE, HENRIQUE ; **CARDOSO GARCIA, VINICIUS**. [**Piracema: a Phishing snapshot database for building dataset features**](https://doi.org/10.1038/s41598-022-19442-8). [Scientific Reports](https://www.nature.com/srep/), v. 12, p. 15149, 2022. DOI: <https://doi.org/10.1038/s41598-022-19442-8>. 
 
 ### Artigos em Conferências / Conference papers
 
