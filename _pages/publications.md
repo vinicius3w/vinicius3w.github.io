@@ -24,6 +24,9 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [ReasearchGate](https://www.researchgate.net/profile/Vinicius-Garcia){:target="\_blank"}
 - [Scopus Sources](https://www.scopus.com/sources.uri){:target="\_blank"}
 
+## [2024](#2024)
+
+1. Freitas, E., Fonseca, F., **Garcia, V.**, Pontual Falcão, T., Marques, E., Gašević, D., & Ferreira Mello, R. (2024). MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics. [Journal of Learning Analytics](https://learning-analytics.info/index.php/JLA/issue/view/503), 11(1), 67-86. <https://doi.org/10.18608/jla.2024.8099>
 
 ## [2023](#2023)
 
