@@ -9,19 +9,19 @@ categories:
   - Artificial-Intelligence
 tags:
   - Artificial Intelligence
-  - Ethics in AI
+  - Ethics
   - Machine Learning
   - Algorithmic Bias
   - Data Privacy
   - Digital Transformation
   - AI Challenges
   - AI Strategy
-  - Transparency in AI
+  - Transparency
   - Algorithmic Accountability
-  - Social Impact of AI
-  - Economic Impact of AI
-  - Environmental Impact of AI
-  - Human Rights in AI
+  - Social Impact
+  - Economic Impact
+  - Environmental Impact
+  - Human Rights
   - AI Regulation
   - AI Governance
 ---
