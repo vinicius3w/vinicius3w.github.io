@@ -26,7 +26,9 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ## [2024](#2024)
 
-1. Freitas, E., Fonseca, F., **Garcia, V.**, Pontual Falcão, T., Marques, E., Gašević, D., & Ferreira Mello, R. (2024). MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics. [Journal of Learning Analytics](https://learning-analytics.info/index.php/JLA/issue/view/503), 11(1), 67-86. <https://doi.org/10.18608/jla.2024.8099>
+1. do Nascimento, Clovis Holanda and **Garcia, Vinicius Cardoso** and Araújo, Ricardo de Andrade, "[**A Word Sense Disambiguation Method Applied to Natural Language Processing for the Portuguese Language**](https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3396518)" in [IEEE Open Journal of the Computer Society](https://www.computer.org/csdl/journal/oj), vol. 5, no. 01, pp. 268--277, ISSN 2644-1268, 2024. doi: [10.1109/OJCS.2024.3396518](https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3396518)
+1. F. Neves, R. Souza, W. Lima, W. Raul, M. Bonfim, and **V. Garcia**. [**Smart Anonymity: a mechanism for recommending data anonymization algorithms based on data profiles for IoT environments**](https://doi.org/10.1007/s11227-024-06209-3). [Journal of Supercomputing (2024)](https://link.springer.com/journal/11227), pp. 1--45, ISSN 0920-8542, Springer. <https://doi.org/10.1007/s11227-024-06209-3>
+1. Freitas, E., Fonseca, F., **Garcia, V.**, Pontual Falcão, T., Marques, E., Gašević, D., & Ferreira Mello, R. (2024). **MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics**. [Journal of Learning Analytics](https://learning-analytics.info/index.php/JLA/issue/view/503), 11(1), 67--86, ISSN 1929-7750, Society for Learning Analytics Research (SOLAR). <https://doi.org/10.18608/jla.2024.8099>
 
 ## [2023](#2023)
 
