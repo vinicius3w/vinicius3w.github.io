@@ -66,8 +66,6 @@ Os riscos operacionais, por exemplo, podem ser mitigados implementando processos
 
 A transição para uma abordagem de desenvolvimento de software orientada a serviços traz vários benefícios que motivam essa mudança, apesar dos desafios de segurança. Esses benefícios incluem maior flexibilidade, escalabilidade aprimorada e capacidade de integração com vários sistemas e tecnologias. No entanto, para aproveitar totalmente esses benefícios, a segurança deve ser considerada um cidadão de primeira classe no processo de desenvolvimento de software. Isso significa que as considerações de segurança devem ser integradas em todos os estágios do ciclo de vida de desenvolvimento de software, desde a fase de projeto inicial até a fase de manutenção.
 
-Certainly! Below is the translated section about security in RESTful APIs into Brazilian Portuguese (pt-br):
-
 ## Segurança em APIs RESTful
 
 As APIs RESTful (Transferência de Estado Representacional) tornaram-se uma parte integral do desenvolvimento web moderno, possibilitando a comunicação e troca de dados entre várias aplicações. Enquanto sua ubiquidade aumentou a eficiência, também exigiu uma abordagem rigorosa à segurança, que esta seção explorará.
