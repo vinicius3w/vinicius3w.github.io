@@ -202,11 +202,11 @@ ML pode ser usado para extrair informações relevantes dos documentos de requis
 
 #### Testes de Software
 
-Testar software de maneira eficiente e abrangente é um desafio constante na Engenharia de Software. O Aprendizado de Máquina pode ser usado para criar modelos de testes automatizados que identificam padrões de comportamento e detectam possíveis falhas. O artigo "Applying Machine Learning to Test Automation" de Lee Copeland apresenta um estudo sobre a aplicação de técnicas de aprendizado de máquina em testes de software.
+Testar software de maneira eficiente e abrangente é um desafio constante na Engenharia de Software. O Aprendizado de Máquina pode ser usado para criar modelos de testes automatizados que identificam padrões de comportamento e detectam possíveis falhas. O artigo "[The integration of machine learning into automated test generation: A systematic mapping study](https://onlinelibrary.wiley.com/doi/full/10.1002/stvr.1845)" de Afonso Fontes e  Gregory Gay apresenta um estudo sobre a aplicação de técnicas de aprendizado de máquina em testes de software.
 
 #### Gerenciamento de Projetos
 
-O Aprendizado de Máquina pode ser usado para prever o tempo e os recursos necessários para concluir um projeto de software com base em projetos anteriores. Isso ajuda os gerentes a tomarem decisões mais informadas e alocarem recursos de forma mais eficiente. O artigo "Machine Learning-Based Software Project Effort Estimation: A Case Study" de Efi Papatheocharous e Andreas S. Andreou analisa a aplicação do aprendizado de máquina na estimativa de esforço de projetos de software.
+O Aprendizado de Máquina pode ser usado para prever o tempo e os recursos necessários para concluir um projeto de software com base em projetos anteriores. Isso ajuda os gerentes a tomarem decisões mais informadas e alocarem recursos de forma mais eficiente. O artigo "[Machine Learning-based Software Effort Estimation: An Analysis](https://ieeexplore.ieee.org/document/9042031)" de Zdzislaw Polkowski e outros analisa a aplicação do aprendizado de máquina na estimativa de esforço de projetos de software.
 
 #### Implementação de software
 
