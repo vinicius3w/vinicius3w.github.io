@@ -496,7 +496,7 @@ E, outra boa prática é a **Colaboração Contínua**. Ela é fundamental para 
 
 A colaboração contínua é essencial para o sucesso de projetos de software ágeis. Ela garante que todos os membros da equipe e stakeholders estejam alinhados, permite a identificação precoce de problemas, promove a melhoria contínua e aumenta o engajamento e a motivação. Implementando práticas como reuniões diárias, ferramentas de comunicação eficazes e feedback contínuo, as equipes podem melhorar significativamente a qualidade e a eficiência do desenvolvimento de software.
 
-## Como as HUso se relacionam, ou se conectam, com os testes segundo BDD?
+## Como as HUs se relacionam, ou se conectam, com os testes segundo BDD?
 
 [Behavior-Driven Development](https://pt.wikipedia.org/wiki/Behavior_Driven_Development) (BDD) é uma abordagem de desenvolvimento ágil que promove a colaboração entre desenvolvedores, QA e não-programadores ou stakeholders. As histórias de usuário desempenham um papel fundamental no BDD, pois elas fornecem o contexto e os requisitos que guiam a criação de testes comportamentais.
 
