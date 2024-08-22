@@ -26,9 +26,11 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 ## [2024](#2024)
 
+### Periódicos / Journals
+
 1. do Nascimento, Clovis Holanda and **Garcia, Vinicius Cardoso** and Araújo, Ricardo de Andrade, "[**A Word Sense Disambiguation Method Applied to Natural Language Processing for the Portuguese Language**](https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3396518)" in [IEEE Open Journal of the Computer Society](https://www.computer.org/csdl/journal/oj), vol. 5, no. 01, pp. 268--277, ISSN 2644-1268, 2024. doi: [10.1109/OJCS.2024.3396518](https://doi.ieeecomputersociety.org/10.1109/OJCS.2024.3396518)
 1. F. Neves, R. Souza, W. Lima, W. Raul, M. Bonfim, and **V. Garcia**. [**Smart Anonymity: a mechanism for recommending data anonymization algorithms based on data profiles for IoT environments**](https://doi.org/10.1007/s11227-024-06209-3). [Journal of Supercomputing (2024)](https://link.springer.com/journal/11227), pp. 1--45, ISSN 0920-8542, Springer. <https://doi.org/10.1007/s11227-024-06209-3>
-1. Freitas, E., Fonseca, F., **Garcia, V.**, Pontual Falcão, T., Marques, E., Gašević, D., & Ferreira Mello, R. (2024). **MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics**. [Journal of Learning Analytics](https://learning-analytics.info/index.php/JLA/issue/view/503), 11(1), 67--86, ISSN 1929-7750, Society for Learning Analytics Research (SOLAR). <https://doi.org/10.18608/jla.2024.8099>
+1. Freitas, E., Fonseca, F., **Garcia, V.**, Pontual Falcão, T., Marques, E., Gašević, D., & Ferreira Mello, R. (2024). **[MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics](https://doi.org/10.18608/jla.2024.8099)**. [Journal of Learning Analytics](https://learning-analytics.info/index.php/JLA/issue/view/503), 11(1), 67--86, ISSN 1929-7750, Society for Learning Analytics Research (SOLAR). <https://doi.org/10.18608/jla.2024.8099>
 
 ## [2023](#2023)
 
@@ -36,6 +38,10 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 
 1. Neves, F., Souza, R., Sousa, J., Bonfim, M., & **Garcia, V.** (2023). **Data privacy in the Internet of Things based on anonymization: A review**. [Journal of Computer Security](https://content.iospress.com/journals/journal-of-computer-security), 31, 3 (2023), 261--291. <https://doi.org/10.3233/JCS-210089>.
 1. SILVA, Jackson Raniel F. da; DOURADO, Raphael A.; FORTES, Sônia R.; **GARCIA, Vinícius C**.. **Interoperabilidade em LMSs: Uma Revisão Bibliométrica do Estado da Arte**. In: [SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)](https://doi.org/10.5753/sbie.2023), 34. , 2023, Passo Fundo/RS. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 473-485. DOI: <https://doi.org/10.5753/sbie.2023.235367>.
+
+### Artigos em Conferências / Conference papers
+
+1. SILVA, Jackson Raniel F. da; DOURADO, Raphael A.; FORTES, Sônia R.; **GARCIA, Vinícius C.**. **[Interoperabilidade em LMSs: Uma Revisão Bibliométrica do Estado da Arte](https://doi.org/10.5753/sbie.2023.235367)**. In: [SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO (SBIE)](https://sol.sbc.org.br/index.php/sbie/issue/view/1194), 34. , 2023, Passo Fundo/RS. Anais do XXXIV Simpósio Brasileiro de Informática na Educação (SBIE 2023). Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 473-485. <https://doi.org/10.5753/sbie.2023.235367>.
 
 ## [2022](#2022)
 
