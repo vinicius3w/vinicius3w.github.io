@@ -16,7 +16,7 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [ACM Portal](http://portal.acm.org/author_page.cfm?id=81100378574&coll=GUIDE&dl=GUIDE&CFID=82247333&CFTOKEN=13572375#){:target="\_blank"}
 - [CSAuthors](https://www.csauthors.net/vinicius-cardoso-garcia/){:target="\_blank"}
 - [CSIndex](https://csindexbr.org/authors.html?p=Vinicius-Garcia){:target="\_blank"}
-- [DBLP List of publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garcia:Vinicius_Cardoso.html){:target="\_blank"}
+- [DBLP List of publications](https://dblp.org/pid/g/ViniciusCardosoGarcia.html){:target="\_blank"}
 - [Google Scholar :: My citations](http://scholar.google.com/citations?user=qPQabK4AAAAJ){:target="\_blank"}
 - [Microsoft Academic Search](https://academic.microsoft.com/profile/j624415h-i181-4136-fg1h-jhjj414hhfef/ViniciusGarcia/){:target="\_blank"}
 - [ORCID](https://orcid.org/0000-0001-6904-7470){:target="\_blank"}
