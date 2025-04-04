@@ -24,6 +24,12 @@ See also the [ASSERT Lab's](http://assertlab.com) site.
 - [ReasearchGate](https://www.researchgate.net/profile/Vinicius-Garcia){:target="\_blank"}
 - [Scopus Sources](https://www.scopus.com/sources.uri){:target="\_blank"}
 
+## [2025](#2025)
+
+### Artigos em Conferências / Conference papers
+
+1. GOMES, Renata Faria; SANTOS JUNIOR, Ricardo Ferreira Dos; **GARCIA, Vinícius Cardoso**. "[**Exploring Non-CS Learners’ Experience in Brazil**](https://doi.org/10.5753/educomp.2025.4889)". In: Anais do V SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), abril 07, 2025, Juiz de Fora/MG, Brasil. SBC, Porto Alegre, Brasil, 15-26. DOI: https://doi.org/10.5753/educomp.2025.4889. 
+
 ## [2024](#2024)
 
 ### Periódicos / Journals
