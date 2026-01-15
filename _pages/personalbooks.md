@@ -17,13 +17,25 @@ In this context, inspired by my friend [Fernando Castor Personal Books](https://
 - "Getúlio (1930-1945): Do governo provisório à ditadura do Estado Novo" (879 páginas), by Lira Neto
 - "Getúlio (1882-1930) - Dos Anos de Formação à Conquista do Poder" (747 páginas), by Lira Neto
 - "Churchill: Uma vida - Volume 2" (560 páginas), by Martin Gilbert
-- "República de ladrões (Nobres Vigaristas Livro 3)" (744 páginas), by Scott Lynch
 - "O coração do mundo: Uma nova história universal a partir da rota da seda: o encontro do oriente com o ocidente" (688 páginas), by Peter Frankopan
 - "O Lobo do Mar: edição comentada (Clássicos Zahar)" (368 páginas), by Jack London
 - "Padre Cícero – Poder fé e Guerra No Sertão" (560 páginas), by 560 Lira Neto
 - "As grandes estratégias" (487 páginas), by John Lewis Gaddis
 - "O Algoritmo Mestre: Como a busca pelo algoritmo de machine learning definitivo recriará nosso mundo" (377 páginas), by Pedro Domingos
 - "Ele que o abismo viu: Epopeia de Gilgámesh" (336 páginas), by Sin-leqi-unninni
+
+### 2026
+
+- "O senhor da torre: A sombra do corvo: 2" (704 páginas), by Anthony Ryan *(14-Jan-26)*
+- "A canção do sangue: A sombra do corvo: 1" (640 páginas), by Anthony Ryan *(01-Jan-26 + 13 dias)*
+
+### 2025
+
+- "Feliz ano velho" (272 páginas), by Marcelo Rubens Paiva
+
+### 2023
+
+- "República de ladrões (Nobres Vigaristas Livro 3)" (744 páginas), by Scott Lynch
 
 ### 2022
 
